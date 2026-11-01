@@ -559,6 +559,12 @@ explosiveType/fp15;Fp.15
 explosiveType/nipolit;Nipolit
 explosiveType/pbxn_9;PBXN-9
 explosiveType/XP3264;XP3264
+explosiveType/cyclotol_70_30;Cyclotol
+explosiveType/detonite_tnt;Detonite & TNT
+explosiveType/pbxn_10;PBXN-10
+explosiveType/pbxih_18;PBXIH-18
+explosiveType/pbxw_11;PBXW-11
+explosiveType/dpx_6;DPX-6
 ;
 ;
 ;
@@ -742,6 +748,10 @@ weapons/su_rvv_ae/short;RVV-AE
 weapons/su_rvv_ae;Izd.190 | RVV-AE
 weapons/su_rvv_sd/short;RVV-SD
 weapons/su_rvv_sd;Izd.190-1 | RVV-SD
+weapons/su_r_98mr/short;R-98MR;
+weapons/su_r_98mr;Izd.57R | R-98MR;
+weapons/su_r_98mt/short;R-98MT;
+weapons/su_r_98mt;Izd.57T | R-98MT;
 weapons/su_9M39/short;9M39V
 weapons/su_9M39;9M39 Igla-V
 weapons/su_9M336/short;9M336
@@ -966,6 +976,10 @@ weapons/su_rvv_ae_default/short;RVV-AE
 weapons/su_rvv_ae_default;Izd.190 | RVV-AE
 weapons/su_rvv_sd_default/short;RVV-SD
 weapons/su_rvv_sd_default;Izd.190-1 | RVV-SD
+weapons/su_r_98mr_default/short;R-98MR;
+weapons/su_r_98mr_default;Izd.57R | R-98MR;
+weapons/su_r_98mt_default/short;R-98MT;
+weapons/su_r_98mt_default;Izd.57T | R-98MT;
 ;
 weapons/uk_firestreak_default/short;Firestreak
 weapons/uk_firestreak_default;Firestreak
@@ -1728,6 +1742,10 @@ weapons/uk_pgm_2000_iir_wo_mitl;2000 kg PGM 2000/3 guided bomb
 weapons/uk_1000lb_enhanced_paveway2_mk13/short;EPWII
 weapons/uk_1000lb_enhanced_paveway2_mk13;1000lb Enhanced Paveway II guided bomb
 ;
+weapons/jp_500lb_mk82_gcs_1/short;GCS-1 (Type I);
+weapons/jp_500lb_mk82_gcs_1;500lb GCS-1 (Type I);
+weapons/jp_750lb_m117_gcs_1/short;GCS-1 (Type II);
+weapons/jp_750lb_m117_gcs_1;750lb GCS-1 (Type II);
 weapons/kr_kggb/short;KGGB
 weapons/kr_kggb;500 lb KGGB satellite bomb
 ;
@@ -2768,6 +2786,26 @@ weapons/il_360_50_kg_gp/short;360/50 G.P.
 weapons/il_360_50_kg_gp;360/50 kg G.P. bomb
 weapons/il_500_50_kg_gp/short;500/50 G.P.
 weapons/il_500_50_kg_gp;500/50 G.P. bomb
+;
+;
+;
+<Cluster Bombs>;
+;
+weapons/us_cbu_87b/short;CBU-87/B;
+weapons/us_cbu_87b;Bomb, Cluster, CBU-87/B Combined Effects Munition;
+;
+PLACEHOLDER/short;RBK-500 (PTAB-1M);
+PLACEHOLDER;RBK-500 (PTAB-1M);
+PLACEHOLDER/short;RBK-500 (ShoAB-0.5);
+PLACEHOLDER;RBK-500 (ShoAB-0.5);
+PLACEHOLDER/short;RBK-500 (UMPK);
+PLACEHOLDER;RBK-500 (UMPK);
+;
+PLACEHOLDER/short;BL755;
+PLACEHOLDER;BL755;
+;
+weapons/fr_blg66_belouga/short;BLG66;
+weapons/fr_blg66_belouga;BLG66 Belouga;
 ;
 ;
 ;
@@ -6643,6 +6681,9 @@ rim_66c;SM-2MR Blk.1
 fk_2000_rocket;FK-2000
 155mm_ddb01_he;DDB01
 155mm_ddb01_he_vt;DDB01 (VT)
+610mm_mgm_140;MGM-140
+920mm_9m723;9M723
+500mm_9m729;9M729
 ;
 ;
 ;

@@ -424,6 +424,8 @@ modification/MAW_system_heli_false_thermal_targets;MAWS
 modification/MAW_system_heli_false_thermal_targets/desc;Installation of a missile approach warning system, allowing for warnings of incoming missile threats, and the option for automatic countermeasure dispensing.
 modification/MAW_system_heli_false_thermal_targets_large;MAWS
 modification/MAW_system_heli_false_thermal_targets_large/desc;Installation of a missile approach warning system, allowing for warnings of incoming missile threats, and the option for automatic countermeasure dispensing.
+modification/MAW_system_heli_false_thermal_targets_large_dircm;MAWS/DIRCM;
+modification/MAW_system_heli_false_thermal_targets_large_dircm/desc;Installation of both a missile approach warning system, allowing for warnings of incoming missile threats, as well as a DIRCM defense system, allowing for the automatic defense against certain types of optically guided missiles.
 ;
 ;
 ;
@@ -556,6 +558,8 @@ modification/us_aim_9p;AIM-9P-1
 modification/us_aim_9p/desc;Allows the mounting of AIM-9P-1 Sidewinder IR guided air-to-air missiles.
 modification/us_aim_9p4;AIM-9P-4
 modification/us_aim_9p4/desc;Allows the mounting of AIM-9P-4 Sidewinder IR guided air-to-air missiles.
+modification/us_aim_26b;AIM-26B;
+modification/us_aim_26b/desc;Allows the mounting of AIM-26B SARH guided air-to-air missiles.;
 modification/us_aim_54a;AIM-54A
 modification/us_aim_54a/desc;Allows the mounting of AIM-54A Phoenix ARH guided air-to-air missiles.
 modification/us_aim_54c;AIM-54C
@@ -660,6 +664,10 @@ modification/j_11a_rvv_ae;RVV-AE
 modification/j_11a_rvv_ae/desc;Allows the mounting of RVV-AE ARH guided air-to-air missiles.
 modification/su_rvv_sd;RVV-SD
 modification/su_rvv_sd/desc;Allows the mounting of RVV-SD ARH guided air-to-air missiles.
+modification/su_r_98mr;R-98MR;
+modification/su_r_98mr/desc;Allows the mounting of R-98MR SARH guided air-to-air missiles.
+modification/su_r_98mt;R-98MT;
+modification/su_r_98mt/desc;Allows the mounting of R-98MT IR guided air-to-air missiles.
 modification/mi_35_9M39;9M39
 modification/mi_35_9M39/desc;Allows the mounting of 9M39 IR guided air-to-air missiles.
 modification/mi_8_9M336;9M336
@@ -1126,6 +1134,8 @@ modification/uk_mk_13_18/desc;Allows the mounting of the following laser guided 
 modification/uk_paveway_iv;Paveway IV
 modification/uk_paveway_iv/desc;Allows the mounting of Paveway IV laser guided bombs.
 ;
+modification/jp_gcs_1;GCS-1;
+modification/jp_gcs_1/desc;Allows the mounting of the following types of IR guided anti-shipping bombs: {unlockWeapons}
 modification/kr_kggb;KGGB
 modification/kr_kggb/desc;Allows the mounting of KGGB satellite guided bombs.
 ;
@@ -1172,6 +1182,8 @@ modification/fr_pgm_laser/desc;Allows the mounting of the following laser guided
 modification/fr_bgl400_gbu_48;BGL-400 / GBU-48
 modification/fr_bgl400_gbu_48/desc;Allows the mounting of the following laser guided bombs: {unlockWeapons}
 ;
+modification/il_spice;SPICE;
+modification/il_spice/desc;Allows the mounting of the following types of IR guided SPICE bombs: {unlockWeapons};
 modification/il_spice_250_1000;SPICE 250 / 1000
 modification/il_spice_250_1000/desc;Allows the mounting of the following IR guided bombs: {unlockWeapons}
 modification/il_spice_1000;SPICE 1000

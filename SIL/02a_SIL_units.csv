@@ -622,6 +622,10 @@ us_merkava_mk_2b_late_shop;▃Merkava 2B;
 us_merkava_mk_2b_late_0;▃Merkava Siman 2 Bet;
 us_merkava_mk_2b_late_1;▃Merkava 2B;
 us_merkava_mk_2b_late_2;Main Battle Tank;
+us_stingray_2_shop;Stingray II;
+us_stingray_2_0;Stingray II;
+us_stingray_2_1;Stingray II;
+us_stingray_2_2;Light Tank;
 us_xm_8_shop;XM8 AGS;
 us_xm_8_0;105mm Armored Gun System, XM8;
 us_xm_8_1;XM8 AGS;
@@ -1498,6 +1502,12 @@ F-15E-49-MC Strike Eagle
 <color=#c0c0c0>Modification 2008</color>";
 f_15e_1;F-15E;
 f_15e_2;F-15;
+f_15ex_shop;F-15EX;
+f_15ex_0;"<color=#7b9fb5>Boeing Defense, Space & Security</color>
+F-15EX-BO Eagle II
+<color=#c0c0c0>Lot 7</color>";
+f_15ex_1;F-15E;
+f_15ex_2;F-15;
 f3f-2_galer_shop;Galer's F3F-2;
 f3f-2_galer_0;"<color=#7b9fb5>Grumman Aircraft Engineering Corporation</color>
 F3F-2
@@ -1521,6 +1531,10 @@ F2A-1 Buffalo
 <color=#fcba03>John Thach</color>";
 f2a-1_thach_1;F2A-1;
 f2a-1_thach_2;F2A;
+f2a-1_nvidia_shop;
+f2a-1_nvidia_0;
+f2a-1_nvidia_1;
+f2a-1_nvidia_2;
 b_10b_shop;B-10B;
 b_10b_0;"<color=#7b9fb5>Martin Company</color>
 B-10B";
@@ -1711,7 +1725,7 @@ f11f_1_late_shop;F11F-1;
 f11f_1_late_0;"<color=#7b9fb5>Grumman Aircraft Engineering Corporation</color>
 F11F-1 Tiger";
 f11f_1_late_1;F11F-1;
-f11f_1_late_2;F11;
+f11f_1_late_2;F11F;
 f4d_1_shop;F4D-1;
 f4d_1_0;"<color=#7b9fb5>Douglas Aircraft Company</color>
 F4D-1 Skyray";
@@ -1840,6 +1854,11 @@ B-52H-140-BW Stratofortress
 <color=#c0c0c0>Modification 1979</color>";
 b_52h_1;B-52H;
 b_52h_2;B-52;
+fa_18d_late_shop;F/A-18D-52;
+fa_18d_late_0;"<color=#7b9fb5>Boeing Military Aircraft Company</color>
+F/A-18D-52-MC Hornet";
+fa_18d_late_1;F/A-18D;
+fa_18d_late_2;F/A-18;
 ;;
 ;;
 ;;
@@ -1861,16 +1880,11 @@ us_destroyer_mahan_class_0;"<color=#7b9fb5>Mahan Class Destroyer</color>
 USS Mahan (DD-364)";
 us_destroyer_mahan_class_1;Mahan;
 us_destroyer_mahan_class_2;Mahan Class [DD];
-us_destroyer_sumner_shop;Allen M. Sumner;
-us_destroyer_sumner_0;"<color=#7b9fb5>Allen M. Sumner Class Destroyer</color>
-USS Allen M. Sumner (DD-692)";
-us_destroyer_sumner_1;Allen M. Sumner;
-us_destroyer_sumner_2;Allen M. Sumner Class [DD];
-us_destroyer_gearing_shop;Gearing;
-us_destroyer_gearing_0;"<color=#7b9fb5>Gearing Class Destroyer</color>
-USS Gearing (DD-710)";
-us_destroyer_gearing_1;Gearing;
-us_destroyer_gearing_2;Gearing Class [DD];
+us_destroyer_fletcher_shop;Fletcher;
+us_destroyer_fletcher_0;"<color=#7b9fb5>Fletcher Class Destroyer</color>
+USS Fletcher (DD-445)";
+us_destroyer_fletcher_1;Fletcher;
+us_destroyer_fletcher_2;Fletcher Class [DD];
 us_destroyer_porter_1941_shop;Porter;
 us_destroyer_porter_1941_0;"<color=#7b9fb5>Porter Class Destroyer</color>
 USS Porter (DD-356)";
@@ -1896,16 +1910,6 @@ us_cruiser_atlanta_class_atlanta_0;"<color=#7b9fb5>Atlanta Class Light Cruiser</
 USS Atlanta (CL-51)";
 us_cruiser_atlanta_class_atlanta_1;Atlanta;
 us_cruiser_atlanta_class_atlanta_2;Atlanta Class [CL];
-us_cruiser_fargo_class_shop;Fargo;
-us_cruiser_fargo_class_0;"<color=#7b9fb5>Fargo Class Light Cruiser</color>
-USS Fargo (CL-106)";
-us_cruiser_fargo_class_1;Fargo;
-us_cruiser_fargo_class_2;Fargo Class [CL];
-us_cruiser_brooklyn_class_brooklyn_shop;Brooklyn;
-us_cruiser_brooklyn_class_brooklyn_0;"<color=#7b9fb5>Brooklyn Class Light Cruiser</color>
-USS Brooklyn (CL-40)";
-us_cruiser_brooklyn_class_brooklyn_1;Brooklyn;
-us_cruiser_brooklyn_class_brooklyn_2;Brooklyn Class [CL];
 us_cruiser_worcester_class_roanoke_shop;Roanoke;
 us_cruiser_worcester_class_roanoke_0;"<color=#7b9fb5>Worcester Class Light Cruiser</color>
 USS Roanoke (CL-145)";
@@ -1945,11 +1949,11 @@ USS Gridley (DD-380)
 <color=#c0c0c0>1943 Refit</color>";
 us_destroyer_gridley_1;Gridley;
 us_destroyer_gridley_2;Gridley Class [DD];
-us_destroyer_fletcher_shop;Fletcher;
-us_destroyer_fletcher_0;"<color=#7b9fb5>Fletcher Class Destroyer</color>
-USS Fletcher (DD-445)";
-us_destroyer_fletcher_1;Fletcher;
-us_destroyer_fletcher_2;Fletcher Class [DD];
+us_destroyer_bagley_class_bagley_shop;Bagley;
+us_destroyer_bagley_class_bagley_0;"<color=#7b9fb5>Bagley Class Destroyer</color>
+USS Bagley (DD-386)";
+us_destroyer_bagley_class_bagley_1;Bagley;
+us_destroyer_bagley_class_bagley_2;Bagley Class [DD];
 us_destroyer_mitscher_shop;Mitscher;
 us_destroyer_mitscher_0;"<color=#7b9fb5>Mitscher Class Destroyer Leader</color>
 USS Mitscher (DL-2)";
@@ -1971,24 +1975,21 @@ us_cruiser_portland_class_shop;Portland;
 us_cruiser_portland_class_0;"<color=#7b9fb5>Portland Class Heavy Cruiser</color>
 USS Portland (CA-33)
 <color=#c0c0c0>1942 Refit</color>";
-us_cruiser_portland_class_1;Portland;
-us_cruiser_portland_class_2;Portland Class [CA];
-us_cruiser_oregon_class_shop;Oregon City;
-us_cruiser_oregon_class_0;"<color=#7b9fb5>Oregon City Class Heavy Cruiser</color>
-USS Oregon City (CA-122)";
-us_cruiser_oregon_class_1;Oregon City;
-us_cruiser_oregon_class_2;Oregon City Class [CA];
-us_cruiser_pensacola_class_shop;Pensacola;
-us_cruiser_pensacola_class_0;"<color=#7b9fb5>Pensacola Class Heavy Cruiser</color>
-USS Pensacola (CA-24)
-<color=#c0c0c0>1941 Refit</color>";
-us_cruiser_pensacola_class_1;Pensacola;
-us_cruiser_pensacola_class_2;Pensacola Class [CA];
 us_cruiser_cleveland_class_cleveland_shop;Cleveland;
 us_cruiser_cleveland_class_cleveland_0;"<color=#7b9fb5>Cleveland Class Light Cruiser</color>
 USS Cleveland (CL-55)";
 us_cruiser_cleveland_class_cleveland_1;Cleveland;
 us_cruiser_cleveland_class_cleveland_2;Cleveland Class [CL];
+us_cruiser_fargo_class_shop;Fargo;
+us_cruiser_fargo_class_0;"<color=#7b9fb5>Fargo Class Light Cruiser</color>
+USS Fargo (CL-106)";
+us_cruiser_fargo_class_1;Fargo;
+us_cruiser_fargo_class_2;Fargo Class [CL];
+us_cruiser_brooklyn_class_brooklyn_shop;Brooklyn;
+us_cruiser_brooklyn_class_brooklyn_0;"<color=#7b9fb5>Brooklyn Class Light Cruiser</color>
+USS Brooklyn (CL-40)";
+us_cruiser_brooklyn_class_brooklyn_1;Brooklyn;
+us_cruiser_brooklyn_class_brooklyn_2;Brooklyn Class [CL];
 us_battleship_north_dakota_shop;North Dakota;
 us_battleship_north_dakota_0;"<color=#7b9fb5>Delaware Class Battleship</color>
 USS North Dakota (BB-29)
@@ -2029,12 +2030,41 @@ us_cruiser_northampton_class_shop;Northampton;
 us_cruiser_northampton_class_0;"<color=#7b9fb5>Northampton Class Heavy Cruiser</color>
 USS Northampton (CA-26)
 <color=#c0c0c0>1941 Refit</color>";
+us_erie_class_shop;Erie;
+us_erie_class_0;"<color=#7b9fb5>Erie Class Gunboat</color>
+USS Erie (PG-50)
+<color=#c0c0c0>1944 Refit</color>";
+us_erie_class_1;Erie;
+us_erie_class_2;Erie Class Gunboat;
+us_destroyer_sumner_shop;Allen M. Sumner;
+us_destroyer_sumner_0;"<color=#7b9fb5>Allen M. Sumner Class Destroyer</color>
+USS Allen M. Sumner (DD-692)";
+us_destroyer_sumner_1;Allen M. Sumner;
+us_destroyer_sumner_2;Allen M. Sumner Class [DD];
+us_destroyer_gearing_shop;Gearing;
+us_destroyer_gearing_0;"<color=#7b9fb5>Gearing Class Destroyer</color>
+USS Gearing (DD-710)";
+us_destroyer_gearing_1;Gearing;
+us_destroyer_gearing_2;Gearing Class [DD];
 us_cruiser_northampton_class_1;Northampton;
 us_cruiser_northampton_class_2;Northampton Class [CA];
 us_cruiser_new_orleans_class_shop;New Orleans;
 us_cruiser_new_orleans_class_0;"<color=#7b9fb5>New Orleans Class Heavy Cruiser</color>
 USS New Orleans (CA-32)
 <color=#c0c0c0>1945 Refit</color>";
+us_cruiser_portland_class_1;Portland;
+us_cruiser_portland_class_2;Portland Class [CA];
+us_cruiser_oregon_class_shop;Oregon City;
+us_cruiser_oregon_class_0;"<color=#7b9fb5>Oregon City Class Heavy Cruiser</color>
+USS Oregon City (CA-122)";
+us_cruiser_oregon_class_1;Oregon City;
+us_cruiser_oregon_class_2;Oregon City Class [CA];
+us_cruiser_pensacola_class_shop;Pensacola;
+us_cruiser_pensacola_class_0;"<color=#7b9fb5>Pensacola Class Heavy Cruiser</color>
+USS Pensacola (CA-24)
+<color=#c0c0c0>1941 Refit</color>";
+us_cruiser_pensacola_class_1;Pensacola;
+us_cruiser_pensacola_class_2;Pensacola Class [CA];
 us_cruiser_new_orleans_class_1;New Orleans;
 us_cruiser_new_orleans_class_2;New Orleans Class [CA];
 us_cruiser_baltimore_class_pittsburgh_shop;Pittsburgh;
@@ -2048,6 +2078,11 @@ us_battlecruiser_alaska_class_0;"<color=#7b9fb5>Alaska Class Large Cruiser</colo
 USS Alaska (CB-1)";
 us_battlecruiser_alaska_class_1;Alaska;
 us_battlecruiser_alaska_class_2;Alaska Class [CB];
+us_sub_tang_shop;Tang;
+us_sub_tang_0;"<color=#7b9fb5>Tang Class Submarine</color>
+USS Tang (SS-563)";
+us_sub_tang_1;Tang;
+us_sub_tang_2;Tang Class [SS];
 us_destroyer_clemson_welborn_c_wood_shop;Welborn C. Wood;
 us_destroyer_clemson_welborn_c_wood_0;"<color=#7b9fb5>Clemson Class Destroyer</color>
 USS Welborn C. Wood (DD-195)";
@@ -2132,11 +2167,6 @@ us_destroyer_fletcher_bennion_0;"<color=#7b9fb5>Fletcher Class Destroyer</color>
 USS Bennion (DD-662)";
 us_destroyer_fletcher_bennion_1;Bennion;
 us_destroyer_fletcher_bennion_2;Fletcher Class [DD];
-us_destroyer_bagley_class_bagley_shop;Bagley;
-us_destroyer_bagley_class_bagley_0;"<color=#7b9fb5>Bagley Class Destroyer</color>
-USS Bagley (DD-386)";
-us_destroyer_bagley_class_bagley_1;Bagley;
-us_destroyer_bagley_class_bagley_2;Bagley Class [DD];
 us_battleship_colorado_class_maryland_shop;Maryland;
 us_battleship_colorado_class_maryland_0;"<color=#7b9fb5>Colorado Class Battleship</color>
 USS Maryland (BB-46)
@@ -2582,6 +2612,10 @@ germ_leopard_2a7v_shop;KPz Leopard 2 A7V;
 germ_leopard_2a7v_0;Panzer, Kampf-, Vollkette mit Kanone 120mm, KPz Leopard 2 A7V;
 germ_leopard_2a7v_1;KPz Leopard 2 A7V;
 germ_leopard_2a7v_2;Main Battle Tank;
+germ_leopard_2a8_shop;KPz Leopard 2 A8
+germ_leopard_2a8_0;Panzer, Kampf-, Vollkette mit Kanone 120mm, KPz Leopard 2 A8
+germ_leopard_2a8_1;KPz Leopard 2 A8
+germ_leopard_2a8_2;Main Battle Tank
 germ_flakpanzer_I_ausf_A_shop;FlakPz.I;
 germ_flakpanzer_I_ausf_A_0;2cm FlaK.38 auf Panzerkampfwagen I Ausf. A;
 germ_flakpanzer_I_ausf_A_1;FlakPz.I;
@@ -3003,6 +3037,12 @@ germ_panzerbefelhswagen_jagdpanther_0;"<color=#c8a5b2>Sd.Kfz.173</color>
 Panzerjäger-Befehlswagen Panther (8,8cm) Ausf. G1";
 germ_panzerbefelhswagen_jagdpanther_1;Bfw.Jagdpanther;
 germ_panzerbefelhswagen_jagdpanther_2;Tank Destroyer;
+germ_panzerjager_panther_g2_shop;Jagdpanther G2;
+germ_panzerjager_panther_g2_0;"<color=#c8a5b2>Sd.Kfz.172</color>
+Panzerjäger Panther (8,8cm) Ausf. G2
+<color=#c0c0c0>mit Entfernungsmesser 0.9 m R</color>";
+germ_panzerjager_panther_g2_1;Jagdpanther G2;
+germ_panzerjager_panther_g2_2;Tank Destroyer;
 germ_spz_12_3_shop;SPz lg 12-3 (LGs);
 germ_spz_12_3_0;"Panzer, Schützen-, Vollkette Gruppe, Kanone 20mm und
 Leichtegeschütz 106mm, SPz lang 12-3";
@@ -3816,6 +3856,11 @@ fw_189c_0_0;"<color=#7b9fb5>Focke-Wulf Flugzeugbau AG</color>
 Fw 189 V6 Uhu";
 fw_189c_0_1;Fw 189 V;
 fw_189c_0_2;Fw 189;
+bf-109e-3_tl_shop;◆Bf 109 E-3/B;
+bf-109e-3_tl_0;"<color=#7b9fb5>Messerschmitt AG</color>
+◆Bf 109 E-3/B";
+bf-109e-3_tl_1;◆Bf 109 E;
+bf-109e-3_tl_2;◆Bf 109;
 mc200_serie3_shop;▀C.200/III;
 mc200_serie3_0;"<color=#7b9fb5>Aeronautical Macchi S.p.A.</color>
  ▀C.200 Serie III Saetta";
@@ -3925,6 +3970,18 @@ bv-155b-1_0;"<color=#7b9fb5>Blohm & Voss</color>
 BV 155 B-1";
 bv-155b-1_1;BV 155 B;
 bv-155b-1_2;BV 155;
+fw_190a_8_mistel_shop;Fw 190 A-8 (Mistel);
+fw_190a_8_mistel_0;"<color=#7b9fb5>Focke-Wulf Flugzeugbau AG</color>
+Fw 190 A-8 Würger
+<color=#c0c0c0>Mistel 2</color>";
+fw_190a_8_mistel_1;Fw 190 A;
+fw_190a_8_mistel_2;Fw 190;
+ju_88g_1_mistel_shop;Mistel 2;
+ju_88g_1_mistel_0;"<color=#7b9fb5>Junkers Flugzeug- Und Motorenwerke AG</color>
+Ju 88 G-1
+<color=#c0c0c0>Mistel 2</color>";
+ju_88g_1_mistel_1;Mistel 2;
+ju_88g_1_mistel_2;Mistel;
 he_219a_7_shop;He 219 A-7;
 he_219a_7_0;"<color=#7b9fb5>Heinkel Flugzeugwerke</color>
 He 219 A-7 Uhu";
@@ -4172,6 +4229,11 @@ Bismarck
 <color=#c0c0c0>1941 Refit</color>";
 germ_battleship_bismarck_1;Bismarck;
 germ_battleship_bismarck_2;Bismarck Class [BB];
+germ_battleship_pr_h39_shop;H 39;
+germ_battleship_pr_h39_0;"<color=#7b9fb5>Schlachtschiff H-Klasse</color>
+H 39";
+germ_battleship_pr_h39_1;H 39;
+germ_battleship_pr_h39_2;H Class [BB];
 germ_kanonenboot_k4_lorelei_shop;Lorelei;
 germ_kanonenboot_k4_lorelei_0;"<color=#7b9fb5>Fregatte K-Klasse</color>
 K 4 Lorelei
@@ -4247,6 +4309,11 @@ Scharnhorst
 <color=#c0c0c0>1943 Refit</color>";
 germ_battleship_scharnhorst_1;Scharnhorst;
 germ_battleship_scharnhorst_2;Scharnhorst Class [CB];
+germ_sub_type_7_shop;U 995;
+germ_sub_type_7_0;"<color=#7b9fb5>U-Boot Typ VIIC/41-Klasse</color>
+U 995";
+germ_sub_type_7_1;U 995;
+germ_sub_type_7_2;Type VII Class [SS];
 germ_destroyer_class1924_iltis_shop;Luchs;
 germ_destroyer_class1924_iltis_0;"<color=#7b9fb5>Torpedoboot Typ 1924</color>
 Luchs
@@ -4473,6 +4540,10 @@ germ_s_700_s_701_shop;S 701;
 germ_s_700_s_701_0;Schnellboot, S 701;
 germ_s_700_s_701_1;S 701;
 germ_s_700_s_701_2;Torpedo Boat;
+germ_s_700_s_706_shop;S 706;
+germ_s_700_s_706_0;Schnellboot, S 706;
+germ_s_700_s_706_1;S 706;
+germ_s_700_s_706_2;Torpedo Boat;
 germ_escort_typem1943_shop;M 601;
 germ_escort_typem1943_0;Minensuchboot Typ 1943 | M 601;
 germ_escort_typem1943_1;M 601;
@@ -4947,6 +5018,11 @@ ussr_9p157_0;"<color=#c8a5b2>Object 699</color>
 <color=#7b9fb5>Khrizantema-S</color>";
 ussr_9p157_1;Khrizantema-S;
 ussr_9p157_2;Missile Carrier;
+ussr_btr_90_2004_shop;BTR-90 (Berezhok);
+ussr_btr_90_2004_0;"BTR-90
+<color=#c0c0c0>S boyevm modulem «Berezhok»</color>";
+ussr_btr_90_2004_1;BTR-90 (Berezhok);
+ussr_btr_90_2004_2;Light Tank;
 ussr_bmpt_shop;BMPT;
 ussr_bmpt_0;"<color=#c8a5b2>Object 199</color>
 BMPT obr.2002 g.
@@ -5119,6 +5195,11 @@ ussr_bm_8_24_shop;BM-8-24;
 ussr_bm_8_24_0;BM-8-24;
 ussr_bm_8_24_1;BM-8-24;
 ussr_bm_8_24_2;Tank Destroyer;
+ussr_bt_7_m_816_shop;◆BT-7M;
+ussr_bt_7_m_816_0;"<color=#7b9fb5>Object A-8</color>
+◆BT-7M obr.1940 g.";
+ussr_bt_7_m_816_1;◆BT-7M;
+ussr_bt_7_m_816_2;Light Tank;
 ussr_pzkpfw_III_ausf_J_L42_shop;▂T-IIIJ;
 ussr_pzkpfw_III_ausf_J_L42_0;▂T-IIIJ obr.1941 g.;
 ussr_pzkpfw_III_ausf_J_L42_1;▂T-IIIJ;
@@ -6658,6 +6739,11 @@ ussr_battleship_imperatritsa_mariya_0;"<color=#7b9fb5>Lineynyy Korabl’ Tip Imp
 Imperatritsa Mariya";
 ussr_battleship_imperatritsa_mariya_1;Imperatritsa Mariya;
 ussr_battleship_imperatritsa_mariya_2;Tip Imperatritsa Mariya [BB];
+ussr_battleship_imperator_nikolai_pervyi_shop;Nikolay Perviy;
+ussr_battleship_imperator_nikolai_pervyi_0;"<color=#7b9fb5>Lineynyy Korabl' Tip Nikolay Perviy</color>
+Nikolay Perviy";
+ussr_battleship_imperator_nikolai_pervyi_1;Nikolay Perviy;
+ussr_battleship_imperator_nikolai_pervyi_2;Tip Nikolai Perviy [BB];
 ussr_battlecruiser_izmail_shop;Izmail;
 ussr_battlecruiser_izmail_0;"<color=#7b9fb5>Lineynyy Korabl’ Tip Izmail</color>
 Izmail";
@@ -6680,6 +6766,12 @@ ussr_destroyer_kerch_0;"<color=#7b9fb5>Èskadrennyj Minonosec Tip Fidonisy</colo
 Kerch";
 ussr_destroyer_kerch_1;Kerch;
 ussr_destroyer_kerch_2;Tip Fidonisy [DD];
+ussr_destroyer_vifor_class_lyogkiy_shop;Lyogkiy;
+ussr_destroyer_vifor_class_lyogkiy_0;"<color=#7b9fb5>Èskadrennyj Minonosec Tip Vifor</color>
+Lyogkiy
+<color=#c0c0c0>1944 Refit</color>";
+ussr_destroyer_vifor_class_lyogkiy_1;Lyogkiy;
+ussr_destroyer_vifor_class_lyogkiy_2;Tip Vifor [DD]
 ussr_destroyer_7_ryany_shop;Ryany;
 ussr_destroyer_7_ryany_0;"<color=#7b9fb5>Project 7</color>
 <color=#7b9fb5>Èskadrennyj Minonosec Tip Gnevny</color>
@@ -7401,6 +7493,10 @@ uk_centurion_shot_kal_d_shop;▄Sho’t Kal D;
 uk_centurion_shot_kal_d_0;▄Sho’t Kal Dalet;
 uk_centurion_shot_kal_d_1;▄Sho’t Kal D;
 uk_centurion_shot_kal_d_2;Main Battle Tank;
+uk_olifant_optimering_shop;Olifant Mk.1B;
+uk_olifant_optimering_0;Olifant Mk.1B Optimum;
+uk_olifant_optimering_1;Olifant Mk.1B;
+uk_olifant_optimering_2;Main Battle Tank;
 uk_challenger_1_mk_3_gulf_shop;Challenger Mk.3 (R.S.D.G.);
 uk_challenger_1_mk_3_gulf_0;"<color=#c8a5b2>FV4030/4</color>
 Tank, Combat, 120mm Gun, Challenger Mk.3
@@ -7820,6 +7916,11 @@ blenheim_mkiv_0;"<color=#7b9fb5>British Aeroplane Company Ltd.</color>
 Blemheim Mk. IV";
 blenheim_mkiv_1;Blenheim Mk. IV;
 blenheim_mkiv_2;Blenheim;
+fulmar_mk2_shop;Fulmar Mk. II;
+fulmar_mk2_0;"<color=#7b9fb5>Fairey Aviation Company Ltd.</color>
+Fulmar Mk. II";
+fulmar_mk2_1;Fulmar Mk. II;
+fulmar_mk2_2;Fulmar;
 hurricane_mk4_shop;Hurricane Mk. IV;
 hurricane_mk4_0;"<color=#7b9fb5>Hawker Aircraft Ltd.</color>
 Hurricane Mk. IV";
@@ -8549,6 +8650,12 @@ HMS Barham (04)
 <color=#c0c0c0>1916 Refit</color>";
 uk_battleship_q_elizabet_class_barham_1;Barham;
 uk_battleship_q_elizabet_class_barham_2;Queen Elizabeth Class [BB];
+uk_battleship_duke_of_york_shop;Duke of York;
+uk_battleship_duke_of_york_0;"<color=#7b9fb5>King George V Class Battleship</color>
+HMS Duke of York (17)
+<color=#c0c0c0>1943 Refit</color>";
+uk_battleship_duke_of_york_1;Duke of York;
+uk_battleship_duke_of_york_2;King George V Class [BB];
 uk_battlecruiser_repulse_shop;Repulse;
 uk_battlecruiser_repulse_0;"<color=#7bf9b5>Renown Class Battlecruiser</color>
 HMS Repulse (34)
@@ -9808,6 +9915,12 @@ Haguro
 <color=#c0c0c0>1944 Refit</color>";
 jp_cruiser_haguro_1;Haguro;
 jp_cruiser_haguro_2;Myōkō Class [CA];
+jp_cruiser_takao_shop;Takao;
+jp_cruiser_takao_0;"<color=#7b9fb5>Takao Class Heavy Cruiser</color>
+Takao
+<color=#c0c0c0>1944 Refit</color>";
+jp_cruiser_takao_1;Takao
+jp_cruiser_takao_2;Takao Class [CA];
 jp_cruiser_tone_shop;Tone;
 jp_cruiser_tone_0;"<color=#7b9fb5>Tone Class Heavy Cruiser</color>
 Tone
@@ -10437,6 +10550,11 @@ cn_hj_9_shop;AFT09;
 cn_hj_9_0;AFT09 Anti-Tank Missile Launch Vehicle;
 cn_hj_9_1;AFT09;
 cn_hj_9_2;Missile Carrier;
+cn_zbd_04_shop;ZBD04;
+cn_zbd_04_0;"<color=#c8a5b2>WZ502</color>
+ZBD2004 Infantry Fighting Vehicle";
+cn_zbd_04_1;ZBD04
+cn_zbd_04_2;Infantry Fighting Vehicle;
 cn_zbd_04a_shop;ZBD04A;
 cn_zbd_04a_0;"<color=#c8a5b2>WZ502G</color>
 ZBD2004A Infantry Fighting Vehicle";
@@ -10726,6 +10844,9 @@ quing_6_0;"<color=#7b9fb5>Beriev Design Bureau | OKB-49</color>
 Qīng 6";
 quing_6_1;Qīng 6;
 quing_6_2;Qīng 6;
+q_5d_shop;Q5D
+q_5d_0;"<color=#7b9fb5>Nanchang Aircraft Manufacturing Corporation</color>
+Q5D";
 j_7d_shop;J7D;
 j_7d_0;"<color=#7b9fb5>Chengdu Aircraft Corporation</color>
 J7D";
@@ -10924,6 +11045,11 @@ it_fiat_cm52_shop;CM 52;
 it_fiat_cm52_0;Complesso da 12.7mm su CM 52;
 it_fiat_cm52_1;CM 52;
 it_fiat_cm52_2;SPAA;
+it_lancia_flak38_shop;3Ro (Fla.K.38);
+it_lancia_flak38_0;"Lancia 3Ro
+<color=#c0c0c0>con 20mm Fla.K. 38</color>";
+it_lancia_flak38_1;3Ro (Fla.K.38);
+it_lancia_flak38_2;SPAA;
 it_m15_42_contraereo_shop;M15/42 Antiaereo;
 it_m15_42_contraereo_0;Semovente M15/42 Antiaereo da 20/70;
 it_m15_42_contraereo_1;M15/42 Antiaereo;
@@ -11152,6 +11278,11 @@ a_129_d_0;"<color=#7b9fb5>AgustaWestland</color>
 Elicottero da Esplorazione e Scorta, AH-129D Mangusta";
 a_129_d_1;AH-129D;
 a_129_d_2;AH-129;
+aw_249_pre_serie_shop;AH-249A;
+aw_249_pre_serie_0;"<color=#7b9fb5>Leonardo Helicopters S.p.A.</color>
+AH-249A Fenice";
+aw_249_pre_serie_1;AH-249A;
+aw_249_pre_serie_2;AH-249;
 a_129_a_shop;A129 (ATP);
 a_129_a_0;"<color=#7b9fb5>Agusta</color>
 A129 International (Armament Testbed Prototype)";
@@ -11730,6 +11861,12 @@ Italia
 <color=#c0c0c0>1943 Refit</color>";
 it_battleship_littorio_class_littorio_1;Italia;
 it_battleship_littorio_class_littorio_2;Littorio Class [BB];
+it_destroyer_audace_shop;Audace;
+it_destroyer_audace_0;"<color=#7b9fb5>Cacciatorpediniere Classe Audace</color>
+Audace (D 551)
+<color=#c0c0c0>1973 Refit</color>";
+it_destroyer_audace_1;Audace;
+it_destroyer_audace_2;Audace Class [DD];
 it_destroyer_aquilone_shop;Aquilone;
 it_destroyer_aquilone_0;"<color=#7b9fb5>Cacciatorpediniere Classe Turbine</color>
 Aquilone
@@ -11742,12 +11879,12 @@ Geniere (D 555)
 <color=#c0c0c0>1972 Refit</color>";
 it_destroyer_fletcher_geniere_1;Geniere (1972);
 it_destroyer_fletcher_geniere_2;Fante Class [DD];
-it_destroyer_cadorna_class_cadorna_shop;Luigi Cadorna;
-it_destroyer_cadorna_class_cadorna_0;"<color=#7b9fb5>Incrociatore Leggero Classe Luigi Cadorna</color>
+it_cruiser_cadorna_class_cadorna_shop;Luigi Cadorna;
+it_cruiser_cadorna_class_cadorna_0;"<color=#7b9fb5>Incrociatore Leggero Classe Luigi Cadorna</color>
 Luigi Cadorna
 <color=#c0c0c0>1944 Refit</color>";
-it_destroyer_cadorna_class_cadorna_1;Luigi Cadorna;
-it_destroyer_cadorna_class_cadorna_2;Condottiere Class [CL];
+it_cruiser_cadorna_class_cadorna_1;Luigi Cadorna;
+it_cruiser_cadorna_class_cadorna_2;Condottiere Class [CL];
 it_destroyer_leone_class_tigre_shop;Tigre;
 it_destroyer_leone_class_tigre_0;"<color=#7b9fb5>Cacciatorpediniere Classe Leone</color>
 Tigre
@@ -12161,6 +12298,10 @@ fr_amx_30_dca_0;"AMX 30 SA bitube de 30 mm
 <color=#c0c0c0>avec tourelle S 401 A</color>";
 fr_amx_30_dca_1;AMX 30 SA;
 fr_amx_30_dca_2;SPAA;
+fr_prtl_shop;Cheetah PRTL CA1;
+fr_prtl_0;Cheetah Panser Rups Tegen Luchtdoelen CA1;
+fr_prtl_1;Cheetah PRTL CA1;
+fr_prtl_2;SPAA;
 fr_vab_santal_shop;VDAA SANTAL;
 fr_vab_santal_0;"Véhicule de Défense Anti-Aérienne,
 Systeme Anti-aerien Autonome Leger";
@@ -12939,6 +13080,17 @@ Le Malin (X 82)
 <color=#c0c0c0>1943 Refit</color>";
 fr_destroyer_le_fantasque_class_le_malin_1;Le Malin;
 fr_destroyer_le_fantasque_class_le_malin_2;Le Fantasque Class [DD];
+fr_destroyer_mogador_class_mogador_shop;Mogador;
+fr_destroyer_mogador_class_mogador_0;"<color=#7b9fb5>Contre-Torpilleur de Classe Mogador</color>
+Mogador (X 61)
+<color=#c0c0c0>1940 Refit</color>";
+fr_destroyer_mogador_class_mogador_1;Mogador;
+fr_destroyer_mogador_class_mogador_2;Mogador Class [DD];
+fr_destroyer_le_hardi_class_le_hardi_shop;Le Hardi;
+fr_destroyer_le_hardi_class_le_hardi_0;"<color=#7b9fb5>Contre-Torpilleur de Classe Le Hardi</color>
+Le Hardi (X 102)";
+fr_destroyer_le_hardi_class_le_hardi_1;Le Hardi;
+fr_destroyer_le_hardi_class_le_hardi_2;Le Hardi Class [DD];
 fr_cruiser_dugauy_class_primaguet_shop;Primauguet;
 fr_cruiser_dugauy_class_primaguet_0;"<color=#7b9fb5>Croiseur Léger de Classe Duguay-Trouin</color>
 Primauguet
@@ -13010,12 +13162,6 @@ Marceau (D 601)
 <color=#c0c0c0>1950 Refit</color>";
 fr_destroyer_marceau_class_marceau_1;Marceau;
 fr_destroyer_marceau_class_marceau_2;Type 1936A Class [DD];
-fr_destroyer_mogador_class_mogador_shop;Mogador;
-fr_destroyer_mogador_class_mogador_0;"<color=#7b9fb5>Contre-Torpilleur de Classe Mogador</color>
-Mogador (X 61)
-<color=#c0c0c0>1940 Refit</color>";
-fr_destroyer_mogador_class_mogador_1;Mogador;
-fr_destroyer_mogador_class_mogador_2;Mogador Class [DD];
 fr_cruiser_jeanne_darc_shop;Jeanne d’Arc;
 fr_cruiser_jeanne_darc_0;"<color=#7b9fb5>Croiseur Léger</color>
 Jeanne d’Arc
@@ -13141,6 +13287,10 @@ fr_type40k_vedette_shop;VTB 19;
 fr_type40k_vedette_0;40k Class, Vedette Torpile B 19;
 fr_type40k_vedette_1;VTB 19;
 fr_type40k_vedette_2;Torpedo Boat;
+fr_vc1_shop;VC 1;
+fr_vc1_0;VC 1;
+fr_vc1_1;VC 1;
+fr_vc1_2;Gunboat;
 fr_adroit_class_shop;L’Intrepide;
 fr_adroit_class_0;Adroit Class Aviso, L’Intrepide (P 630);
 fr_adroit_class_1;L’Intrepide;
@@ -13206,6 +13356,11 @@ fr_vtb9_shop;VTB 9;
 fr_vtb9_0;Vedette Torpile B 9;
 fr_vtb9_1;VTB 9;
 fr_vtb9_2;Torpedo Boat;
+fr_l990_monitor_shop;L 990;
+fr_l990_monitor_0;"<color=#7b9fb5>Monitor</color>
+L 990";
+fr_l990_monitor_1;L 990;
+fr_l990_monitor_2;Gunboat;
 fr_vlt2_shop;VLT 2;
 fr_vlt2_0;Vedette Lance Torpile 2;
 fr_vlt2_1;VLT 2;
@@ -13806,6 +13961,12 @@ JA 37Di Viggen
 <color=#fcba03>Norrbottens flygflottilj F 21</color>";
 saab_ja37di_f21_1;JA 37D;
 saab_ja37di_f21_2;JA 37;
+saab_jas39_pre_serie_shop;JAS 39 (39-5);
+saab_jas39_pre_serie_0;"<color=#7b9fb5>Saab AB</color>
+JAS 39 Gripen
+</color=#c0c0c0>Prototype 39-5</color>";
+saab_jas39_pre_serie_1;JAS 39 (39-5);
+saab_jas39_pre_serie_2;JAS 39;
 mosquito_j30_sweden_shop;J 30;
 mosquito_j30_sweden_0;"<color=#7b9fb5>de Havilland Aircraft Company Ltd.</color>
 J 30 Mygga";
@@ -14240,6 +14401,11 @@ f_15i_raam_0;"<color=#7b9fb5>Boeing Military Airplane Company</color>
 <color=#c0c0c0>shinuy 2006</color>";
 f_15i_raam_1;F-15I;
 f_15i_raam_2;F-15;
+f_15ia_shop;F-15IA;
+f_15ia_0;"<color=#7b9fb5>Boeing Defense, Space & Security</color>
+F-15IA-BO Ra'am II;
+f_15ia_1;F-15I;
+f_15ia_2;F-15;
 spitfire_lf_mk9e_weisman_shop;Weizman’s Spitfire L.F. IXe;
 spitfire_lf_mk9e_weisman_0;"<color=#7b9fb5>Supermarine Aviation Works Ltd.</color>
 Spitfire L.F. Mk. IXe Yorek
@@ -14529,6 +14695,10 @@ it_39m_csaba_shop;Csaba;
 it_39m_csaba_0;39.M Csaba;
 it_39m_csaba_1;Csaba;
 it_39m_csaba_2;Armored Car;
+it_v_4_straussler_shop;V-4/40;
+it_v_4_straussler_0;V-4/40;
+it_v_4_straussler_1;V-4/40;
+it_v_4_straussler_2;Light Tank;
 it_40m_turan_1_shop;Turán I;
 it_40m_turan_1_0;40.M Turán I;
 it_40m_turan_1_1;Turán I;
@@ -15907,6 +16077,11 @@ alpha_jet_th_phase_1_0;"<color=#7b9fb5>Dornier Flugzeugwerke</color>
 <color=#c0c0c0>Phase 1</color>";
 alpha_jet_th_phase_1_1;⚌Alpha Jet TH;
 alpha_jet_th_phase_1_2;⚌Alpha Jet;
+firefly_mk1_thailand_shop;⚌Firefly F. I;
+firefly_mk1_thailand_0;"<color=#7b9fb5>Fairey Aviation Company Ltd.</color>
+⚌Firefly F. Mk. I";
+firefly_mk1_thailand_1;⚌Firefly F.;
+firefly_mk1_thailand_2;⚌Firefly;
 sb2c_5_thailand_shop;⚌SB2C-5;
 sb2c_5_thailand_0;"<color=#7b9fb5>Curtiss-Wright Corporation</color>
 ⚌SB2C-5 Helldiver";
@@ -16621,6 +16796,10 @@ Norwegian Advanced Surface-to-Air Missile System
 <color=#c0c0c0>Multi-Mission Launcher</color>";
 sw_nasams_launcher_1;◢P113H (MML);
 sw_nasams_launcher_2;SAM;
+sw_leopard_2a8_shop;◢Leopard 2 A8NO;
+sw_leopard_2a8_0;◢Stridsvogn, Helbelte, Leopard 2 A8NO;
+sw_leopard_2a8_1;◢Leopard 2 A8NO;
+sw_leopard_2a8_2;Main Battle Tank;
 sw_k9_vidar_shop;◢K9 (VIDAR);
 sw_k9_vidar_0;"◢Artillerivogn, K9 Thunder
 <color=#c0c0c0>Versatile Indirect Firing System</color>";
@@ -16645,6 +16824,11 @@ kfir_c10_colombia_2;◡Kfir;
 ;;
 <IDN Army>;;
 ;;
+jp_bmp_3f_shop;◥BMP-3F;
+jp_bmp_3f_0;"<color=#c8a5b2>Object 688V</color>
+◥BMP-3F obr.2010";
+jp_bmp_3f_1;◥BMP-3F;
+jp_bmp_3f_2;Infantry Fighting Vehicle;
 jp_harimau_shop;◥Harimau;
 jp_harimau_0;"<color=#c8a5b2>Modern Medium Weight Tank</color>
 ◥Harimau";
@@ -16659,6 +16843,11 @@ jp_leopard_2ri_2;Main Battle Tank;
 ;;
 <IDN Aviation>;;
 ;;
+b_33_indonesia_shop;◥B-33;
+b_33_indonesia_0;"<color=#7b9fb5>Avia Motors s.r.o.</color>
+◥B-33";
+b_33_indonesia_1;◥B-33;
+b_33_indonesia_2;◥B-33;
 b_26b_indonesia_kalong_shop;◥B-26B-15;
 b_26b_indonesia_kalong_0;"<color=#7b9fb5>Douglas Aircraft Corporation</color>
 ◥B-26B-15-DL Invader";
@@ -17546,16 +17735,17 @@ shop/group/cn_m3_m5_stuart_group;☀Stuart;
 shop/group/cn_76_211_group;211/PT;
 shop/group/cn_type_63_62_group;Type 63/62;
 shop/group/cn_zts_type_group;ZTS/ZBD;
-shop/group/cn_t_34_m4_group;Tè 34/M4;
-shop/group/cn_t_34_85_group;␗Tè 34;
-shop/group/cn_is_2_group;␗Sī 2;
+shop/group/cn_t_34_m4_group;T-34/M4;
+shop/group/cn_t_34_85_group;␗T-34;
+shop/group/cn_is_2_group;␗IS-2;
 shop/group/cn_type_59_69_group;Type 59/69;
 shop/group/cn_ztz_88_group;ZTZ88;
 shop/group/cn_ztz_99_group;ZTZ99;
 shop/group/cn_tor_hq_group;Tor/AKD;
 shop/group/cn_m36_isu_group;☀M36/122;
-shop/group/cn_cm_ptz_group;CM/PTZ;
+shop/group/cn_cm_ptz_group;CM25/PTZ;
 shop/group/cn_ptl_aft_group;PTL/AFT;
+shop/group/cn_cm_zbd_group;CM34/ZBD;
 shop/group/ki_27_group;☀Ki 27/43;
 shop/group/p_40_china_group;Hawk/P-43;
 shop/group/p_47_china_group;☀P-47D;
@@ -17609,6 +17799,7 @@ shop/group/fr_leclerc_group;Leclerc;
 shop/group/fr_b1_2c_group;B1/2C;
 shop/group/fr_arl_jumbo_group;ARL/M4A3E2;
 shop/group/fr_amx_32_group;AMX 32;
+shop/group/fr_dca/prtl_group;AMX/CA1;
 shop/group/fr_samp_t_fcs_group;SAMP/T Mamba;
 shop/group/fr_m44_55_group;♚M44/M55;
 shop/group/fr_foch_acra_group;CA 120/AMX;
@@ -17673,37 +17864,87 @@ shop/group/germ_puma_group;Puma;
 <Carriers>;;
 ;;
 us_aircraftcarrier_lexington_shop;Lexington;
-us_aircraftcarrier_lexington_0;Lexington Class Aircraft Carrier, USS Lexington (CV-2) (1941);
+us_aircraftcarrier_lexington_0;"<color=#7b9fb5>Lexington Class Aircraft Carrier</color>
+USS Lexington (CV-2)";
 us_aircraftcarrier_lexington_1;Lexington;
-us_aircraftcarrier_lexington_2;Carrier;
+us_aircraftcarrier_lexington_2;Lexington Class [CV];
+us_aircraftcarrier_lexington_ai_shop;Lexington;
+us_aircraftcarrier_lexington_ai_0;"<color=#7b9fb5>Lexington Class Aircraft Carrier</color>
+USS Lexington (CV-2)";
+us_aircraftcarrier_lexington_ai_1;Lexington;
+us_aircraftcarrier_lexington_ai_2;Lexington Class [CV];
 us_aircraftcarrier_saratoga_shop;Saratoga;
-us_aircraftcarrier_saratoga_0;Lexington Class Aircraft Carrier, USS Saratoga (CV-3) (1942);
+us_aircraftcarrier_saratoga_0;"<color=#7b9fb5>Lexington Class Aircraft Carrier</color>
+USS Saratoga (CV-3)";
 us_aircraftcarrier_saratoga_1;Saratoga;
-us_aircraftcarrier_saratoga_2;Carrier;
+us_aircraftcarrier_saratoga_2;Lexington Class [CV];
+us_aircraftcarrier_saratoga_ai_shop;Saratoga;
+us_aircraftcarrier_saratoga_ai_0;"<color=#7b9fb5>Lexington Class Aircraft Carrier</color>
+USS Saratoga (CV-3)";
+us_aircraftcarrier_saratoga_ai_1;Saratoga;
+us_aircraftcarrier_saratoga_ai_2;Lexington Class [CV];
 us_aircraftcarrier_enterprise_shop;Enterprise;
-us_aircraftcarrier_enterprise_0;Yorktown Class Aircraft Carrier, USS Enterprise (CV-6) (1942);
+us_aircraftcarrier_enterprise_0;"<color=#7b9fb5>Yorktown Class Aircraft Carrier</color>
+USS Enterprise (CV-6)";
 us_aircraftcarrier_enterprise_1;Enterprise;
-us_aircraftcarrier_enterprise_2;Carrier;
+us_aircraftcarrier_enterprise_2;Yorktown Class [CV];
+us_aircraftcarrier_enterprise_ai_shop;Enterprise;
+us_aircraftcarrier_enterprise_ai_0;"<color=#7b9fb5>Yorktown Class Aircraft Carrier</color>
+USS Enterprise (CV-6)";
+us_aircraftcarrier_enterprise_ai_1;Enterprise;
+us_aircraftcarrier_enterprise_ai_2;Yorktown Class [CV];
 us_aircraftcarrier_forrestal_shop;Forrestal;
-us_aircraftcarrier_forrestal_0;Forrestal Class Aircraft Carrier, USS Forrestal (CVA-59);
+us_aircraftcarrier_forrestal_0;"<color=#7b9fb5>Forrestal Class Aircraft Carrier</color>
+USS Forrestal (CVA-59)";
 us_aircraftcarrier_forrestal_1;Forrestal;
-us_aircraftcarrier_forrestal_2;Carrier;
+us_aircraftcarrier_forrestal_2;Forrestal Class [CVA];
+us_aircraftcarrier_nimitz_shop;Nimitz;
+us_aircraftcarrier_nimitz_0;"<color=#7b9fb5>Nimitz Class Aircraft Carrier</color>
+USS Nimitz (CVN-68)";
+us_aircraftcarrier_nimitz_1;Nimitz;
+us_aircraftcarrier_nimitz_2;Nimitz Class [CVN];
+us_aircraftcarrier_nimitz_ai_shop;Nimitz;
+us_aircraftcarrier_nimitz_ai_0;"<color=#7b9fb5>Nimitz Class Aircraft Carrier</color>
+USS Nimitz (CVN-68)";
+us_aircraftcarrier_nimitz_ai_1;Nimitz;
+us_aircraftcarrier_nimitz_ai_2;Nimitz Class [CVN];
+us_aircraftcarrier_gerald_ford_shop;Gerald R. Ford;
+us_aircraftcarrier_gerald_ford_0;"<color=#7b9fb5>Gerald R. Ford Class Aircraft Carrier</color>
+USS Gerald R. Ford (CVN-78);
+us_aircraftcarrier_gerald_ford_1;Gerald R. Ford;
+us_aircraftcarrier_gerald_ford_2;Gerald R. Ford Class [CVN];
+us_aircraftcarrier_gerald_ford_ai_shop;Gerald R. Ford;
+us_aircraftcarrier_gerald_ford_ai_0;"<color=#7b9fb5>Gerald R. Ford Class Aircraft Carrier</color>
+USS Gerald R. Ford (CVN-78);
+us_aircraftcarrier_gerald_ford_ai_1;Gerald R. Ford;
+us_aircraftcarrier_gerald_ford_ai_2;Gerald R. Ford Class [CVN];
 ussr_aircraftcarrier_baku_shop;Baku;
-ussr_aircraftcarrier_baku_0;Project 1143.4 | Kiev Class Aircraft Carrier, Baku;
+ussr_aircraftcarrier_baku_0";<color=#7b9fb5>Project 1143.4</color>
+<color=#7b9fb5>Kiev Class Aircraft Carrier</color>
+Baku";
 ussr_aircraftcarrier_baku_1;Baku;
-ussr_aircraftcarrier_baku_2;Carrier;
+ussr_aircraftcarrier_baku_2;Kiev Class [CV];
 ussr_aircraftcarrier_admiral_kuznetsov_shop;Admiral Kuznetsov;
-ussr_aircraftcarrier_admiral_kuznetsov_0;Project 1143.5 | Admiral Kuznetsov Class Aircraft Carrier, Admiral Kuznetsov;
+ussr_aircraftcarrier_admiral_kuznetsov_0;"<color=#7b9fb5>Project 1143.5</color>
+<color=#7b9fb5>Admiral Kuznetsov Class Aircraft Carrier</color>
+Admiral Kuznetsov";
 ussr_aircraftcarrier_admiral_kuznetsov_1;Admiral Kuznetsov;
-ussr_aircraftcarrier_admiral_kuznetsov_2;Carrier;
+ussr_aircraftcarrier_admiral_kuznetsov_2;Admiral Kuznetsov Class [CV];
 uk_aircraftcarrier_illustrious_shop;Illustrious;
-uk_aircraftcarrier_illustrious_0;Illustrious Class Aircraft Carrier, HMS Illustrious (87);
+uk_aircraftcarrier_illustrious_0;"<color=#7b9fb5>Illustrious Class Aircraft Carrier</color>
+HMS Illustrious (87)";
 uk_aircraftcarrier_illustrious_1;Illustrious;
-uk_aircraftcarrier_illustrious_2;Carrier;
+uk_aircraftcarrier_illustrious_2;Illustrious Class [CV];
 uk_aircraftcarrier_ark_royal_shop;Ark Royal;
-uk_aircraftcarrier_ark_royal_0;Audacious Class Aircraft Carrier, HMS Ark Royal (R09);
+uk_aircraftcarrier_ark_royal_0;"<color=#7b9fb5>Audacious Class Aircraft Carrier</color>
+HMS Ark Royal (R09)";
 uk_aircraftcarrier_ark_royal_1;Ark Royal;
-uk_aircraftcarrier_ark_royal_2;Carrier;
+uk_aircraftcarrier_ark_royal_2;Audacious Class [CV];
+cn_aircraftcarrier_fujian_shop;Fujian;
+cn_aircraftcarrier_fujian_0;"<color=#7b9fb5>003 xíng qū zhú jiàn</color>
+Fujian (18)";
+cn_aircraftcarrier_fujian_1;Fujian;
+cn_aircraftcarrier_fujian_2;Type 003 Class [CV];
 ;;
 ships/ussr_aircraftcarrier_admiral_kuznetsov_0;Carrier;
 ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Carrier;
@@ -17738,7 +17979,7 @@ us_hummer_h1_2;Transport;
 ;;
 ;;
 ;;
-<NT Assets>;;
+<NE Assets>;;
 ;;
 <AI Radars>;;
 ;;
@@ -17817,6 +18058,9 @@ ussr_ai_sam_launcher_5p85se_2;SAM;
 us_ai_mlrs_m270_0;M270;
 us_ai_mlrs_m270_1;M270;
 us_ai_mlrs_m270_2;MLRS;
+us_ai_mlrs_atacms_m270_0;M270 (ATACMS);
+us_ai_mlrs_atacms_m270_1;ATACMS
+us_ai_mlrs_atacms_m270_2;Ballistic Missile;
 us_ai_tbm_m752_lance_0;M752;
 us_ai_tbm_m752_lance_1;M752;
 us_ai_tbm_m752_lance;Ballistic Missile;
@@ -17827,11 +18071,21 @@ ussr_ai_mlrs_9a52_2_smerch_2;MLRS;
 ussr_ai_tbm_9k79_tochka_0;OTR-21;
 ussr_ai_tbm_9k79_tochka_1;OTR-21;
 ussr_ai_tbm_9k79_tochka_2;Ballistic Missile;
+ussr_ai_tbm_9k720_m_iskander_0;9P78-1 Iskander-M;
+ussr_ai_tbm_9k720_m_iskander_1;Iskander-M;
+ussr_ai_tbm_9k720_m_iskander_2;Ballistic Missile;
+ussr_ai_tbm_9k720_k_iskander_0;9P78-1 Iskander-K;
+ussr_ai_tbm_9k720_k_iskander_1;Iskander-K;
+ussr_ai_tbm_9k720_k_iskander_2;Ballistic Missile;
 ;;
 ;;
 ;;
 <AI Ships>;;
 ;;
+PLACEHOLDER_ai_0;"<color=#7b9fb5>Oliver Hazard Perry Class Frigate</color>
+USS Oliver Hazard Perry (FFG-7)";
+PLACEHOLDER_ai_1;Oliver H. Perry;
+PLACEHOLDER_ai_2;Oliver Hazard Perry Class [FFF]
 us_destroyer_cf_adams_class_cf_adams_ec_0;;
 us_destroyer_cf_adams_class_cf_adams_ec_1;;
 us_destroyer_cf_adams_class_cf_adams_ec_2;;
@@ -17839,6 +18093,10 @@ us_cruiser_rckt_california_0;"<color=#7b9fb5>California Class Guided Missile Cru
 USS California (CGN-36)";
 us_cruiser_rckt_california_1;California;
 us_cruiser_rckt_california_2;California Class [CGN];
+PLACEHOLDER_ai_0;"<color=#7b9fb5>Arleigh Burke Class Destroyer</color>
+USS Halsey (DDG-97)";
+PLACEHOLDER_ai_1;Halsey;
+PLACEHOLDER_ai_2;Arleigh Burke Class [DDG];
 us_aircraftcarrier_forrestal_ai_0;"<color=#7b9fb5>Forrestal Class Aircraft Carrier</color>
 USS Forrestal (CVA-59)";
 us_aircraftcarrier_forrestal_ai_1;Forrestal;
@@ -17869,6 +18127,24 @@ ussr_aircraftcarrier_admiral_kuznetsov_ai_0;"<color=#7b9fb5>Project 1143.5</colo
 Admiral Kuznetsov";
 ussr_aircraftcarrier_admiral_kuznetsov_ai_1;Admiral Kuznetsov;
 ussr_aircraftcarrier_admiral_kuznetsov_ai_2;Admiral Kuznetsov;
+;;
+uk_aircraftcarrier_illustrious_ai_0;"<color=#7b9fb5>Illustrious Class Aircraft Carrier</color>
+HMS Illustrious (87)";
+uk_aircraftcarrier_illustrious_ai_1;Illustrious;
+uk_aircraftcarrier_illustrious_ai_2;Illustrious Class [CV];
+uk_aircraftcarrier_ark_royal_ai_0;"<color=#7b9fb5>Audacious Class Aircraft Carrier</color>
+HMS Ark Royal (R09)";
+uk_aircraftcarrier_ark_royal_ai_1;Ark Royal;
+uk_aircraftcarrier_ark_royal_ai_2;Audacious Class [CV];
+;;
+PLACEHOLDER_ai_0;"<color=#7b9fb5>052D xíng qū zhú jiàn</color>
+Chengdu (120)";
+PLACEHOLDER_ai_1;Chengdu;
+PLACEHOLDER_ai_2;Type 052D Class [DDG]
+cn_aircraftcarrier_fujian_ai_0;"<color=#7b9fb5>003 xíng qū zhú jiàn</color>
+Fujian (18)";
+cn_aircraftcarrier_fujian_ai_1;Fujian;
+cn_aircraftcarrier_fujian_ai_2;Type 003 Class [CV];
 ;;
 ;;
 ;;

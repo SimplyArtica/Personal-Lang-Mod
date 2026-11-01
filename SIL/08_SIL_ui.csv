@@ -53,7 +53,7 @@ hud/rwr_threat_sam_low;SAM LO
 hud/rwr_threat_sam_low/desc;Surface-to-Air Missile System in low frequency band
 hud/rwr_threat_sam_mid;SAM MID
 hud/rwr_threat_sam_mid/desc;Surface-to-Air Missile System in medium frequency band
-hud/rwr_threat_sam_high;Surface-to-Air Missile System in medium frequency band
+hud/rwr_threat_sam_high;SAM HI
 hud/rwr_threat_sam_high/desc;Surface-to-Air Missile System in high frequency band
 hud/rwr_threat_aaa_low;AAA LO
 hud/rwr_threat_aaa_low/desc;Anti-Aircraft Artillery in low frequency band
