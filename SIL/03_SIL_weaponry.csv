@@ -2378,57 +2378,57 @@ weapons/il_1300l_rp62_drop_tank_ghost_grey_2;1300 Liter Drop Tank
 <Dumb Bombs>;
 ;
 weapons/us_100lb_anm30/short;AN-M30A1
-weapons/us_100lb_anm30;100 lb AN-M30A1 bomb
+weapons/us_100lb_anm30;Bomb, 100lb, GP, AN-M30A1
 weapons/us_250lb_anm57/short;AN-M57
-weapons/us_250lb_anm57;250 lb AN-M57 bomb
+weapons/us_250lb_anm57;Bomb, 250lb, GP, AN-M57
 weapons/us_250lb_anm57_default/short;AN-M57
-weapons/us_250lb_anm57_default;250 lb AN-M57 bomb
+weapons/us_250lb_anm57_default;Bomb, 250lb, GP, AN-M57
 weapons/us_300lb_m_31/short;M31
-weapons/us_300lb_m_31;300 lb H.E. M31 bomb
+weapons/us_300lb_m_31;Bomb, 300lb, Demolition, M31
 weapons/us_500lb_anm64a1/short;AN-M64A1
-weapons/us_500lb_anm64a1;500 lb AN-M64A1 bomb
+weapons/us_500lb_anm64a1;Bomb, 500lb, GP, AN-M64A1
 weapons/us_500lb_anm64a1_rod/short;AN-M64A1
-weapons/us_500lb_anm64a1_rod;500 lb AN-M64A1 bomb
+weapons/us_500lb_anm64a1_rod;Bomb, 500lb, GP, AN-M64A1
 weapons/us_600lb_m_32/short;M32
-weapons/us_600lb_m_32;600 lb H.E. M32 bomb
+weapons/us_600lb_m_32;Bomb, 600lb, GP, M32
 weapons/us_1000lb_anm_44/short;AN-M44
-weapons/us_1000lb_anm_44;1000 lb GP AN-M44 bomb
+weapons/us_1000lb_anm_44;Bomb, 1000lb, GP, AN-M44
 weapons/us_1000lb_anm65a1/short;AN-M65A1
-weapons/us_1000lb_anm65a1;1000 lb AN-M65A1 bomb
+weapons/us_1000lb_anm65a1;Bomb, 1000lb, GP, AN-M65A1
 weapons/us_1000lb_anm65a1_default/short;AN-M65A1
-weapons/us_1000lb_anm65a1_default;1000 lb AN-M65A1 bomb
+weapons/us_1000lb_anm65a1_default;Bomb, 1000lb, GP, AN-M65A1
 weapons/us_1000lb_anm65_cone/short;AN-M65A1
-weapons/us_1000lb_anm65_cone;1000 lb AN-M65A1 bomb
+weapons/us_1000lb_anm65_cone;Bomb, 1000lb, GP, AN-M65A1
 weapons/us_2000lbs_anm66/short;AN-M66A2
-weapons/us_2000lbs_anm66;2000 lb AN-M66A2 bomb
+weapons/us_2000lbs_anm66;Bomb, 2000lb, GP, AN-M66A2
 weapons/us_2000lbs_anm66_cone/short;AN-M66A2
-weapons/us_2000lbs_anm66_cone;2000 lb AN-M66A2 bomb
+weapons/us_2000lbs_anm66_cone;Bomb, 2000lb, GP, AN-M66A2
 weapons/us_4000lb_anm56_box/short;AN-M56
-weapons/us_4000lb_anm56_box;4000 lb AN-M56 bomb
+weapons/us_4000lb_anm56_box;Bomb, 4000lb, LC, AN-M56
 weapons/us_250lb_mk_81_ldgp/short;MK 81
-weapons/us_250lb_mk_81_ldgp;250 lb MK 81 bomb
+weapons/us_250lb_mk_81_ldgp;Bomb, 250lb, GP, MK 81
 weapons/us_500lb_mk_82_ldgp/short;MK 82
-weapons/us_500lb_mk_82_ldgp;500 lb MK 82 bomb
+weapons/us_500lb_mk_82_ldgp;Bomb, 500lb, GP, MK 82
 weapons/us_500lb_mk_82_ldgp_default/short;MK 82
-weapons/us_500lb_mk_82_ldgp_default;500 lb MK 82 bomb
+weapons/us_500lb_mk_82_ldgp_default;Bomb, 500lb, GP, MK 82
 weapons/us_500lb_mk_82_x3_ter9a_1/short;MK 82
-weapons/us_500lb_mk_82_x3_ter9a_1;500 lb MK 82 bomb
+weapons/us_500lb_mk_82_x3_ter9a_1;Bomb, 500lb, GP, MK 82
 weapons/us_750lb_m117_cone_45/short;M117
-weapons/us_750lb_m117_cone_45;750 lb M117 bomb
+weapons/us_750lb_m117_cone_45;Bomb, 750lb, GP, M117
 weapons/us_750lb_m117_cone_45_japan/short;JM117
-weapons/us_750lb_m117_cone_45_japan;750 lb JM117 bomb
+weapons/us_750lb_m117_cone_45_japan;Bomb, 750lb, GP, JM117
 weapons/us_750lb_m117_cone_90/short;M117
-weapons/us_750lb_m117_cone_90;750 lb M117 bomb
+weapons/us_750lb_m117_cone_90;omb, 750lb, GP, M117
 weapons/us_1000lb_mk_83_ldgp/short;MK 83
-weapons/us_1000lb_mk_83_ldgp;1000 lb MK 83 bomb
+weapons/us_1000lb_mk_83_ldgp;Bomb, 1000lb, GP, MK 83
 weapons/us_1000lb_mk_83_ldgp_default/short;MK 83
-weapons/us_1000lb_mk_83_ldgp_default;1000 lb MK 83 bomb
+weapons/us_1000lb_mk_83_ldgp_default;Bomb, 1000lb, GP, MK 83
 weapons/us_2000lb_mk_84_ldgp/short;MK 84
-weapons/us_2000lb_mk_84_ldgp;2000 lb MK 84 bomb
+weapons/us_2000lb_mk_84_ldgp;Bomb, 2000lb, GP, MK 84
 weapons/us_2000lb_mk_84_ldgp_cone_90/short;MK 84
-weapons/us_2000lb_mk_84_ldgp_cone_90;2000 lb MK 84 bomb
+weapons/us_2000lb_mk_84_ldgp_cone_90;Bomb, 2000lb, GP, MK 84
 weapons/us_3000lb_m118/short;M118
-weapons/us_3000lb_m118;3000 lb M118 bomb
+weapons/us_3000lb_m118;Bomb, 3000lb GP, M118
 ;
 weapons/de_sd10a/short;SD 10 C
 weapons/de_sd10a;10 kg SD 10 C bomb
