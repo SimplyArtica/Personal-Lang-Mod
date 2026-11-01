@@ -6,6 +6,100 @@
 ;
 <Weaponry>
 weapons/su_r_3s/short;P-3C;
-weapons/su_r_3s;Изд
-weapons/su_r_3s_default/short;
-weapons/su_r_3s_default;
+weapons/su_r_3s;Изд.310 | P-3C;
+weapons/su_r_3s_default/short;P-3C;
+weapons/su_r_3s_default;Изд.310 | P-3C;
+weapons/su_r_3r/short;P-3P;
+weapons/su_r_3r;Izd.320 | Изд.320 | P-3P;
+weapons/su_r_3r_default/short;P-3P;
+weapons/su_r_3r_default;Изд.320 | P-3P;
+weapons/su_r_13m/short;P-13M;
+weapons/su_r_13m;Изд.380 | P-13M;
+weapons/su_r_13m1/short;P-13M1;
+weapons/su_r_13m1;Изд.380M | P-13M1;
+weapons/su_r_13m1_default/short;P-13M1;
+weapons/su_r_13m1_default;Изд.380M | P-13M1;
+weapons/su_r_23r/short;P-23P;
+weapons/su_r_23r;Изд.340 | P-23P;
+weapons/su_r_23t/short;P-23T;
+weapons/su_r_23t;Изд.360 | P-23T;
+weapons/su_r_24r/short;P-24T
+weapons/su_r_24r;Изд.140 | P-24P;
+weapons/su_r_24t/short;P-24T;
+weapons/su_r_24t;Изд.160 | P-24T;
+weapons/su_r_27r/short;P-27P;
+weapons/su_r_27r;Изд.470-1 | P-27P;
+weapons/su_r_27r_default/short;P-27P;
+weapons/su_r_27r_default;Изд.470-1 | P-27P;
+weapons/su_r_27r1/short;P-27P1;
+weapons/su_r_27r1;Изд.470-1 | P-27P1;
+weapons/su_r_27r1_default/short;P-27P1;
+weapons/su_r_27r1_defualt;Изд.470-1 | P-27P1;
+weapons/su_r_27t/short;P-27T;
+weapons/su_r_27t;Изд.470-3 | P-27T;
+weapons/su_r_27t1/short;P-27T1;
+weapons/su_r_27t1;Изд.470-3 | P-27T1;
+weapons/su_r_27er/short;P-27ЭP;
+weapons/su_r_27er;Изд.470-1Э | P-27ЭP;
+weapons/su_r_27er_default/short;P-27ЭP;
+weapons/su_r_27er_default;Изд.470-1Э | P-27ЭP;
+weapons/su_r_27er1/short;P-27ЭP1;
+weapons/su_r_27er1;Изд.470-1Э | P-27ЭP1;
+weapons/su_r_27et/short;P-27ЭT;
+weapons/su_r_27et;Изд.470-3Э | P-27ЭT;
+weapons/su_r_27et1/short;P-27ЭT1;
+weapons/su_r_27et1;Изд.470-3Э | P-27ЭT1;
+weapons/su_r_40rd/short;P-40PД;
+weapons/su_r_40rd;Изд.46PД | P-40PД;
+weapons/su_r_40rd_default/short;P-40PД;
+weapons/su_r_40rd_default;Изд.46PД | P-40PД;
+weapons/su_r_40td/short;P-40TД;
+weapons/su_r_40td;Изд.46TД | P-40TД;
+weapons/su_r_60/short;P-60;
+weapons/su_r_60;Изд.62 | P-60;
+weapons/su_r_60_default/short;P-60;
+weapons/su_r_60_default;Изд.62 | P-60;
+weapons/su_r_60m/short;P-60M;
+weapons/su_r_60m;Изд.62M | P-60M;
+weapons/su_r_60m_default/short;P-60M;
+weapons/su_r_60m_default;Изд.62M | P-60M;
+weapons/su_r_60mk/short;P-60MK;
+weapons/su_r_60mk;Изд.62M | P-60MK;
+weapons/su_r_60mk_default/short;P-60MK;
+weapons/su_r_60mk_default;Изд.62M | P-60MK;
+weapons/su_r_73/short;P-73;
+weapons/su_r_73;Изд.72 | P-73;
+weapons/su_r_73_default/short;P-73;
+weapons/su_r_73_default;Изд.72 | P-73;
+weapons/su_r_73e/short;P-73Э;
+weapons/su_r_73e;Изд.72 | P-73Э;
+weapons/su_r_73e_default/short;P-73Э;
+weapons/su_r_73e_default;Изд.72 | P-73Э;
+weapons/su_r_77/short;P-77;
+weapons/su_r_77;Изд.170 | P-77;
+weapons/su_r_77_default/short;P-77;
+weapons/su_r_77_default;Изд.170 | P-170;
+weapons/su_r_77_1/short;P-77-1;
+weapons/su_r_77_1;Изд.170-1 | P-77-1;
+weapons/su_r_77_1_default/short;P-77-1;
+weapons/su_r_77_1_default;Изд.170-1 | P-77-1;
+weapons/su_rvv_ae/short;RVV-AE
+weapons/su_rvv_ae;Изд.190 | RVV-AE
+weapons/su_rvv_ae_default/short;
+weapons/su_rvv_ae_default;Изд
+weapons/su_rvv_sd/short;RVV-SD
+weapons/su_rvv_sd;Изд.190-1 | RVV-SD
+weapons/su_rvv_sd_default/short;
+weapons/su_rvv_sd_default;Изд
+weapons/su_r_98mr/short;P-98MP;
+weapons/su_r_98mr;Изд.57P | R-98MP;
+weapons/su_r_98mr_default/short;P-98MP;
+weapons/su_r_98mr_default;Изд.57P | P-98MP;
+weapons/su_r_98mt/short;P-98MT;
+weapons/su_r_98mt;Изд.57T | P-98MT;
+weapons/su_r_98mt_default/short;P-98MT;
+weapons/su_r_98mt_default;Изд.57T | P-98MT;
+weapons/su_9M39/short;9M39B
+weapons/su_9M39;9M39 Игла-B
+weapons/su_9M336/short;9M336
+weapons/su_9M336;9M336 Верба
