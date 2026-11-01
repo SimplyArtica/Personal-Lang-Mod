@@ -6739,11 +6739,11 @@ ussr_battleship_imperatritsa_mariya_0;"<color=#7b9fb5>Lineynyy Korabl’ Tip Imp
 Imperatritsa Mariya";
 ussr_battleship_imperatritsa_mariya_1;Imperatritsa Mariya;
 ussr_battleship_imperatritsa_mariya_2;Tip Imperatritsa Mariya [BB];
-ussr_battleship_imperator_nikolai_pervyi_shop;Nikolay Perviy;
-ussr_battleship_imperator_nikolai_pervyi_0;"<color=#7b9fb5>Lineynyy Korabl' Tip Nikolay Perviy</color>
-Nikolay Perviy";
-ussr_battleship_imperator_nikolai_pervyi_1;Nikolay Perviy;
-ussr_battleship_imperator_nikolai_pervyi_2;Tip Nikolai Perviy [BB];
+ussr_battleship_imperator_nikolai_pervyi_shop;Imperator Nikolai I;
+ussr_battleship_imperator_nikolai_pervyi_0;"<color=#7b9fb5>Lineynyy Korabl' Tip Imperator Nikolai I</color>
+Imperator Nikolai I";
+ussr_battleship_imperator_nikolai_pervyi_1;Imperator Nikolai I;
+ussr_battleship_imperator_nikolai_pervyi_2;Tip Imperator Nikolai I [BB];
 ussr_battlecruiser_izmail_shop;Izmail;
 ussr_battlecruiser_izmail_0;"<color=#7b9fb5>Lineynyy Korabl’ Tip Izmail</color>
 Izmail";
@@ -12300,9 +12300,9 @@ fr_amx_30_dca_0;"AMX 30 SA bitube de 30 mm
 <color=#c0c0c0>avec tourelle S 401 A</color>";
 fr_amx_30_dca_1;AMX 30 SA;
 fr_amx_30_dca_2;SPAA;
-fr_prtl_shop;Cheetah PRTL CA1;
-fr_prtl_0;Cheetah Panser Rups Tegen Luchtdoelen CA1;
-fr_prtl_1;Cheetah PRTL CA1;
+fr_prtl_shop;PRTL CA1;
+fr_prtl_0;Panser Rups Tegen Luchtdoelen CA1;
+fr_prtl_1;PRTL CA1;
 fr_prtl_2;SPAA;
 fr_vab_santal_shop;VDAA SANTAL;
 fr_vab_santal_0;"Véhicule de Défense Anti-Aérienne,
@@ -13089,7 +13089,7 @@ Mogador (X 61)
 fr_destroyer_mogador_class_mogador_1;Mogador;
 fr_destroyer_mogador_class_mogador_2;Mogador Class [DD];
 fr_destroyer_le_hardi_class_le_hardi_shop;Le Hardi;
-fr_destroyer_le_hardi_class_le_hardi_0;"<color=#7b9fb5>Contre-Torpilleur de Classe Le Hardi</color>
+fr_destroyer_le_hardi_class_le_hardi_0;"<color=#7b9fb5>Torpilleur d'Escadre de Classe Le Hardi</color>
 Le Hardi (X 102)";
 fr_destroyer_le_hardi_class_le_hardi_1;Le Hardi;
 fr_destroyer_le_hardi_class_le_hardi_2;Le Hardi Class [DD];
