@@ -2406,13 +2406,13 @@ weapons/us_2000lbs_anm66_cone;Bomb, 2000lb, GP, AN-M66A2
 weapons/us_4000lb_anm56_box/short;AN-M56
 weapons/us_4000lb_anm56_box;Bomb, 4000lb, LC, AN-M56
 weapons/us_250lb_mk_81_ldgp/short;MK 81
-weapons/us_250lb_mk_81_ldgp;Bomb, 250lb, GP, MK 81
+weapons/us_250lb_mk_81_ldgp;Bomb, 250lb, GP, MK 81 MOD 0
 weapons/us_500lb_mk_82_ldgp/short;MK 82
-weapons/us_500lb_mk_82_ldgp;Bomb, 500lb, GP, MK 82
+weapons/us_500lb_mk_82_ldgp;Bomb, 500lb, GP, MK 82 MOD 0
 weapons/us_500lb_mk_82_ldgp_default/short;MK 82
-weapons/us_500lb_mk_82_ldgp_default;Bomb, 500lb, GP, MK 82
+weapons/us_500lb_mk_82_ldgp_default;Bomb, 500lb, GP, MK 82 MOD 0
 weapons/us_500lb_mk_82_x3_ter9a_1/short;MK 82
-weapons/us_500lb_mk_82_x3_ter9a_1;Bomb, 500lb, GP, MK 82
+weapons/us_500lb_mk_82_x3_ter9a_1;Bomb, 500lb, GP, MK 82 MOD 0
 weapons/us_750lb_m117_cone_45/short;M117
 weapons/us_750lb_m117_cone_45;Bomb, 750lb, GP, M117
 weapons/us_750lb_m117_cone_45_japan/short;JM117
@@ -2420,13 +2420,13 @@ weapons/us_750lb_m117_cone_45_japan;Bomb, 750lb, GP, JM117
 weapons/us_750lb_m117_cone_90/short;M117
 weapons/us_750lb_m117_cone_90;omb, 750lb, GP, M117
 weapons/us_1000lb_mk_83_ldgp/short;MK 83
-weapons/us_1000lb_mk_83_ldgp;Bomb, 1000lb, GP, MK 83
+weapons/us_1000lb_mk_83_ldgp;Bomb, 1000lb, GP, MK 83 MOD 0
 weapons/us_1000lb_mk_83_ldgp_default/short;MK 83
-weapons/us_1000lb_mk_83_ldgp_default;Bomb, 1000lb, GP, MK 83
+weapons/us_1000lb_mk_83_ldgp_default;Bomb, 1000lb, GP, MK 83 MOD 0
 weapons/us_2000lb_mk_84_ldgp/short;MK 84
-weapons/us_2000lb_mk_84_ldgp;Bomb, 2000lb, GP, MK 84
+weapons/us_2000lb_mk_84_ldgp;Bomb, 2000lb, GP, MK 84 MOD 0
 weapons/us_2000lb_mk_84_ldgp_cone_90/short;MK 84
-weapons/us_2000lb_mk_84_ldgp_cone_90;Bomb, 2000lb, GP, MK 84
+weapons/us_2000lb_mk_84_ldgp_cone_90;Bomb, 2000lb, GP, MK 84 MOD 0
 weapons/us_3000lb_m118/short;M118
 weapons/us_3000lb_m118;Bomb, 3000lb GP, M118
 ;
@@ -2812,49 +2812,49 @@ weapons/fr_blg66_belouga;BLG66 Belouga;
 <Special Bombs>;
 ;
 weapons/us_250lb_mk_81_ldgp_snakeye/short;MK 81 Snakeye
-weapons/us_250lb_mk_81_ldgp_snakeye;250 lb MK 81 Snakeye high-drag tail fin retarded bomb
+weapons/us_250lb_mk_81_ldgp_snakeye;Bomb, 250lb, GP, MK 81 MOD 1 Snakeye (MK 14)
 weapons/us_500lb_mk_82_ldgp_snakeye/short;MK 82 Snakeye
-weapons/us_500lb_mk_82_ldgp_snakeye;500 lb MK 82 Snakeye high-drag tail fin retarded bomb
+weapons/us_500lb_mk_82_ldgp_snakeye;Bomb, 500lb, GP, MK 82 MOD 1 Snakeye (MK 15 MOD 6)
 weapons/us_500lb_mk_82_ldgp_air/short;MK 82 AIR
-weapons/us_500lb_mk_82_ldgp_air;500 lb MK 82 AIR ballute-type retarded bomb
+weapons/us_500lb_mk_82_ldgp_air;Bomb, 500lb, GP, MK 82 MOD 1 AIR (BSU-49/B) 
 weapons/us_1000lb_mk_83_ldgp_air/short;MK 83 AIR
-weapons/us_1000lb_mk_83_ldgp_air;1000 lb MK 83 AIR ballute-type retarded bomb
+weapons/us_1000lb_mk_83_ldgp_air;Bomb, 1000lb, GP, MK 83 MOD 1 AIR (BSU-85/B)
 weapons/us_2000lb_mk_84_ldgp_air/short;MK 84 AIR
-weapons/us_2000lb_mk_84_ldgp_air;2000 lb MK 84 ballute-type retarded bomb
+weapons/us_2000lb_mk_84_ldgp_air;Bomb, 2000lb, GP, MK 84 MOD 1 AIR (BSU-50/B)
 weapons/us_1000lb_anmk33_box_ap/short;AN-MK 33
-weapons/us_1000lb_anmk33_box_ap;1000 lb AN-MK 33 armor-piercing bomb
+weapons/us_1000lb_anmk33_box_ap;Bomb, 1000lb, AP, AN-MK 33
 weapons/us_1000lb_anmk33_box_ap_45/short;AN-MK 33
-weapons/us_1000lb_anmk33_box_ap_45;1000 lb AN-MK 33 armor-piercing bomb
+weapons/us_1000lb_anmk33_box_ap_45;Bomb, 1000lb, AP, AN-MK 33
 weapons/us_1600lb_ap_an_mk1/short;AN-MK 1
-weapons/us_1600lb_ap_an_mk1;1600 lb AN-MK 1 armor-piercing bomb
+weapons/us_1600lb_ap_an_mk1;Bomb, 1600lb, AP, AN-MK 1
 weapons/us_1600lb_ap_an_mk1_45/short;AN-MK 1
-weapons/us_1600lb_ap_an_mk1_45;1600 lb AN-MK 1 armor-piercing bomb
+weapons/us_1600lb_ap_an_mk1_45;Bomb, 1600lb, AP, AN-MK 1
 weapons/us_750_lb_m116a2/short;M116A2
-weapons/us_750_lb_m116a2;750 lb M116A2 incendiary bomb
+weapons/us_750_lb_m116a2;Bomb, 750lb, Fire, M116A2
 weapons/us_500lb_mk77_mod2/short;MK 77 MOD 2
-weapons/us_500lb_mk77_mod2;500 lb MK 77 MOD 2 incendiary bomb
+weapons/us_500lb_mk77_mod2;Bomb, 500lb, Fire, MK 77 MOD 2
 weapons/us_500lb_mk77_mod4/short;MK 77 MOD 4
-weapons/us_500lb_mk77_mod4;500 lb MK 77 MOD 4 incendiary bomb
+weapons/us_500lb_mk77_mod4;Bomb, 500lb, Fire, MK 77 MOD 4
 weapons/us_750lb_mk77_mod0/short;MK 77 MOD 0
-weapons/us_750lb_mk77_mod0;750 lb MK 77 MOD 0 incendiary bomb
+weapons/us_750lb_mk77_mod0;Bomb, 750lb, Fire, MK 77 MOD 0
 weapons/us_750lb_mk_78_mod_2/short;MK 78 MOD 2
-weapons/us_750lb_mk_78_mod_2;750 lb MK 78 MOD 2 incendiary bomb
+weapons/us_750lb_mk_78_mod_2;Bomb, 750lb, Fire, MK 78 MOD 2
 weapons/us_1000_lb_mk_79_mod_0/short;MK 79 MOD 1
-weapons/us_1000_lb_mk_79_mod_0;1000 lb MK 79 MOD 1 incendiary bomb
+weapons/us_1000_lb_mk_79_mod_0;Bomb, 1000lb, Fire, MK 79 MOD 0
 weapons/us_blu_1/short;BLU-1/B
-weapons/us_blu_1;750 lb BLU-1/B incendiary bomb
+weapons/us_blu_1;Bomb, 750lb, Fire, BLU-1/B
 weapons/us_250_lb_blu_10b/short;BLU-10/B
-weapons/us_250_lb_blu_10b;250 lb BLU-10/B incendiary bomb
+weapons/us_250_lb_blu_10b;Bomb, 250lb, Fire, BLU-10/B
 weapons/us_500_lb_blu_23b/short;BLU-23/B
-weapons/us_500_lb_blu_23b;500 lb BLU-23/B incendiary bomb
+weapons/us_500_lb_blu_23b;Bomb, 500lb, Fire, BLU-23/B
 weapons/us_blu27b/short;BLU-27/B
-weapons/us_blu27b;750 lb BLU-27/B incendiary bomb
+weapons/us_blu27b;Bomb, 750lb, Fire, BLU-27/B
 weapons/us_mine_mk13_mod0/short;MK 13 MOD 0
-weapons/us_mine_mk13_mod0;1000 lb MK 13 MOD 0 aircraft laid magnetic mine
+weapons/us_mine_mk13_mod0;Mine, 1000lb, Aircraft, MK 13 MOD 0
 weapons/us_special_weapon/short;Special Weapon
 weapons/us_special_weapon;Special Weapon
 weapons/us_750lb_m117_air/short;M117 AIR
-weapons/us_750lb_m117_air;750 lb M117 AIR ballute-type retarded bomb
+weapons/us_750lb_m117_air;Bomb, 750lb, GP, M117 AIR (BSU-93/B)
 ;
 weapons/de_pc500_ap/short;PC 500
 weapons/de_pc500_ap;500 kg PC 500 armor-piercing bomb
@@ -3026,40 +3026,40 @@ weapons/us_5_in_ar_mk1/short;AR
 weapons/us_5_in_ar_mk1;AR rockets
 weapons/us_m8bazooka/short;M8
 weapons/us_m8bazooka;M8 rocket
-weapons/us_5_in_hvar/short;HVAR MK 28
-weapons/us_5_in_hvar;High Velocity Aerial Rocket MK 28 MOD 4
-weapons/us_5_in_hvar_a/short;HVAR MK 28
-weapons/us_5_in_hvar_a;High Velocity Aerial Rocket MK 28 MOD 4
-weapons/us_5_in_hvar_a_default/short;HVAR MK 28
-weapons/us_5_in_hvar_a_default;High Velocity Aerial Rocket MK 28 MOD 4
-weapons/us_5_in_hvar_b/short;HVAR MK 28
-weapons/us_5_in_hvar_b;High Velocity Aerial Rocket MK 28 MOD 4
-weapons/us_5_in_hvar_b_default/short;HVAR MK 28
-weapons/us_5_in_hvar_b_default;High Velocity Aerial Rocket MK 28 MOD 4
-weapons/us_5_in_hvar_c/short;HVAR MK 28
-weapons/us_5_in_hvar_c;High Velocity Aerial Rocket MK 28 MOD 4
-weapons/us_5_in_hvar_c_default/short;HVAR MK 28
-weapons/us_5_in_hvar_c_default;High Velocity Aerial Rocket MK 28 MOD 4
-weapons/us_5_in_hvar_d/short;HVAR MK 28
-weapons/us_5_in_hvar_d;High Velocity Aerial Rocket MK 28 MOD 4
-weapons/us_5_in_hvar_2/short;HVAR MK 28
-weapons/us_5_in_hvar_2;High Velocity Aerial Rocket MK 28 MOD 4
-weapons/uk_hvar/short;HVAR MK 28
-weapons/uk_hvar;High Velocity Aerial Rocket MK 28 MOD 4
+weapons/us_5_in_hvar/short;MK 28 HVAR
+weapons/us_5_in_hvar;MK 28 MOD 4 High Velocity Aerial Rocket
+weapons/us_5_in_hvar_a/short;MK 28 HVAR
+weapons/us_5_in_hvar_a;MK 28 MOD 4 High Velocity Aerial Rocket
+weapons/us_5_in_hvar_a_default/short;MK 28 HVAR
+weapons/us_5_in_hvar_a_default;MK 28 MOD 4 High Velocity Aerial Rocket
+weapons/us_5_in_hvar_b/short;MK 28 HVAR
+weapons/us_5_in_hvar_b;MK 28 MOD 4 High Velocity Aerial Rocket
+weapons/us_5_in_hvar_b_default/short;MK 28 HVAR
+weapons/us_5_in_hvar_b_default;MK 28 MOD 4 High Velocity Aerial Rocket
+weapons/us_5_in_hvar_c/short;MK 28 HVAR
+weapons/us_5_in_hvar_c;MK 28 MOD 4 High Velocity Aerial Rocket
+weapons/us_5_in_hvar_c_default/short;MK 28 HVAR
+weapons/us_5_in_hvar_c_default;MK 28 MOD 4 High Velocity Aerial Rocket
+weapons/us_5_in_hvar_d/short;MK 28 HVAR
+weapons/us_5_in_hvar_d;MK 28 MOD 4 High Velocity Aerial Rocket
+weapons/us_5_in_hvar_2/short;MK 28 HVAR
+weapons/us_5_in_hvar_2;MK 28 MOD 4 High Velocity Aerial Rocket
+weapons/uk_hvar/short;MK 28 HVAR
+weapons/uk_hvar;MK 28 MOD 4 High Velocity Aerial Rocket
 weapons/us_11_75_in_tiny_tim/short;Tiny Tim
-weapons/us_11_75_in_tiny_tim;Tiny Tim rockets
+weapons/us_11_75_in_tiny_tim;11.75in Aerial Rocket "Tiny Tim"
 weapons/us_11_75_in_tiny_tim_army/short;Tiny Tim
-weapons/us_11_75_in_tiny_tim_army;Tiny Tim rockets
-weapons/us_zuni_wafar_mk32/short;Zuni MK 32
-weapons/us_zuni_wafar_mk32;Zuni MK 32 MOD 0 5-inch Folding-Fin Aircraft Rocket
-weapons/us_zuni_wafar_mk32_left/short;Zuni MK 32
-weapons/us_zuni_wafar_mk32_left;Zuni MK 32 MOD 0 5-inch Folding-Fin Aircraft Rocket
-weapons/us_zuni_wafar_mk32_right/short;Zuni MK 32
-weapons/us_zuni_wafar_mk32_right;Zuni MK 32 MOD 0 5-inch Folding-Fin Aircraft Rocket
-weapons/us_zuni_wafar_mk32_cwp/short;Zuni MK 32
-weapons/us_zuni_wafar_mk32_cwp;Zuni MK 32 MOD 0 5-inch Folding-Fin Aircraft Rocket
-weapons/us_zuni_wafar_mk34/short;Zuni MK 34
-weapons/us_zuni_wafar_mk34;Zuni MK 34 MOD 0 5-inch Folding-Fin Aircraft Rocket
+weapons/us_11_75_in_tiny_tim_army;11.75in Aerial Rocket "Tiny Tim"
+weapons/us_zuni_wafar_mk32/short;Zuni (MK 32)
+weapons/us_zuni_wafar_mk32;Rocket Motor, 5-inch WAFAR, Zuni (MK 32 MOD 0)
+weapons/us_zuni_wafar_mk32_left/short;Zuni (MK 32)
+weapons/us_zuni_wafar_mk32_left;Rocket Motor, 5-inch WAFAR, Zuni (MK 32 MOD 0)
+weapons/us_zuni_wafar_mk32_right/short;Zuni (MK 32)
+weapons/us_zuni_wafar_mk32_right;Rocket Motor, 5-inch WAFAR, Zuni (MK 32 MOD 0)
+weapons/us_zuni_wafar_mk32_cwp/short;Zuni (MK 32)
+weapons/us_zuni_wafar_mk32_cwp;Rocket Motor, 5-inch WAFAR, Zuni (MK 32 MOD 0)
+weapons/us_zuni_wafar_mk34/short;Zuni (MK 34)
+weapons/us_zuni_wafar_mk34;Rocket Motor, 5-inch WAFAR, Zuni (MK 34 MOD 0)
 weapons/us_2_75_in_ffar_mighty_mouse/short;FFAR (M247)
 weapons/us_2_75_in_ffar_mighty_mouse;MK 4 Folding-Fin Aerial Rocket “Mighty Mouse” (M247 Warhead)
 weapons/us_2_75_in_ffar_mighty_mouse_default/short;FFAR (M247)
