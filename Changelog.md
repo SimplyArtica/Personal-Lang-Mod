@@ -10,8 +10,11 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 
 	- #### Implemented all vehicles from "Eagle's Shadow" update, Dreams Come True event, Steel Fury Battle Pass, and recent Twitch Drops:
 		- F/A-18D → F/A-18D-52
+			- Stat card: Boeing Military Airplane Company | F/A-18D-52-MC Hornet
 		- USS Erie → Erie
+			- Stat card: Erie Class Gunboat | USS Erie (PG-50) | 1942 Refit
 		- Bf 109 E-3 → Bf 109 E-3/B
+			- Stat card: Messerschmitt AG | Bf 109 E-3/B | Twitch Drop
 		- Mistel 2 → Fw 190 A-8 (Mistel)
 		- Leopard 2A8 → KPz Leopard 2 A8
 		- S-706 → S 706
@@ -66,6 +69,7 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 
 - ### Weaponry Changes:
 
+	- Brought all US dumb bombs up to the same standards as the GBUs. (ex. 100 lb AN-M30A1 → Bomb, 100lb, GP, AN-M30A1)
 	- HVAR MK 28 → MK 28 HVAR
 	- Zuni MK 32 → Zuni (MK 32)
 	- Zuni MK 34 → Zuni (MK 34)
