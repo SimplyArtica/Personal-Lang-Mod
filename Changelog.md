@@ -30,6 +30,7 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 		- Cheetah PRTL → PRTL CA1
 		- L-990 → L 990
 		- JAS 39-5 → JAS 39 (39-5)
+		- Pbil m/39 → PV M 39
 		- Leopard 2A8NO → Leopard 2 A8NO
 		- F-15IA Ra'am II → F-15IA
 	- Type 62 (RU) → ZTQ62
