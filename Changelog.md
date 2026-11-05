@@ -89,6 +89,7 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 	- Corrected F11F-1 name at distance from F11 → F11F.
 	- Corrected duplication of MID range SAM warning as HI range SAM warning.
 	- Corrected factory code of French F-84F from "-RE" → "-GK".
+	- Corrected missing formatting for B-66B stat card.
 
 
 - ### Addon File Changes:

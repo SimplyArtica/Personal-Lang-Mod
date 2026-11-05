@@ -1,7 +1,7 @@
 <Menu>;
 <Copy-paste for release versions>;<color=@commonTextColor>Better Default:</color> <color=@goodTextColor>v2.1.0.0</color>
 ;
-mainmenu/custom_lang_info;<color=@commonTextColor>Simply's Improved Lang:</color> <color=#E52D30>v2.X.0.0-ALPHA</color>
+mainmenu/custom_lang_info;<color=@commonTextColor>Simply's Improved Lang:</color> <color=#E52D30>v2.2.0.0-ALPHA</color>
 mainmenu/custom_lang_info/tooltip;
 mainmenu/customSoundMods;
 mainmenu/customSoundMods/tooltip;
