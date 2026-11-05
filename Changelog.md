@@ -8,7 +8,7 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 
 - ### Vehicle Changes:
 
-	- Implemented all vehicles from "Eagle's Shadow" update, Dreams Come True event, Steel Fury Battle Pass, and recent Twitch Drops:
+	- #### Implemented all vehicles from "Eagle's Shadow" update, Dreams Come True event, Steel Fury Battle Pass, and recent Twitch Drops:
 		- F/A-18D → F/A-18D-52
 		- USS Erie → Erie
 		- Bf 109 E-3 → Bf 109 E-3/B
@@ -71,7 +71,7 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 	- Zuni MK 34 → Zuni (MK 34)
 
 
-- ## AI Changes:
+- ### AI Changes:
 
 	- USS Gerald Ford → Gerald R. Ford
 	- USS Halsey → Halsey
@@ -91,14 +91,14 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 
 - ### Addon File Changes:
 
-	- Thai Designations:
+	- #### Thai Designations:
 		- Firefly F. I → B.J.4
 	
-	- NATO Reporting Names:
+	- #### NATO Reporting Names:
 		- Su-15TM → Added "Flagon-F" to stat card
 		- Q5D → Added "Fantan" to stat card
 	
-	- Israeli Nicknames:
+	- #### Israeli Nicknames:
 		- F-15IA → Ra'am II
 
 
