@@ -10,11 +10,8 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 
 	- #### Implemented all vehicles from "Eagle's Shadow" update, Dreams Come True event, Steel Fury Battle Pass, and recent Twitch Drops:
 		- F/A-18D → F/A-18D-52
-			- Boeing Military Airplane Company | F/A-18D-52-MC Hornet
 		- USS Erie → Erie
-			- Erie Class Gunboat | USS Erie (PG-50) | 1942 Refit
 		- Bf 109 E-3 → Bf 109 E-3/B
-			- Messerschmitt AG | Bf 109 E-3/B | Twitch Drop
 		- Mistel 2 → Fw 190 A-8 (Mistel)
 		- Leopard 2A8 → KPz Leopard 2 A8
 		- S-706 → S 706
