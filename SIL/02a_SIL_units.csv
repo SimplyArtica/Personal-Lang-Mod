@@ -2033,7 +2033,7 @@ USS Northampton (CA-26)
 us_erie_class_shop;Erie;
 us_erie_class_0;"<color=#7b9fb5>Erie Class Gunboat</color>
 USS Erie (PG-50)
-<color=#c0c0c0>1944 Refit</color>";
+<color=#c0c0c0>1942 Refit</color>";
 us_erie_class_1;Erie;
 us_erie_class_2;Erie Class Gunboat;
 us_destroyer_sumner_shop;Allen M. Sumner;
@@ -8668,6 +8668,11 @@ HMS Nelson (28)
 <color=#c0c0c0>1945 Refit</color>";
 uk_battleship_nelson_1;Nelson;
 uk_battelship_nelson_2;Nelson Class [BB];
+uk_cruiser_danae_class_shop;Danae;
+uk_cruiser_danae_class_0;"<color=#7b9fb5>Danae Class Light Cruiser</color>
+HMS Danae (D 44)";
+uk_cruiser_danae_class_1;Danae;
+uk_cruiser_danae_class_2;Danae Class [CL];
 ;;
 ;;
 ;;
@@ -18071,10 +18076,11 @@ ussr_ai_tbm_9k720_k_iskander_2;Ballistic Missile;
 ;;
 <AI Ships>;;
 ;;
-PLACEHOLDER_ai_0;"<color=#7b9fb5>Oliver Hazard Perry Class Frigate</color>
+us_frigate_oliver_hazard_perry_shop;Oliver H. Perry;
+us_frigate_oliver_hazard_perry_0;"<color=#7b9fb5>Oliver Hazard Perry Class Frigate</color>
 USS Oliver Hazard Perry (FFG-7)";
-PLACEHOLDER_ai_1;Oliver H. Perry;
-PLACEHOLDER_ai_2;Oliver Hazard Perry Class [FFG];
+us_frigate_oliver_hazard_perry_1;Oliver H. Perry;
+us_frigate_oliver_hazard_perry_2;Oliver Hazard Perry Class [FFG];
 us_destroyer_cf_adams_class_cf_adams_ec_0;;
 us_destroyer_cf_adams_class_cf_adams_ec_1;;
 us_destroyer_cf_adams_class_cf_adams_ec_2;;
@@ -18082,10 +18088,11 @@ us_cruiser_rckt_california_0;"<color=#7b9fb5>California Class Guided Missile Cru
 USS California (CGN-36)";
 us_cruiser_rckt_california_1;California;
 us_cruiser_rckt_california_2;California Class [CGN];
-PLACEHOLDER_ai_0;"<color=#7b9fb5>Arleigh Burke Class Destroyer</color>
+us_destroyer_halsey_shop;Halsey;
+us_destroyer_halsey_0;"<color=#7b9fb5>Arleigh Burke Class Destroyer</color>
 USS Halsey (DDG-97)";
-PLACEHOLDER_ai_1;Halsey;
-PLACEHOLDER_ai_2;Arleigh Burke Class [DDG];
+us_destroyer_halsey_1;Halsey;
+us_destroyer_halsey_2;Arleigh Burke Class [DDG];
 us_aircraftcarrier_forrestal_ai_0;"<color=#7b9fb5>Forrestal Class Aircraft Carrier</color>
 USS Forrestal (CVA-59)";
 us_aircraftcarrier_forrestal_ai_1;Forrestal;
@@ -18134,10 +18141,11 @@ HMS Ark Royal (R09)";
 uk_aircraftcarrier_ark_royal_ai_1;Ark Royal;
 uk_aircraftcarrier_ark_royal_ai_2;Audacious Class [CV];
 ;;
-PLACEHOLDER_ai_0;"<color=#7b9fb5>052D xíng qū zhú jiàn</color>
+cn_destroyer_type052d_shop;Chengdu;
+cn_destroyer_type052d_0;"<color=#7b9fb5>052D xíng qū zhú jiàn</color>
 Chengdu (120)";
-PLACEHOLDER_ai_1;Chengdu;
-PLACEHOLDER_ai_2;Type 052D Class [DDG];
+cn_destroyer_type052d_1;Chengdu;
+cn_destroyer_type052d_2;Type 052D Class [DDG];
 cn_aircraftcarrier_fujian_ai_0;"<color=#7b9fb5>003 xíng qū zhú jiàn</color>
 Fujian (18)";
 cn_aircraftcarrier_fujian_ai_1;Fujian;
