@@ -8670,7 +8670,8 @@ uk_battleship_nelson_1;Nelson;
 uk_battelship_nelson_2;Nelson Class [BB];
 uk_cruiser_danae_class_shop;Danae;
 uk_cruiser_danae_class_0;"<color=#7b9fb5>Danae Class Light Cruiser</color>
-HMS Danae (D 44)";
+HMS Danae (D 44)
+<color=#c0c0c0>1944 Refit</color>";
 uk_cruiser_danae_class_1;Danae;
 uk_cruiser_danae_class_2;Danae Class [CL];
 ;;
