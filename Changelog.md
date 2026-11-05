@@ -9,7 +9,7 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 - ### Vehicle Changes:
 
 	- #### Implemented all vehicles from "Eagle's Shadow" update, Dreams Come True event, Steel Fury Battle Pass, and recent Twitch Drops:
-		- F/A-18D → F/A-18D-52
+		- **F/A-18D → F/A-18D-52**
 			- Stat card: Boeing Military Airplane Company | F/A-18D-52-MC Hornet
 		- USS Erie → Erie
 			- Stat card: Erie Class Gunboat | USS Erie (PG-50) | 1942 Refit
