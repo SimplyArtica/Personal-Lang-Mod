@@ -1531,10 +1531,12 @@ F2A-1 Buffalo
 <color=#fcba03>John Thach</color>";
 f2a-1_thach_1;F2A-1;
 f2a-1_thach_2;F2A;
-f2a-1_nvidia_shop;TEMP;
-f2a-1_nvidia_0;TEMP;
-f2a-1_nvidia_1;TEMP;
-f2a-1_nvidia_2;TEMP;
+f2a-1_nvidia_shop;F2A-1;
+f2a-1_nvidia_0;"<color=#7b9fb5>Brewster Aeronautical Corporation</color>
+F2A-1 Buffalo
+<color=#9146ff>Twitch Drop</color>";
+f2a-1_nvidia_1;F2A-1;
+f2a-1_nvidia_2;F2A;
 b_10b_shop;B-10B;
 b_10b_0;"<color=#7b9fb5>Martin Company</color>
 B-10B";
@@ -3858,7 +3860,8 @@ fw_189c_0_1;Fw 189 V;
 fw_189c_0_2;Fw 189;
 bf-109e-3_tl_shop;◆Bf 109 E-3/B;
 bf-109e-3_tl_0;"<color=#7b9fb5>Messerschmitt AG</color>
-◆Bf 109 E-3/B";
+◆Bf 109 E-3/B
+<color=#9146ff>Twitch Drop</color>";
 bf-109e-3_tl_1;◆Bf 109 E;
 bf-109e-3_tl_2;◆Bf 109;
 mc200_serie3_shop;▀C.200/III;
@@ -5197,7 +5200,8 @@ ussr_bm_8_24_1;BM-8-24;
 ussr_bm_8_24_2;Tank Destroyer;
 ussr_bt_7_m_816_shop;◆BT-7M;
 ussr_bt_7_m_816_0;"<color=#7b9fb5>Object A-8</color>
-◆BT-7M obr.1940 g.";
+◆BT-7M obr.1940 g.
+<color=#9146ff>Twitch Drop</color>";
 ussr_bt_7_m_816_1;◆BT-7M;
 ussr_bt_7_m_816_2;Light Tank;
 ussr_pzkpfw_III_ausf_J_L42_shop;▂T-IIIJ;
