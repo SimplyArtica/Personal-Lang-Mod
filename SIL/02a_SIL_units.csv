@@ -466,6 +466,12 @@ us_m3a1_stuart_usmc_0;"Tank, Light, M3A1
 <color=#fcba03>United States Marine Corps</color>";
 us_m3a1_stuart_usmc_1;M3A1 (USMC);
 us_m3a1_stuart_usmc_2;Light Tank;
+us_m3a1_stuart_nvidia_shop;M3A1 [TD];
+us_m3a1_stuart_nvidia_0;"Tank, Light, M3A1
+<color=#7b9fb5>General stuart</color>
+<color=#9146ff>Twitch Drop</color>";
+us_m3a1_stuart_nvidia_1;M3A1;
+us_m3a1_stuart_nvidia_2;Light Tank;
 us_mk1_grant_shop;▃Grant Mk.I;
 us_mk1_grant_0;▃Tank, Medium, Grant Mk.I;
 us_mk1_grant_1;▃Grant Mk.I;

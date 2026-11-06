@@ -1170,8 +1170,10 @@ weapons/su_kh_38mt/short;Kh-38MT
 weapons/su_kh_38mt;Izd.65 | Kh-38MT
 weapons/su_kh_38mte/short;Kh-38MTE
 weapons/su_kh_38mte;Izd.65 | Kh-38MTE
-weapons/su_lmur/short;Kh-39
-weapons/su_lmur;Izd.305 | Kh-39 LMUR
+weapons/su_lmur_wo_mitl/short;Kh-39
+weapons/su_lmur_wo_mitl;Izd.305 | Kh-39 LMUR
+weapons/su_lmur/short;Kh-39 (MITL)
+weapons/su_lmur;Izd.305 | Kh-39 LMUR (Man-in-the-Loop)
 weapons/su_kh_59/short;Kh-59
 weapons/su_kh_59;Izd.D-9 | Kh-59 Ovod
 weapons/su_kh_59m/short;Kh-59M
@@ -1253,10 +1255,14 @@ weapons/cn_akd_10/short;AKD10
 weapons/cn_akd_10;AKD10 Air-to-Surface Missile
 weapons/cn_ba_9/short;BA-9
 weapons/cn_ba_9;Blue Arrow 9
-weapons/cn_cm_502kg_he/short;CM502KG
-weapons/cn_cm_502kg_he;CM502KG
-weapons/cn_cm_502kg_he_rail/short;CM502KG
-weapons/cn_cm_502kg_he_rail;CM502KG
+weapons/cn_cm_502kg_he_wo_mitl/short;CM502KG
+weapons/cn_cm_502kg_he_wo_mitl;CM502KG
+weapons/cn_cm_502kg_he/short;CM502KG (MITL)
+weapons/cn_cm_502kg_he;CM502KG (Man-in-the-Loop)
+weapons/cn_cm_502kg_he_rail_wo_mitl/short;CM502KG
+weapons/cn_cm_502kg_he_rail_wo_mitl;CM502KG
+weapons/cn_cm_502kg_he_rail/short;CM502KG (MITL)
+weapons/cn_cm_502kg_he_rail;CM502KG (Man-in-the-Loop)
 weapons/cn_ba_11/short;BA-11A
 weapons/cn_ba_11;Blue Arrow 11A
 weapons/ch_kd_88_missile_tv/short;KD88
@@ -1299,10 +1305,14 @@ weapons/is_delilah/short;Delilah (TV)
 weapons/is_delilah;Delilah (TV)
 weapons/is_delilah_ir/short;Delilah (IR)
 weapons/is_delilah_ir;Delilah (IR)
-weapons/spike_er/short;Spike ER
-weapons/spike_er;Spike ER
-weapons/spike_nlos/short;Spike NLOS Mk.4
-weapons/spike_nlos;Spike Non Line-of-Sight Mk.4
+weapons/spike_er_wo_mitl/short;Spike ER
+weapons/spike_er_wo_mitl;Spike ER
+weapons/spike_er/short;Spike ER (MITL)
+weapons/spike_er;Spike ER (Man-in-the-Loop)
+weapons/spike_nlos_wo_mitl/short;Spike NLOS Mk.5
+weapons/spike_nlos_wo_mitl;Spike Non Line-of-Sight Mk.5
+weapons/spike_nlos/short;Spike NLOS Mk. (MITL)
+weapons/spike_nlos;Spike Non Line-of-Sight Mk.5 (Man-in-the-Loop)
 weapons/il_gatr/short;GATR
 weapons/il_gatr;Guided Advanced Tactical Rocket rockets
 ;
@@ -2802,6 +2812,8 @@ weapons/us_cbu_87b;Bomb, 950lb, Cluster, CBU-87/B Combined Effects Munition;
 ;
 weapons/su_rbk_500_ao_2_5rtm/short;RBK-500 (ShoAB-0.5)
 weapons/su_rbk_500_ao_2_5rtm;500 kg RBK-500 (ShoAB-0.5) cluster bomb
+weapons/su_rbk_500_ptab/short;RBK-500 (PTAB-1M)
+weapons/su_rbk_500_ptab;500 kg RBK-500 (PTAB-1M) cluster bomb
 ;
 weapons/uk_600lb_bl755/short;BL755
 weapons/uk_600lb_bl755;600 lb BL755 cluster bomb
