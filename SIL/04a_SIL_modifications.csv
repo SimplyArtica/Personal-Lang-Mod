@@ -888,6 +888,8 @@ modification/su_x38mt_e;Kh-38MTE
 modification/su_x38mt_e/desc;Allows the mounting of Kh-38MTE IR guided air-to-ground missiles.
 modification/su_lmur;Kh-39
 modification/su_lmur/desc;Allows the mounting of Kh-39 LMUR IR guided air-to-ground missiles.
+modificaiton/su_lmur_mitl;Kh-39 (MITL);
+modification/su_lmur_mitl/desc;Allows the option of taking a version of the Kh-39 with Man-in-the-Loop (MITL) capability, at the cost of a battle rating increase.
 modification/su_kh_59;Kh-59
 modification/su_kh_59/desc;Allows the mounting of Kh-59M and Kh-59ME TV guided air-to-ground missiles.
 modification/mig_21_x66;Kh-66
@@ -961,6 +963,8 @@ modification/cn_akd_10;AKD10
 modification/cn_akd_10/desc;Allows the mounting of AKD10 laser guided air-to-ground missiles.
 modification/cn_cm_502kg;CM502KG
 modification/cn_cm_502kg/desc;Allows the mounting of CM502KG IR guided air-to-ground missiles.
+modificaiton/cn_cm_502kg_mitl;CM502KG (MITL)
+modification/cn_cm_502kg_mitl/desc;Allows the option of taking a version of the CM502KG with Man-in-the-Loop (MITL) capability, at the cost of a battle rating increase.
 modification/cn_fire_snake_70a;FS70
 modification/cn_fire_snake_70a/desc;Allows the mounting of FS70 launchers, firing Fire Snake 70A laser guided rockets.
 modification/cn_fire_snake_90a;HF20
@@ -1019,8 +1023,12 @@ modification/atgm_spike_x2;Spike ER
 modification/atgm_spike_x2/desc;Allows the mounting of Spike ER IR guided air-to-ground missiles.
 modification/atgm_spike_x4;Spike ER*
 modification/atgm_spike_x4/desc;Allows the mounting of additional Spike ER IR guided air-to-ground missiles.
+modification/atgm_spike_x4_mitl;Spike ER (MITL)
+modificaiton/atgm_spike_x4_mitl/desc;Allows the option of taking a version of the Spike ER with Man-in-the-Loop (MITL) capability, at the cost of a battle rating increase.
 modification/atgm_spike_nlos;Spike NLOS
 modification/atgm_spike_nlos/desc;Allows the mounting of Spike NLOS IR guided air-to-ground missiles.
+modification/atgm_spike_nlos_mitl;Spike NLOS (MITL)
+modification/atgm_spike_nlos_mitl/desc;Allows the option of taking a version of the Spike NLOS with Man-in-the-Loop (MITL) capability, at the cost of a battle rating increase.
 modification/il_gatr;GATR
 modification/il_gatr/desc;Allows the mounting of GATR laser guided rockets.
 ;
