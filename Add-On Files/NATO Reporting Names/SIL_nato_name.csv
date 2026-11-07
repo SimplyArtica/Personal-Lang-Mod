@@ -2,456 +2,458 @@
 ;
 <Germany>;
 ;
-mig-15bis_nr23_german_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-15bis_nr23_german_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◊MiG-15bis
 <color=#b77272>Fagot-B</color>"
-mig-17p_lim_5p_0;"<color=#7b9fb5>Polskie Zakłady Lotnicze Sp. z o.o.</color>
+mig-17p_lim_5p_0;"<color=#87a4f5>Polskie Zakłady Lotnicze Sp. z o.o.</color>
 ◊Lim-5P
 <color=#b77272>Fresco-D</color>"
-mig-19s_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-19s_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◊MiG-19S
 <color=#b77272>Farmer-C</color>"
-mig-21_mf_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-21_mf_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◊MiG-21MF
 <color=#b77272>Fishbed-J</color>"
-mig-21_bis_sau_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-21_bis_sau_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◊MiG-21bis-SAU
 <color=#b77272>Fishbed-N</color>"
-mig_23mla_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig_23mla_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◊MiG-23ML
 <color=#b77272>Flogger-G</color>"
-mig_29_9_12_germany_0;"<color=#7b9fb5>Russian Aircraft Corporation Mikoyan</color>
+mig_29_9_12_germany_0;"<color=#87a4f5>Russian Aircraft Corporation Mikoyan</color>
 ◊MiG-29
 <color=#c0c0c0>izdeliye 9-12A</color>
 <color=#b77272>Fulcrum-A</color>"
-su_22um3k_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_22um3k_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 ◊Su-22UM3K
 <color=#b77272>Fitter-G</color>"
-su_22m4_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_22m4_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 ◊Su-22M4
 <color=#b77272>Fitter-K</color>"
-il_28_german_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il_28_german_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 ◊Il-28
 <color=#b77272>Beagle</color>"
-mig_23bn_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig_23bn_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◊MiG-23BN
 <color=#b77272>Flogger-F</color>"
-mig-21_bis_lazur_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-21_bis_lazur_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◊MiG-21bis-Lazur
 <color=#b77272>Fishbed-L</color>"
-mig_23mf_germany_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig_23mf_germany_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◊MiG-23MF
 <color=#b77272>Flogger-B</color>"
-il_2_1942_luftwaffe_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il_2_1942_luftwaffe_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 ▀Il-2
 <color=#c0c0c0>(1942)</color>
 <color=#b77272>Bark</color>"
 ;
-mi_8tb_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_8tb_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 ◊Mi-8TBK
 <color=#b77272>Hip-E</color>"
-mi_24d_german_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_24d_german_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 ◊Mi-24D Krokodil
 <color=#b77272>Hind-D</color>"
-mi_24p_german_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_24p_german_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 ◊Mi-24P Krokodil
 <color=#b77272>Hind-F</color>"
 ;
 germ_9a33bm3_0;"<color=#c8a5b2>9A33BM2</color>
-◊9K33M2 Osa-AK
+◊9K33M2
+<color=#849eb0>Osa-AK</color>
 <color=#b77272>SA-8B Gecko Mod 0</color>"
 germ_9a35_m_0;"<color=#c8a5b2>9A35M</color>
-◊BM 9K35M Strela-10M
+◊9K35M
+<color=#849eb0>Strela-10M</color>
 <color=#b77272>SA-13 Gopher</color>"
 ;
 ;
 ;
 <USSR>;
 ;
-yak-9p_0;"<color=#7b9fb5>Yakovlev Design Bureau | OKB-115</color>
+yak-9p_0;"<color=#87a4f5>Yakovlev Design Bureau | OKB-115</color>
 Yak-9P
 <color=#b77272>Frank</color>"
-yak-15_early_0;"<color=#7b9fb5>Yakovlev Design Bureau | OKB-115</color>
+yak-15_early_0;"<color=#87a4f5>Yakovlev Design Bureau | OKB-115</color>
 Yak-15
 <color=#c0c0c0>(1946)</color>
 <color=#b77272>Feather</color>"
-yak-15_0;"<color=#7b9fb5>Yakovlev Design Bureau | OKB-115</color>
+yak-15_0;"<color=#87a4f5>Yakovlev Design Bureau | OKB-115</color>
 Yak-15
 <color=#c0c0c0>(1947)</color>
 <color=#b77272>Feather</color>"
-yak-17_0;"<color=#7b9fb5>Yakovlev Design Bureau | OKB-115</color>
+yak-17_0;"<color=#87a4f5>Yakovlev Design Bureau | OKB-115</color>
 Yak-17
 <color=#b77272>Feather</color>"
-yak-23_0;"<color=#7b9fb5>Yakovlev Design Bureau | OKB-115</color>
+yak-23_0;"<color=#87a4f5>Yakovlev Design Bureau | OKB-115</color>
 Yak-23
 <color=#b77272>Flora</color>"
-yak-38m_0;"<color=#7b9fb5>Yakovlev Design Bureau | OKB-115</color>
+yak-38m_0;"<color=#87a4f5>Yakovlev Design Bureau | OKB-115</color>
 Yak-38M
 <color=#b77272>Forger-A</color>"
-yak_141_0;"<color=#7b9fb5>Yakovlev Design Bureau | OKB-115</color>
+yak_141_0;"<color=#87a4f5>Yakovlev Design Bureau | OKB-115</color>
 Yak-41
 <color=#b77272>Freestyle</color>"
-mig_29kr_9_41r_0;"<color=#7b9fb5>Russian Aircraft Corporation Mikoyan</color>
+mig_29kr_9_41r_0;"<color=#87a4f5>Russian Aircraft Corporation Mikoyan</color>
 MiG-29Kr
 <color=#c0c0c0>izdeliye 9-41R</color>
 <color=#b77272>Fulcrum-D</color>"
-su_33_0;"<color=#7b9fb5>Sukhoi Aviation Military Industrial Combine</color>
+su_33_0;"<color=#87a4f5>Sukhoi Aviation Military Industrial Combine</color>
 Su-33
 <color=#c0c0c0>(2017)</color>
 <color=#b77272>Flanker-D</color>"
-mig-9_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-9_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-9
 <color=#b77272>Fargo</color>"
-mig-15_ns23_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-15_ns23_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-15
 <color=#b77272>Fagot-A</color>"
-mig-15_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-15_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-15bis
 <color=#b77272>Fagot-B</color>"
-mig-17_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-17_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-17
 <color=#b77272>Fresco-A</color>"
-mig-19pt_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-19pt_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-19PT
 <color=#b77272>Farmer-B</color>"
-mig-21_f13_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-21_f13_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-21F-13
 <color=#b77272>Fishbed-C</color>"
-mig-21_smt_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-21_smt_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-21SMT
 <color=#b77272>Fishbed-K</color>"
-mig-21_bis_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-21_bis_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-21bis
 <color=#b77272>Fishbed-L</color>"
-mig_23m_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig_23m_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-23M
 <color=#b77272>Flogger-B</color>"
-mig_23mld_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig_23mld_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-23MLD
 <color=#b77272>Flogger-K</color>"
-mig_29_9_12_0;"<color=#7b9fb5>Russian Aircraft Corporation Mikoyan</color>
+mig_29_9_12_0;"<color=#87a4f5>Russian Aircraft Corporation Mikoyan</color>
 MiG-29
 <color=#c0c0c0>izdeliye 9-12</color>
 <color=#b77272>Fulcrum-A</color>"
-mig_29_9_13_0;"<color=#7b9fb5>Russian Aircraft Corporation Mikoyan</color>
+mig_29_9_13_0;"<color=#87a4f5>Russian Aircraft Corporation Mikoyan</color>
 MiG-29
 <color=#c0c0c0>izdeliye 9-13</color>
 <color=#b77272>Fulcrum-C</color>"
-mig_29smt_9_19_0;"<color=#7b9fb5>Russian Aircraft Corporation Mikoyan</color>
+mig_29smt_9_19_0;"<color=#87a4f5>Russian Aircraft Corporation Mikoyan</color>
 MiG-29SMT
 <color=#c0c0c0>izdeliye 9-19R</color>
 <color=#b77272>Fulcrum-C</color>"
-mig_35_0;"<color=#7b9fb5>Russian Aircraft Corporation Mikoyan</color>
+mig_35_0;"<color=#87a4f5>Russian Aircraft Corporation Mikoyan</color>
 MiG-35
 <color=#c0c0c0>izdeliye 9-41SR</color>
 <color=#b77272>Fulcrum-F</color>"
-la-7_0;"<color=#7b9fb5>Lavochkin Design Bureau | OKB-301</color>
+la-7_0;"<color=#87a4f5>Lavochkin Design Bureau | OKB-301</color>
 La-7
 <color=#c0c0c0>(1944)</color>
 <color=#b77272>Fin</color>"
-la-7b-20_0;"<color=#7b9fb5>Lavochkin Design Bureau | OKB-301</color>
+la-7b-20_0;"<color=#87a4f5>Lavochkin Design Bureau | OKB-301</color>
 La-7
 <color=#c0c0c0>(1945)</color>
 <color=#b77272>Fin</color>"
-la-9_0;"<color=#7b9fb5>Lavochkin Design Bureau | OKB-301</color>
+la-9_0;"<color=#87a4f5>Lavochkin Design Bureau | OKB-301</color>
 La-9
 <color=#b77272>Fritz</color>"
-la-15_0;"<color=#7b9fb5>Lavochkin Design Bureau | OKB-301</color>
+la-15_0;"<color=#87a4f5>Lavochkin Design Bureau | OKB-301</color>
 La-15
 <color=#b77272>Fantail</color>"
-su-7b_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su-7b_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 Su-7B
 <color=#b77272>Fitter-A</color>"
-su-7bkl_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su-7bkl_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 Su-7BKL
 <color=#b77272>Fitter-A</color>"
-su_15tm_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_15tm_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 Su-15TM
 <color=#b77272>Flagon-F</color>"
-su_17m2_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_17m2_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 Su-17M2
 <color=#b77272>Fitter-D</color>"
-su_17m4_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_17m4_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 Su-17M4
 <color=#b77272>Fitter-K</color>"
-su_27_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_27_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 Su-27S
 <color=#b77272>Flanker-B</color>"
-su_27sm_0;"<color=#7b9fb5>Sukhoi Aviation Military Industrial Combine</color>
+su_27sm_0;"<color=#87a4f5>Sukhoi Aviation Military Industrial Combine</color>
 Su-27SM
 <color=#b77272>Flanker-J</color>"
-su_30sm_0;"<color=#7b9fb5>Sukhoi Company</color>
+su_30sm_0;"<color=#87a4f5>Sukhoi Company</color>
 Su-30SM
 <color=#b77272>Flanker-H</color>"
-su_30sm2_0;"<color=#7b9fb5>Sukhoi Company</color>
+su_30sm2_0;"<color=#87a4f5>Sukhoi Company</color>
 Su-30SM2
 <color=#b77272>Flanker-H</color>"
-po-2_0;"<color=#7b9fb5>Polikarpov Design Bureau</color>
+po-2_0;"<color=#87a4f5>Polikarpov Design Bureau</color>
 U-2LSh
 <color=#b77272>Mule</color>"
-il-10_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il-10_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-10
 <color=#c0c0c0>(1945)</color>
 <color=#b77272>Beast</color>"
-il-10_1946_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il-10_1946_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-10
 <color=#c0c0c0>(1947)</color>
 <color=#b77272>Beast</color>"
-il_28_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il_28_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-28
 <color=#b77272>Beagle</color>"
-il_28sh_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il_28sh_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-28Sh
 <color=#b77272>Beagle</color>"
-yak_130_early_0;"<color=#7b9fb5>Yakovlev Corporation</color>
+yak_130_early_0;"<color=#87a4f5>Yakovlev Corporation</color>
 Yak-130
 <color=#b77272>Mitten</color>"
-su_25_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_25_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 Su-25 Grach
 <color=#b77272>Frogfoot</color>"
-su_25t_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_25t_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 Su-25T Grach
 <color=#b77272>Frogfoot</color>"
-su_25sm3_0;"<color=#7b9fb5>Sukhoi Company</color>
+su_25sm3_0;"<color=#87a4f5>Sukhoi Company</color>
 Su-25SM3 Grach
 <color=#b77272>Frogfoot</color>"
-il-4_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il-4_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-4
 <color=#b77272>Bob</color>"
-pe-2-1_0;"<color=#7b9fb5>Petlyakov Design Bureau</color>
+pe-2-1_0;"<color=#87a4f5>Petlyakov Design Bureau</color>
 Pe-2-1 Peshka
 <color=#b77272>Buck</color>"
-pe-2-31_0;"<color=#7b9fb5>Petlyakov Design Bureau</color>
+pe-2-31_0;"<color=#87a4f5>Petlyakov Design Bureau</color>
 Pe-2-31 Peshka
 <color=#b77272>Buck</color>"
-pe-2-83_0;"<color=#7b9fb5>Petlyakov Design Bureau</color>
+pe-2-83_0;"<color=#87a4f5>Petlyakov Design Bureau</color>
 Pe-2-83 Peshka
 <color=#b77272>Buck</color>"
-pe-2-110_0;"<color=#7b9fb5>Petlyakov Design Bureau</color>
+pe-2-110_0;"<color=#87a4f5>Petlyakov Design Bureau</color>
 Pe-2-110 Peshka
 <color=#b77272>Buck</color>"
-pe-2-359_0;"<color=#7b9fb5>Petlyakov Design Bureau</color>
+pe-2-359_0;"<color=#87a4f5>Petlyakov Design Bureau</color>
 Pe-2-359 Peshka
 <color=#b77272>Buck</color>"
-tu-2_0;"<color=#7b9fb5>Tupolev Design Bureau | OKB-156</color>
+tu-2_0;"<color=#87a4f5>Tupolev Design Bureau | OKB-156</color>
 Tu-2S-10
 <color=#b77272>Bat</color>"
-tu-2_postwar_0;"<color=#7b9fb5>Tupolev Design Bureau | OKB-156</color>
+tu-2_postwar_0;"<color=#87a4f5>Tupolev Design Bureau | OKB-156</color>
 Tu-2S-44
 <color=#b77272>Bat</color>"
-tu-2_postwar_late_0;"<color=#7b9fb5>Tupolev Design Bureau | OKB-156</color>
+tu-2_postwar_late_0;"<color=#87a4f5>Tupolev Design Bureau | OKB-156</color>
 Tu-2S-59
 <color=#b77272>Bat</color>"
-tu_4_0;"<color=#7b9fb5>Tupolev Design Bureau | OKB-156</color>
+tu_4_0;"<color=#87a4f5>Tupolev Design Bureau | OKB-156</color>
 Tu-4
 <color=#b77272>Bull</color>"
-tu_14t_0;"<color=#7b9fb5>Tupolev Design Bureau | OKB-156</color>
+tu_14t_0;"<color=#87a4f5>Tupolev Design Bureau | OKB-156</color>
 Tu-14T
 <color=#b77272>Bosun</color>"
-yak-28b_0;"<color=#7b9fb5>Yakovlev Design Bureau | OKB-115</color>
+yak-28b_0;"<color=#87a4f5>Yakovlev Design Bureau | OKB-115</color>
 Yak-28B
 <color=#b77272>Brewer-A</color>"
-mig_27m_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig_27m_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-27M
 <color=#b77272>Flogger-J</color>"
-mig_27k_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig_27k_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-27K
 <color=#b77272>Flogger-J2</color>"
-su_24m_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_24m_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 Su-24M
 <color=#b77272>Fencer-D</color>"
-su_34_0;"<color=#7b9fb5>Sukhoi Company</color>
+su_34_0;"<color=#87a4f5>Sukhoi Company</color>
 Su-34 NVO
 <color=#b77272>Fullback</color>"
-po-2m_0;"<color=#7b9fb5>Polikarpov Design Bureau</color>
+po-2m_0;"<color=#87a4f5>Polikarpov Design Bureau</color>
 U-2M
 <color=#b77272>Mule</color>"
-p-63a-5_ussr_0;"<color=#7b9fb5>Bell Aircraft Corporation</color>
+p-63a-5_ussr_0;"<color=#87a4f5>Bell Aircraft Corporation</color>
 ▂P-63A-5-BE Kingcobra
 <color=#b77272>Fred</color>"
-b_25j_30_vvs_ussr_0;"<color=#7b9fb5>North American Aviation</color>
+b_25j_30_vvs_ussr_0;"<color=#87a4f5>North American Aviation</color>
 ▂B-25J-30-NC Mitchell
 <color=#b77272>Bank</color>"
-la-7_dolgushin_0;"<color=#7b9fb5>Lavochkin Design Bureau | OKB-301</color>
+la-7_dolgushin_0;"<color=#87a4f5>Lavochkin Design Bureau | OKB-301</color>
 La-7
 <color=#c0c0c0>(1944)</color>
 <color=#b77272>Fin</color>
 <color=#ffe66d>Sergei Dolgushin</color>"
-be_6_0;"<color=#7b9fb5>Beriev Design Bureau | OKB-49</color>
+be_6_0;"<color=#87a4f5>Beriev Design Bureau | OKB-49</color>
 Be-6
 <color=#b77272>Madge</color>"
-mig-15bis_ish_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-15bis_ish_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-15bis-ISh
 <color=#b77272>Fagot-B</color>"
-yak-38_0;"<color=#7b9fb5>Yakovlev Design Bureau | OKB-115</color>
+yak-38_0;"<color=#87a4f5>Yakovlev Design Bureau | OKB-115</color>
 Yak-38
 <color=#b77272>Forger-A</color>"
-mig-21_pfm_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-21_pfm_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-21PFM
 <color=#b77272>Fishbed-F</color>"
-mig-21_s_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-21_s_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-21S
 <color=#b77272>Fishbed-J</color>"
-mig_23ml_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig_23ml_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-23ML
 <color=#b77272>Flogger-G</color>"
-su_25tm_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_25tm_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 Su-25TM Grach
 <color=#b77272>Frogfoot</color>"
-tu-2_early_0;"<color=#7b9fb5>Tupolev Design Bureau | OKB-156</color>
+tu-2_early_0;"<color=#87a4f5>Tupolev Design Bureau | OKB-156</color>
 Tu-2
 <color=#b77272>Bat</color>"
-p-63c-5_ussr_0;"<color=#7b9fb5>Bell Aircraft Corporation</color>
+p-63c-5_ussr_0;"<color=#87a4f5>Bell Aircraft Corporation</color>
 ▂P-63C-5-BE Kingcobra
 <color=#b77272>Fred</color>"
-p-63a-10_ussr_0;"<color=#7b9fb5>Bell Aircraft Corporation</color>
+p-63a-10_ussr_0;"<color=#87a4f5>Bell Aircraft Corporation</color>
 ▂P-63A-10-BE Kingcobra
 <color=#b77272>Fred</color>"
-la-11_0;"<color=#7b9fb5>Lavochkin Design Bureau | OKB-301</color>
+la-11_0;"<color=#87a4f5>Lavochkin Design Bureau | OKB-301</color>
 La-11
 <color=#b77272>Fang</color>"
-su_25_558arz_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_25_558arz_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 ▱Su-25BM Grach
 <color=#b77272>Frogfoot</color>"
-mig-17_cuba_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-17_cuba_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ╇MiG-17AS
 <color=#b77272>Fresco-A</color>"
-su-7bmk_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su-7bmk_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 ¤Su-7BMK
 <color=#b77272>Fitter-A</color>"
-su_22m3_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_22m3_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 ⚇Su-22M3
 <color=#b77272>Fitter-H</color>"
-su_25k_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_25k_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 ⚚Su-25K Grach
 <color=#b77272>Frogfoot</color>"
-il_2_1941_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il_2_1941_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-2
 <color=#c0c0c0>(1941)</color>
 <color=#b77272>Bark</color>"
-il-2i_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il-2i_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-2
 <color=#c0c0c0>(1942)</color>
 <color=#b77272>Bark</color>"
-il_2_37_1943_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il_2_37_1943_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-2-37
 <color=#b77272>Bark</color>"
-il_2m_1943_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il_2m_1943_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-2
 <color=#c0c0c0>(1943)</color>
 <color=#b77272>Bark</color>"
-il-2m_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il-2m_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-2
 <color=#c0c0c0>(1944)</color>
 <color=#b77272>Bark</color>"
-il-2m_mstitel_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il-2m_mstitel_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-2 «Mstitel»
 <color=#c0c0c0>(1944)</color>
 <color=#b77272>Bark</color>"
-mbr-2_0;"<color=#7b9fb5>Beriev Design Bureau | OKB-49</color>
+mbr-2_0;"<color=#87a4f5>Beriev Design Bureau | OKB-49</color>
 MBR-2bis
 <color=#b77272>Mote</color>"
-pby-5a_ussr_0;"<color=#7b9fb5>Consolidated Aircraft Corporation</color>
+pby-5a_ussr_0;"<color=#87a4f5>Consolidated Aircraft Corporation</color>
 ▂PBY-5A Catalina
 <color=#b77272>Mop</color>"
-a_20g_30_ussr_0;"<color=#7b9fb5>Douglas Aircraft Company</color>
+a_20g_30_ussr_0;"<color=#87a4f5>Douglas Aircraft Company</color>
 ▂A-20G-30-DO Havoc
 <color=#b77272>Box</color>"
-il_2_m82_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il_2_m82_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 Il-2 (M-82)
 <color=#b77272>Bark</color>"
-pe-2-205_0;"<color=#7b9fb5>Petlyakov Design Bureau</color>
+pe-2-205_0;"<color=#87a4f5>Petlyakov Design Bureau</color>
 Pe-2-205 Peshka
 <color=#b77272>Buck</color>"
-su_30mk2v_venezuela_0;"<color=#7b9fb5>Sukhoi Company</color>
+su_30mk2v_venezuela_0;"<color=#87a4f5>Sukhoi Company</color>
 ♞Su-30MK2 Aviacion Militar Venezolana
 <color=#b77272>Flanker-G+</color>"
-mig_25pd_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig_25pd_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 MiG-25PD
 <color=#b77272>Foxbat-E</color>"
-mig_29m_9_15_0;"<color=#7b9fb5>Russian Aircraft Corporation Mikoyan</color>
+mig_29m_9_15_0;"<color=#87a4f5>Russian Aircraft Corporation Mikoyan</color>
 MiG-29M
 <color=#c0c0c0>izdeliye 9-15</color>
 <color=#b77272>Fulcrum-E</color>"
-tu_95m_0;"<color=#7b9fb5>Tupolev Design Bureau | OKB-156</color>
+tu_95m_0;"<color=#87a4f5>Tupolev Design Bureau | OKB-156</color>
 Tu-95M
 <color=#b77272>Bear-A</color>"
 ;
-mi_24d_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_24d_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 ⚚Mi-24D Krokodil
 <color=#b77272>Hind-D</color>"
-mi_4av_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_4av_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 Mi-4AV
 <color=#b77272>Hound-A</color>"
-mi_8tv_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_8tv_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 Mi-8TVK
 <color=#b77272>Hip-E</color>"
-mi_8amtsh_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_8amtsh_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 Mi-8AMTSh
 <color=#b77272>Hip</color>"
-mi_8amtsh_vn_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_8amtsh_vn_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 Mi-8AMTSh-VN
 <color=#b77272>Hip</color>"
-mi_24a_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_24a_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 Mi-24A Krokodil
 <color=#b77272>Hind-A</color>"
-mi_24v_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_24v_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 Mi-24V Krokodil
 <color=#b77272>Hind-E</color>"
-mi_24p_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_24p_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 Mi-24P Krokodil
 <color=#b77272>Hind-F</color>"
-mi_35m_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_35m_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 Mi-24VM Krokodil
 <color=#b77272>Hind-E</color>"
-mi_28n_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_28n_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 Mi-28N
 <color=#b77272>Havoc</color>"
-mi_28nm_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_28nm_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 Mi-28NM
 <color=#b77272>Havoc</color>"
-ka_29_0;"<color=#7b9fb5>Kamov</color>
+ka_29_0;"<color=#87a4f5>Kamov</color>
 Ka-29
 <color=#b77272>Helix-B</color>"
-ka_50_0;"<color=#7b9fb5>Kamov</color>
+ka_50_0;"<color=#87a4f5>Kamov</color>
 Ka-50
 <color=#b77272>Hokum-A</color>"
-ka_52_0;"<color=#7b9fb5>Kamov</color>
+ka_52_0;"<color=#87a4f5>Kamov</color>
 Ka-52
 <color=#b77272>Hokum-B</color>"
-mi_35p_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_35p_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 Mi-35P Krokodil “Phoenix”
 <color=#b77272>Hind-F</color>"
 ;
 ussr_9a33bm3_0;"<color=#c8a5b2>9A33BM3</color>
 9K33M3
-<color=#7b9fb5>Osa-AKM</color>
+<color=#849eb0>Osa-AKM</color>
 <color=#b77272>SA-8B Gecko Mod-1</color>"
 ussr_9a35_m2_0;"<color=#c8a5b2>9A35M</color>
 BM 9K35M
-<color=#7b9fb5>Strela-10M</color>
+<color=#849eb0>Strela-10M</color>
 <color=#b77272>SA-13 Gopher</color>"
 ussr_zprk_2s6_0;"<color=#c8a5b2>Object 352M1</color>
 ZSU 2S6M1
-<color=#7b9fb5>Tunguska-M1</color>
+<color=#849eb0>Tunguska-M1</color>
 <color=#b77272>SA-19 Grison</color>"
 ussr_tor_m1_0;"<color=#c8a5b2>9A331-1</color>
 9K331
-<color=#7b9fb5>Tor-M1</color>
+<color=#849eb0>Tor-M1</color>
 <color=#b77272>SA-15 Gauntlet</color>"
 ussr_pantsyr_s1_0;"<color=#c8a5b2>96K6</color>
 72V6
-<color=#7b9fb5>Pantsir-S1</color>
+<color=#849eb0>Pantsir-S1</color>
 <color=#b77272>SA-22 Greyhound</color>"
 ussr_buk_m3_fcs_0;"9S18M3 Target Acquisition Radar
 <color=#b77272>SA-27 Gollum</color>"
 ussr_buk_m3_launcher_0;"<color=#c8a5b2>9A317M</color>
 9K317M Transporter Erector Launcher And Radar
-<color=#7b9fb5>Buk-M3</color>
+<color=#849eb0>Buk-M3</color>
 <color=#b77272>SA-27 Gollum</color>"
 ussr_pantsyr_sm_sv_0;"<color=#c8a5b2>96K6</color>
 72V6M
-<color=#7b9fb5>Pantsir-SM-SV</color>
+<color=#849eb0>Pantsir-SM-SV</color>
 <color=#b77272>SA-22 Greyhound</color>"
 ;
 ;
@@ -471,21 +473,21 @@ uk_9a35_m_0;"<color=#c8a5b2>9A35M</color>
 ;
 it_9a33bm3_0;"<color=#c8a5b2>9A33BM3</color>
 ╏9K33M3
-<color=#7b9fb5>Osa-AKM</color>
+<color=#849eb0>Osa-AKM</color>
 <color=#b77272>SA-8B Gecko Mod-1</color>"
 it_9a35_m_0;"<color=#c8a5b2>9A35M</color>
 ◔BM 9K35M
-<color=#7b9fb5>Strela-10M</color>
+<color=#849eb0>Strela-10M</color>
 <color=#b77272>SA-13 Gopher</color>"
 ;
 ;
 ;
 <Japan>;
 ;
-mi_35p_indonesia_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_35p_indonesia_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 ◥Mi-35P Krokodil
 <color=#b77272>Hind-F</color>"
-su_30mkm_0;"<color=#7b9fb5>Sukhoi Company</color>
+su_30mkm_0;"<color=#87a4f5>Sukhoi Company</color>
 ☉Su-30MKM
 <color=#b77272>Flanker-H</color>"
 ;
@@ -493,45 +495,45 @@ su_30mkm_0;"<color=#7b9fb5>Sukhoi Company</color>
 ;
 <Hungary>;
 ;
-tu-2_postwar_late_hungary_0;"<color=#7b9fb5>Tupolev Design Bureau | OKB-156</color>
+tu-2_postwar_late_hungary_0;"<color=#87a4f5>Tupolev Design Bureau | OKB-156</color>
 ◔Tu-2S-59
 <color=#b77272>Bat</color>"
-il_28_hungary_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il_28_hungary_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 ◔Il-28
 <color=#b77272>Beagle</color>"
-su_22m3_hungary_0;"<color=#7b9fb5>Sukhoi Design Bureau | OKB-51</color>
+su_22m3_hungary_0;"<color=#87a4f5>Sukhoi Design Bureau | OKB-51</color>
 ◔Su-22M3
 <color=#b77272>Fitter-H</color>"
-yak-9p_hungary_0;"<color=#7b9fb5>Yakovlev Design Bureau | OKB-115</color>
+yak-9p_hungary_0;"<color=#87a4f5>Yakovlev Design Bureau | OKB-115</color>
 ◔Yak-9P
 <color=#b77272>Frank</color>"
-mig-15bis_nr23_hungary_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-15bis_nr23_hungary_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◔MiG-15bis
 <color=#b77272>Fagot-B</color>"
-mig-17pf_hungary_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-17pf_hungary_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◔MiG-17PF
 <color=#b77272>Fresco-D</color>"
-mig-21_mf_hungary_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-21_mf_hungary_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◔MiG-21MF
 <color=#b77272>Fishbed-J</color>"
-mig-21_bis_sau_hungary_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-21_bis_sau_hungary_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◔MiG-21bis-SAU
 <color=#b77272>Fishbed-N</color>"
-mig_23mf_hungary_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig_23mf_hungary_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ◔MiG-23MF
 <color=#b77272>Fishbed-B</color>"
-mig_29_9_12b_hungary_0;"<color=#7b9fb5>Russian Aircraft Corporation Mikoyan</color>
+mig_29_9_12b_hungary_0;"<color=#87a4f5>Russian Aircraft Corporation Mikoyan</color>
 ◔MiG-29
 <color=#c0c0c0>izdeliye 9-12B</color>
 <color=#b77272>Fulcrum-A</color>"
 ;
-mi_24d_hungary_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_24d_hungary_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 ◔Mi-24D Krokodil
 <color=#b77272>Hind-D</color>"
-mi_24v_hungary_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_24v_hungary_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 ◔Mi-24V Krokodil
 <color=#b77272>Hind-E</color>"
-mi_24p_hungary_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
+mi_24p_hungary_0;"<color=#87a4f5>Mil Moscow Helicopter Plant</color>
 ◔Mi-24P Krokodil
 <color=#b77272>Hind-F</color>"
 ;
@@ -539,119 +541,119 @@ mi_24p_hungary_0;"<color=#7b9fb5>Mil Moscow Helicopter Plant</color>
 ;
 <China>;
 ;
-la-11_china_0;"<color=#7b9fb5>Lavochkin Design Bureau | OKB-301</color>
+la-11_china_0;"<color=#87a4f5>Lavochkin Design Bureau | OKB-301</color>
 ␗La-11
 <color=#b77272>Fang</color>"
-la-9_china_0;"<color=#7b9fb5>Lavochkin Design Bureau</color>
+la-9_china_0;"<color=#87a4f5>Lavochkin Design Bureau</color>
 ␗La-9
 <color=#b77272>Fritz</color>"
-mig-9_china_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-9_china_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ␗MiG-9
 <color=#b77272>Fargo</color>"
-mig-15bis_nr23_china_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-15bis_nr23_china_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 ␗MiG-15bis
 <color=#b77272>Fagot-B</color>"
-mig-17_china_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+mig-17_china_0;"<color=#87a4f5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
 J5
 <color=#b77272>Fresco-A</color>"
-mig-19j_6a_0;"<color=#7b9fb5>AVIC Guizhou Aircraft Industry Corporation</color>
+mig-19j_6a_0;"<color=#87a4f5>AVIC Guizhou Aircraft Industry Corporation</color>
 J6A
 <color=#b77272>Farmer</color>"
-j_7_mk2_0;"<color=#7b9fb5>AVIC Chengdu Aircraft Corporation</color>
+j_7_mk2_0;"<color=#87a4f5>AVIC Chengdu Aircraft Corporation</color>
 J7B
 <color=#b77272>Fishcan</color>"
-j_7e_0;"<color=#7b9fb5>AVIC Chengdu Aircraft Corporation</color>
+j_7e_0;"<color=#87a4f5>AVIC Chengdu Aircraft Corporation</color>
 J7E
 <color=#b77272>Fishcan</color>"
-j_8b_0;"<color=#7b9fb5>AVIC Shenyang Aircraft Corporation</color>
+j_8b_0;"<color=#87a4f5>AVIC Shenyang Aircraft Corporation</color>
 J8B
 <color=#b77272>Finback-B</color>"
-j_8f_0;"<color=#7b9fb5>AVIC Shenyang Aircraft Corporation</color>
+j_8f_0;"<color=#87a4f5>AVIC Shenyang Aircraft Corporation</color>
 J8F
 <color=#b77272>Finback</color>"
-j_10a_0;"<color=#7b9fb5>AVIC Chengdu Aircraft Corporation</color>
+j_10a_0;"<color=#87a4f5>AVIC Chengdu Aircraft Corporation</color>
 J10A Měng Lóng
 <color=#b77272>Firebird</color>"
-j_10c_0;"<color=#7b9fb5>AVIC Chengdu Aircraft Corporation</color>
+j_10c_0;"<color=#87a4f5>AVIC Chengdu Aircraft Corporation</color>
 J10C Měng Lóng
 <color=#b77272>Firebird</color>"
-il-10_1946_china_0;"<color=#7b9fb5>Ilyushin Design Bureau | OKB-39</color>
+il-10_1946_china_0;"<color=#87a4f5>Ilyushin Design Bureau | OKB-39</color>
 ␗IL-10
 <color=#c0c0c0>(1947)</color>
 <color=#b77272>Beast</color>"
-q_5_early_0;"<color=#7b9fb5>Nanchang Aircraft Manufacturing Corporation</color>
+q_5_early_0;"<color=#87a4f5>Nanchang Aircraft Manufacturing Corporation</color>
 Q5
 <color=#b77272>Fantan</color>"
-q_5a_0;"<color=#7b9fb5>Nanchang Aircraft Manufacturing Corporation</color>
+q_5a_0;"<color=#87a4f5>Nanchang Aircraft Manufacturing Corporation</color>
 Q5B
 <color=#b77272>Fantan</color>"
-q_5l_0;"<color=#7b9fb5>AVIC Hongdu Aviation Industry Group Ltd.</color>
+q_5l_0;"<color=#87a4f5>AVIC Hongdu Aviation Industry Group Ltd.</color>
 Q5L
 <color=#b77272>Fantan</color>"
-jh_7_0;"<color=#7b9fb5>AVIC Xi’an Aircraft Industrial Complex</color>
+jh_7_0;"<color=#87a4f5>AVIC Xi’an Aircraft Industrial Complex</color>
 JH7 Fēi Bào
 <color=#b77272>Flounder</color>"
-jh_7a_0;"<color=#7b9fb5>AVIC Xi’an Aircraft Industrial Complex</color>
+jh_7a_0;"<color=#87a4f5>AVIC Xi’an Aircraft Industrial Complex</color>
 JH7A Fēi Bào
 <color=#b77272>Flounder</color>"
-jh_7a2_0;"<color=#7b9fb5>AVIC Xi’an Aircraft Industrial Complex</color>
+jh_7a2_0;"<color=#87a4f5>AVIC Xi’an Aircraft Industrial Complex</color>
 JH7A2 Fēi Bào
 <color=#b77272>Flounder</color>"
-j_16_0;"<color=#7b9fb5>AVIC Shenyang Aircraft Corporation</color>
+j_16_0;"<color=#87a4f5>AVIC Shenyang Aircraft Corporation</color>
 J16 Qián Lóng
 <color=#b77272>Flanker-N</color>"
-tu-2_postwar_china_0;"<color=#7b9fb5>Tupolev Design Bureau | OKB-156</color>
+tu-2_postwar_china_0;"<color=#87a4f5>Tupolev Design Bureau | OKB-156</color>
 ␗Tu-2S-44
 <color=#b77272>Bat</color>"
-tu_4_china_0;"<color=#7b9fb5>Tupolev Design Bureau | OKB-156</color>
+tu_4_china_0;"<color=#87a4f5>Tupolev Design Bureau | OKB-156</color>
 ␗Tu-4
 <color=#b77272>Bull</color>"
-il_28_china_0;"<color=#7b9fb5>AVIC Harbin Aircraft Industry (Group) Ltd.</color>
+il_28_china_0;"<color=#87a4f5>AVIC Harbin Aircraft Industry (Group) Ltd.</color>
 H5
 <color=#b77272>Beagle</color>"
-j_11_0;"<color=#7b9fb5>AVIC Shenyang Aircraft Corporation</color>
+j_11_0;"<color=#87a4f5>AVIC Shenyang Aircraft Corporation</color>
 J11 Yìng Lóng
 <color=#b77272>Flanker-B</color>"
-j_11a_0;"<color=#7b9fb5>AVIC Shenyang Aircraft Corporation</color>
+j_11a_0;"<color=#87a4f5>AVIC Shenyang Aircraft Corporation</color>
 J11A Yìng Lóng
 <color=#c0c0c0>Mid-Life Update</color>
 <color=#b77272>Flanker-B+</color>"
-j_11b_0;"<color=#7b9fb5>AVIC Shenyang Aircraft Corporation</color>
+j_11b_0;"<color=#87a4f5>AVIC Shenyang Aircraft Corporation</color>
 J11B Yìng Lóng
 <color=#c0c0c0>Block 02</color>
 <color=#b77272>Flanker-L</color>"
-j_15t_0;"<color=#7b9fb5>AVIC Shenyang Aircraft Corporation</color>
+j_15t_0;"<color=#87a4f5>AVIC Shenyang Aircraft Corporation</color>
 J15T Fēi Shā
 <color=#b77272>Flanker-X2</color>"
-mig-17_f5_0;"<color=#7b9fb5>State Songling Machinery Factory</color>
+mig-17_f5_0;"<color=#87a4f5>State Songling Machinery Factory</color>
 ▆F5
 <color=#b77272>Fresco-C</color>"
-f_6c_pakistan_0;"<color=#7b9fb5>AVIC Guizhou Aircraft Industry Corporation</color>
+f_6c_pakistan_0;"<color=#87a4f5>AVIC Guizhou Aircraft Industry Corporation</color>
 ☪F6C
 <color=#b77272>Farmer</color>"
-q_5d_0;"<color=#7b9fb5>Nanchang Aircraft Manufacturing Corporation</color>
+q_5d_0;"<color=#87a4f5>Nanchang Aircraft Manufacturing Corporation</color>
 Q5D
 <color=#b77272>Fantan</color>"
-a_5c_0;"<color=#7b9fb5>Nanchang Aircraft Manufacturing Corporation</color>
+a_5c_0;"<color=#87a4f5>Nanchang Aircraft Manufacturing Corporation</color>
 ☪A5C
 <color=#b77272>Fantan</color>"
-j_7d_0;"<color=#7b9fb5>AVIC Chengdu Aircraft Corporation</color>
+j_7d_0;"<color=#87a4f5>AVIC Chengdu Aircraft Corporation</color>
 J7D
 <color=#b77272>Fishcan</color>"
-su_30mkk_0;"<color=#7b9fb5>Sukhoi Company</color>
+su_30mkk_0;"<color=#87a4f5>Sukhoi Company</color>
 ␗Su-30MKK
 <color=#b77272>Flanker-G</color>"
 ;
-z_9w_0;"<color=#7b9fb5>AVIC Harbin Aircraft Industry (Group) Ltd.</color>
+z_9w_0;"<color=#87a4f5>AVIC Harbin Aircraft Industry (Group) Ltd.</color>
 Z9W
 <color=#b77272>Haitun</color>"
-z_9wa_0;"<color=#7b9fb5>AVIC Harbin Aircraft Industry (Group) Ltd.</color>
+z_9wa_0;"<color=#87a4f5>AVIC Harbin Aircraft Industry (Group) Ltd.</color>
 Z9WA
 <color=#b77272>Haitun</color>"
 ;
 cn_tor_m1_0;"<color=#c8a5b2>9A331-1</color>
 ␗9K331
-<color=#7b9fb5>Tor-M1</color>
+<color=#849eb0>Tor-M1</color>
 <color=#b77272>SA-15 Gauntlet</color>"
 cn_hq_17_0;"<color=#c8a5b2>WXZ217</color>
 HQ17
@@ -662,7 +664,7 @@ AKD17 Tracked Missile Launch Vehicle
 ;
 <Israel>
 ;
-mig_21_2000_iaf_0;"<color=#7b9fb5>Israel Aircraft Industries</color>
+mig_21_2000_iaf_0;"<color=#87a4f5>Israel Aircraft Industries</color>
 MiG-21 2000
 <color=#b77272>Fishbed 2000</color>";
 ;
