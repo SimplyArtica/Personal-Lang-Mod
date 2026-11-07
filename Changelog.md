@@ -72,7 +72,8 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 	- HVAR MK 28 → MK 28 HVAR
 	- Zuni MK 32 → Zuni (MK 32)
 	- Zuni MK 34 → Zuni (MK 34)
-	- T/220 renamed to T220/e
+	- T/220 → T220/e
+	- Spike NLOS Mk.4 → Spike NLOS Mk.5
 
 
 - ### AI Changes:
@@ -106,6 +107,9 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 	
 	- #### Israeli Nicknames:
 		- F-15IA → Ra'am II
+
+
+
 
 
 ## **2.1.0.0**
