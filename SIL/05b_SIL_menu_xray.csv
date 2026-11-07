@@ -1778,6 +1778,7 @@ sensors/us_an_alr_45v;AN/ALR-45(V)
 sensors/us_an_alr_46_v3_f_5th;AN/ALR-46(V)3
 sensors/us_an_alr_56m;AN/ALR-56M
 sensors/us_an_alr_67;AN/ALR-67(V)2
+sensors/us_epawss;AN/ALQ-250 EPAWSS
 ;
 sensors/su_spo-2;SPO-2
 sensors/su_spo-10;SPO-10
