@@ -10,32 +10,32 @@ us_m2a4_1;M2A4;
 us_m2a4_2;Light Tank;
 us_m3_stuart_shop;M3;
 us_m3_stuart_0;"Tank, Light, M3
-<color=#9daab3>General Stuart</color>";
+<color=#849eb0>General Stuart</color>";
 us_m3_stuart_1;M3;
 us_m3_stuart_2;Light Tank;
 us_m3a1_stuart_shop;M3A1;
 us_m3a1_stuart_0;"Tank, Light, M3A1
-<color=#9daab3>General Stuart</color>";
+<color=#849eb0>General Stuart</color>";
 us_m3a1_stuart_1;M3A1;
 us_m3a1_stuart_2;Light Tank;
 us_m5a1_stuart_shop;M5A1;
 us_m5a1_stuart_0;"Tank, Light, M5A1
-<color=#9daab3>General Stuart</color>";
+<color=#849eb0>General Stuart</color>";
 us_m5a1_stuart_1;M5A1;
 us_m5a1_stuart_2;Light Tank;
 us_m24_chaffee_shop;M24;
 us_m24_chaffee_0;"Tank, Light, M24
-<color=#9daab3>General Chaffee</color>";
+<color=#849eb0>General Chaffee</color>";
 us_m24_chaffee_1;M24;
 us_m24_chaffee_2;Light Tank;
 us_m18_hellcat_shop;M18;
 us_m18_hellcat_0;"Carriage, Motor, 76mm Gun, M18
-<color=#9daab3>Hellcat</color>";
+<color=#849eb0>Hellcat</color>";
 us_m18_hellcat_1;M18;
 us_m18_hellcat_2;Light Tank;
 us_m41_walker_bulldog_shop;M41A1;
 us_m41_walker_bulldog_0;"Tank, Combat, Full-Tracked, 76mm Gun, M41A1
-<color=#9daab3>Walker Bulldog</color>";
+<color=#849eb0>Walker Bulldog</color>";
 us_m41_walker_bulldog_1;M41A1;
 us_m41_walker_bulldog_2;Light Tank;
 us_t92_shop;T92;
@@ -49,7 +49,7 @@ us_xm_800t_2;Light Tank;
 us_m551_shop;M551;
 us_m551_0;"Armored Reconnaissance / Airborne Assault Vehicle,
 Full-Tracked, 152mm Gun-Launcher, M551
-<color=#9daab3>General Sheridan</color>";
+<color=#849eb0>General Sheridan</color>";
 us_m551_1;M551;
 us_m551_2;Light Tank;
 us_stingray_shop;Stingray;
@@ -58,17 +58,17 @@ us_stingray_1;Stingray;
 us_stingray_2;Light Tank;
 us_m1296_dragoon_shop;M1296 ICVD;
 us_m1296_dragoon_0;"Combat Vehicle, Infantry, M1296
-<color=#9daab3>Stryker Dragoon</color>";
+<color=#849eb0>Stryker Dragoon</color>";
 us_m1296_dragoon_1;M1296 ICVD;
 us_m1296_dragoon_2;IFV;
 us_m1128_mgs_shop;M1128 MGS;
 us_m1128_mgs_0;"Mobile Gun System, M1128
-<color=#9daab3>Stryker</color>";
+<color=#849eb0>Stryker</color>";
 us_m1128_mgs_1;M1128 MGS;
 us_m1128_mgs_2;Light Tank;
 us_m10_booker_late_shop;M10;
 us_m10_booker_late_0;"Combat Vehicle, Full-Tracked, 105mm Gun, M10
-<color=#9daab3>Booker</color>";
+<color=#849eb0>Booker</color>";
 us_m10_booker_late_1;M10;
 us_m10_booker_late_2;Light Tank;
 us_hstv_l_shop;HSTV(L);
@@ -81,42 +81,42 @@ us_m2_medium_1;M2;
 us_m2_medium_2;Medium Tank;
 us_m3_lee_shop;M3;
 us_m3_lee_0;"Tank, Medium, M3
-<color=#9daab3>General Lee</color>";
+<color=#849eb0>General Lee</color>";
 us_m3_lee_1;M3;
 us_m3_lee_2;Medium Tank;
 us_m4a1_1942_sherman_shop;M4A1;
 us_m4a1_1942_sherman_0;"Tank, Medium, M4A1
-<color=#9daab3>General Sherman</color>";
+<color=#849eb0>General Sherman</color>";
 us_m4a1_1942_sherman_1;M4A1;
 us_m4a1_1942_sherman_2;Medium Tank;
 us_m4_sherman_shop;M4;
 us_m4_sherman_0;"Tank, Medium, M4
-<color=#9daab3>General Sherman</color>";
+<color=#849eb0>General Sherman</color>";
 us_m4_sherman_1;M4;
 us_m4_sherman_2;Medium Tank;
 us_m4a2_sherman_shop;M4A2;
 us_m4a2_sherman_0;"Tank, Medium, M4A2
-<color=#9daab3>General Sherman</color>";
+<color=#849eb0>General Sherman</color>";
 us_m4a2_sherman_1;M4A2;
 us_m4a2_sherman_2;Medium Tank;
 us_m4a1_76w_sherman_shop;M4A1(76);
 us_m4a1_76w_sherman_0;"Tank, Medium, M4A1(76)W
-<color=#9daab3>General Sherman</color>";
+<color=#849eb0>General Sherman</color>";
 us_m4a1_76w_sherman_1;M4A1(76);
 us_m4a1_76w_sherman_2;Medium Tank;
 us_m4a2_76w_sherman_shop;M4A2(76);
 us_m4a2_76w_sherman_0;"Tank, Medium, M4A2(76)W
-<color=#9daab3>General Sherman</color>";
+<color=#849eb0>General Sherman</color>";
 us_m4a2_76w_sherman_1;M4A2(76);
 us_m4a2_76w_sherman_2;Medium Tank;
 us_m4a3e8_76w_sherman_shop;M4A3(76);
 us_m4a3e8_76w_sherman_0;"Tank, Medium, M4A3(76)W HVSS
-<color=#9daab3>General Sherman</color>";
+<color=#849eb0>General Sherman</color>";
 us_m4a3e8_76w_sherman_1;M4A3(76);
 us_m4a3e8_76w_sherman_2;Medium Tank;
 us_m4_t26_shop;M4(90);
 us_m4_t26_0;"Tank, Medium, M4
-<color=#9daab3>General Sherman</color>
+<color=#849eb0>General Sherman</color>
 <color=#c0c0c0>90mm Gun, M3</color>";
 us_m4_t26_1;M4(90);
 us_m4_t26_2;Medium Tank;
@@ -126,22 +126,22 @@ us_t25_1;T25;
 us_t25_2;Medium Tank;
 us_m26_pershing_shop;M26;
 us_m26_pershing_0;"Tank, Medium, M26
-<color=#9daab3>General Pershing</color>";
+<color=#849eb0>General Pershing</color>";
 us_m26_pershing_1;M26;
 us_m26_pershing_2;Medium Tank;
 us_m46_patton_shop;M46;
 us_m46_patton_0;"Tank, Medium, M46
-<color=#9daab3>General Patton</color>";
+<color=#849eb0>General Patton</color>";
 us_m46_patton_1;M46;
 us_m46_patton_2;Medium Tank;
 us_m47_patton_II_shop;M47;
 us_m47_patton_II_0;"Tank, Combat, Full-Tracked, 90mm Gun, M47
-<color=#9daab3>General Patton</color>";
+<color=#849eb0>General Patton</color>";
 us_m47_patton_II_1;M47;
 us_m47_patton_II_2;Medium Tank;
 us_m48a1_patton_III_shop;M48A1;
 us_m48a1_patton_III_0;"Tank, Combat, Full-Tracked, 90mm Gun, M48A1
-<color=#9daab3>General Patton</color>";
+<color=#849eb0>General Patton</color>";
 us_m48a1_patton_III_1;M48A1;
 us_m48a1_patton_III_2;Main Battle Tank;
 us_m60_shop;M60;
@@ -169,7 +169,7 @@ us_m60_120s_1;120S;
 us_m60_120s_2;Main Battle Tank;
 us_m1a1_hc_abrams_shop;M1A1HC;
 us_m1a1_hc_abrams_0;"Tank, Combat, Full-Tracked, 120mm Gun, M1A1
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#c0c0c0>Heavy Common</color>";
 us_m1a1_hc_abrams_1;M1A1HC;
 us_m1a1_hc_abrams_2;Main Battle Tank;
@@ -179,7 +179,7 @@ us_lvt_a_1_1;LVT(A)(1);
 us_lvt_a_1_2;Light Tank;
 us_m22_locust_shop;M22;
 us_m22_locust_0;"Tank, Light, Airborne, M22
-<color=#9daab3>Locust</color>";
+<color=#849eb0>Locust</color>";
 us_m22_locust_1;M22;
 us_m22_locust_2;Light Tank;
 us_m7_shop;M7;
@@ -196,7 +196,7 @@ us_t1e1_1;T1E1;
 us_t1e1_2;Heavy Tank;
 us_m4a3e2_sherman_jumbo_shop;M4A3E2;
 us_m4a3e2_sherman_jumbo_0;"Tank, Medium, M4A3E2(75)W Assault
-<color=#9daab3>Jumbo</color>";
+<color=#849eb0>Jumbo</color>";
 us_m4a3e2_sherman_jumbo_1;M4A3E2;
 us_m4a3e2_sherman_jumbo_2;Assault Tank;
 us_t1e1_90_shop;T1E1(90);
@@ -205,7 +205,7 @@ us_t1e1_90_1;T1E1(90);
 us_t1e1_90_2;Heavy Tank;
 us_m4a3e2_76w_sherman_jumbo_shop;M4A3E2(76);
 us_m4a3e2_76w_sherman_jumbo_0;"Tank, Medium, M4A3E2(76)W Assault
-<color=#9daab3>Jumbo</color>";
+<color=#849eb0>Jumbo</color>";
 us_m4a3e2_76w_sherman_jumbo_1;M4A3E2(76);
 us_m4a3e2_76w_sherman_jumbo_2;Assault Tank;
 us_t26e5_shop;T26E5;
@@ -246,42 +246,42 @@ us_mbt_70_1;XM70;
 us_mbt_70_2;Main Battle Tank;
 us_m1_abrams_shop;M1;
 us_m1_abrams_0;"Tank, Combat, Full-Tracked, 105mm Gun, M1
-<color=#9daab3>General Abrams</color>";
+<color=#849eb0>General Abrams</color>";
 us_m1_abrams_1;M1;
 us_m1_abrams_2;Main Battle Tank;
 us_m1a1_abrams_shop;M1A1;
 us_m1a1_abrams_0;"Tank, Combat, Full-Tracked, 120mm Gun, M1A1
-<color=#9daab3>General Abrams</color>";
+<color=#849eb0>General Abrams</color>";
 us_m1a1_abrams_1;M1A1;
 us_m1a1_abrams_2;Main Battle Tank;
 us_m1_ip_abrams_shop;M1IP;
 us_m1_ip_abrams_0;"Tank, Combat, Full-Tracked, 105mm Gun, M1
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#c0c0c0>Improved Performance</color>";
 us_m1_ip_abrams_1;M1IP;
 us_m1_ip_abrams_2;Main Battle Tank;
 us_m1a2_abrams_shop;M1A2;
 us_m1a2_abrams_0;"Tank, Combat, Full-Tracked, 120mm Gun, M1A2
-<color=#9daab3>General Abrams</color>";
+<color=#849eb0>General Abrams</color>";
 us_m1a2_abrams_1;M1A2;
 us_m1a2_abrams_2;Main Battle Tank;
 us_m1a2_sep_abrams_shop;M1A2 SEP;
 us_m1a2_sep_abrams_0;"Tank, Combat, Full-Tracked, 120mm Gun, M1A2,
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#c0c0c0>Systems Enhancement Package Version 1</color>
 <color=#c0c0c0>Tank Urban Survival Kit</color>";
 us_m1a2_sep_abrams_1;M1A2 SEP;
 us_m1a2_sep_abrams_2;Main Battle Tank;
 us_m1a2_sep2_abrams_shop;M1A2 SEPv2;
 us_m1a2_sep2_abrams_0;"Tank, Combat, Full-Tracked, 120mm Gun, M1A2,
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#c0c0c0>Systems Enhancement Package Version 2</color>
 <color=#c0c0c0>Tank Urban Survival Kit 2</color>";
 us_m1a2_sep2_abrams_1;M1A2 SEPv2;
 us_m1a2_sep2_abrams_2;Main Battle Tank;
 us_m1a2_sep2_abrams_trophy_shop;M1A2 (Trophy);
 us_m1a2_sep2_abrams_trophy_0;"Tank, Combat, Full-Tracked, 120mm Gun, M1A2,
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#c0c0c0>Systems Enhancement Package Version 2</color>
 <color=#c0c0c0>Tank Urban Survival Kit 2</color>
 <color=#c0c0c0>With Trophy-HV Active Protection System</color>";
@@ -289,7 +289,7 @@ us_m1a2_sep2_abrams_trophy_1;M1A2 (Trophy);
 us_m1a2_sep2_abrams_trophy_2;Main Battle Tank;
 us_m1a2_sep3_abrams_shop;M1A2 SEPv3;
 us_m1a2_sep3_abrams_0;"Tank, Combat, Full-Tracked, 120mm Gun, M1A2,
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#c0c0c0>Systems Enhancement Package Version 3</color>
 <color=#c0c0c0>Tank Urban Survival Kit 2</color>";
 us_m1a2_sep3_abrams_1;M1A2 SEPv3;
@@ -308,12 +308,12 @@ us_halftrack_m16_1;M16 MGMC;
 us_halftrack_m16_2;SPAA;
 us_m19_shop;M19A1 MGMC;
 us_m19_0;"Carriage, Motor, Twin 40mm Gun, M19A1
-<color=#9daab3>Copperhead</color>";
+<color=#849eb0>Copperhead</color>";
 us_m19_1;M19A1 MGMC;
 us_m19_2;SPAA;
 us_m42_duster_shop;M42;
 us_m42_duster_0;"Gun, Self-Propelled, Full-Tracked, Twin 40mm, M42
-<color=#9daab3>Duster</color>";
+<color=#849eb0>Duster</color>";
 us_m42_duster_1;M42;
 us_m42_duster_2;SPAA;
 us_m163_vulcan_shop;M163;
@@ -326,12 +326,12 @@ us_xm246_1;XM246;
 us_xm246_2;SPAA;
 us_m247_shop;M247;
 us_m247_0;"Gun, Air Defense Artillery, Self-Propelled, 40mm, M247
-<color=#9daab3>Sergeant York</color>";
+<color=#849eb0>Sergeant York</color>";
 us_m247_1;M247;
 us_m247_2;SPAA;
 us_mim_72_chaparral_shop;Chaparral GMS;
 us_mim_72_chaparral_0;"Guided Missile System, Intercept-Aerial, Carrier Mounted, M48A2
-<color=#9daab3>Improved Chaparral</color>";
+<color=#849eb0>Improved Chaparral</color>";
 us_mim_72_chaparral_1;Chaparral GMS;
 us_mim_72_chaparral_2;SAM;
 us_lav_ad_shop;LAV-AD;
@@ -376,7 +376,7 @@ us_m2a2_1;M2A2;
 us_m2a2_2;Light Tank;
 us_m8_scott_shop;M8 HMC;
 us_m8_scott_0;"Carriage, Motor, 75mm Howitzer, M8
-<color=#9daab3>General Scott</color>";
+<color=#849eb0>General Scott</color>";
 us_m8_scott_1;M8 HMC;
 us_m8_scott_2;Tank Destroyer;
 us_halftrack_m3_75mm_gmc_shop;M3 GMC;
@@ -385,7 +385,7 @@ us_halftrack_m3_75mm_gmc_1;M3 GMC;
 us_halftrack_m3_75mm_gmc_2;Tank Destroyer;
 us_m4a3_105_sherman_shop;M4A3(105);
 us_m4a3_105_sherman_0;"Tank, Medium, M4A3(105) HVSS
-<color=#9daab3>General Sherman</color>";
+<color=#849eb0>General Sherman</color>";
 us_m4a3_105_sherman_1;M4A3(105);
 us_m4a3_105_sherman_2;Medium Tank;
 us_m10_shop;M10 GMC;
@@ -402,12 +402,12 @@ us_m55_1;M55;
 us_m55_2;SPG;
 us_m36_shop;M36 GMC;
 us_m36_0;"Carriage, Motor, 90mm Gun, M36
-<color=#9daab3>General Jackson</color>";
+<color=#849eb0>General Jackson</color>";
 us_m36_1;M36 GMC;
 us_m36_2;Tank Destroyer;
 us_m36b2_shop;M36B2 GMC;
 us_m36b2_0;"Carriage, Motor, 90mm Gun, M36B2
-<color=#9daab3>General Jackson</color>";
+<color=#849eb0>General Jackson</color>";
 us_m36b2_1;M36B2 GMC;
 us_m36b2_2;Tank Destroyer;
 us_m109a1_shop;M109A1;
@@ -416,12 +416,12 @@ us_m109a1_1;M109A1;
 us_m109a1_2;Self-Propelled Gun;
 us_m56_scorpion_shop;M56;
 us_m56_scorpion_0;"Gun, Self-Propelled, Full-Tracked, 90mm Gun, M56
-<color=#9daab3>Scorpion</color>";
+<color=#849eb0>Scorpion</color>";
 us_m56_scorpion_1;M56;
 us_m56_scorpion_2;Tank Destroyer;
 us_m50_ontos_shop;M50;
 us_m50_ontos_0;"Rifle, Self-Propelled, Full-Tracked, Multiple 106mm, M50
-<color=#9daab3>Ontos</color>";
+<color=#849eb0>Ontos</color>";
 us_m50_ontos_1;M50;
 us_m50_ontos_2;Tank Destroyer;
 us_t95_shop;T95;
@@ -434,12 +434,12 @@ us_m60a2_1;M60A2;
 us_m60a2_2;Medium Tank;
 us_m3_bradley_shop;M3 CFV;
 us_m3_bradley_0;"Cavalry Fighting Vehicle, M3
-<color=#9daab3>General Bradley</color>";
+<color=#849eb0>General Bradley</color>";
 us_m3_bradley_1;M3 CFV;
 us_m3_bradley_2;Infantry Fighting Vehicle;
 us_m3a3_bradley_shop;M3A3 CFV;
 us_m3a3_bradley_0;"Cavalry Fighting Vehicle, M3A3
-<color=#9daab3>General Bradley</color>";
+<color=#849eb0>General Bradley</color>";
 us_m3a3_bradley_1;M3A3 CFV;
 us_m3a3_bradley_2;Infantry Fighting Vehicle;
 us_m2a4_1st_armor_div_shop;M2A4 (1st Arm.Div.);
@@ -457,18 +457,18 @@ us_lvt_a_4_1;LVT(A)(4);
 us_lvt_a_4_2;Light Tank;
 us_m8_greyhound_shop;M8 LAC;
 us_m8_greyhound_0;"Car, Armored, Light, M8
-<color=#9daab3>Greyhound</color>";
+<color=#849eb0>Greyhound</color>";
 us_m8_greyhound_1;M8 LAC;
 us_m8_greyhound_2;Armored Car;
 us_m3a1_stuart_usmc_shop;M3A1 (USMC);
 us_m3a1_stuart_usmc_0;"Tank, Light, M3A1
-<color=#9daab3>General Stuart</color>
+<color=#849eb0>General Stuart</color>
 <color=#fcba03>United States Marine Corps</color>";
 us_m3a1_stuart_usmc_1;M3A1 (USMC);
 us_m3a1_stuart_usmc_2;Light Tank;
 us_m3a1_stuart_nvidia_shop;M3A1 [TD];
 us_m3a1_stuart_nvidia_0;"Tank, Light, M3A1
-<color=#9daab3>General stuart</color>
+<color=#849eb0>General stuart</color>
 <color=#9146ff>Twitch Drop</color>";
 us_m3a1_stuart_nvidia_1;M3A1;
 us_m3a1_stuart_nvidia_2;Light Tank;
@@ -488,29 +488,29 @@ us_lvt_a1_m24_1;LVT(A)(1) (M24);
 us_lvt_a1_m24_2;Light Tank;
 us_m5a1_stuart_td_shop;Carol;
 us_m5a1_stuart_td_0;"Tank, Light, M5A1
-<color=#9daab3>General Stuart</color>
+<color=#849eb0>General Stuart</color>
 <color=#fcba03>3rd Tank Battalion</color>
 <color=#fcba03>«Carol»</color>";
 us_m5a1_stuart_td_1;Carol;
 us_m5a1_stuart_td_2;Light Tank;
 us_m4_sherman_promo_shop;╊M4;
 us_m4_sherman_promo_0;"╊Tank, Medium, M4
-<color=#9daab3>General Sherman</color>";
+<color=#849eb0>General Sherman</color>";
 us_m4_sherman_promo_1;╊M4;
 us_m4_sherman_promo_2;Medium Tank;
 us_m8a1_shop;M8A1;
 us_m8a1_0;"Carriage, Motor, 75mm Gun, M8A1
-<color=#9daab3>General Scott</color>";
+<color=#849eb0>General Scott</color>";
 us_m8a1_1;M8A1;
 us_m8a1_2;Tank Destroyer;
 us_t18_e2_shop;T18E2 HAC;
 us_t18_e2_0;"Car, Armored, Heavy, T18E2
-<color=#9daab3>Boarhound</color>";
+<color=#849eb0>Boarhound</color>";
 us_t18_e2_1;T18E2 HAC;
 us_t18_e2_2;Armored Car;
 us_m4_sherman_calliope_shop;M4 (Calliope);
 us_m4_sherman_calliope_0;"Tank, Medium, M4
-<color=#9daab3>General Sherman</color>
+<color=#849eb0>General Sherman</color>
 <color=#c0c0c0>With Rocket Launcher, T34E1 Calliope</color>";
 us_m4_sherman_calliope_1;M4 (Calliope);
 us_m4_sherman_calliope_2;Medium Tank;
@@ -524,21 +524,21 @@ us_t14_1;T14;
 us_t14_2;Assault Tank;
 us_m18_hellcat_black_cat_shop;Black Cat;
 us_m18_hellcat_black_cat_0;"Carriage, Motor, 76mm Gun, M18
-<color=#9daab3>Hellcat</color>
-<color=#9daab3>Black Cat</color>
+<color=#849eb0>Hellcat</color>
+<color=#849eb0>Black Cat</color>
 <color=#fcba03>805th Tank Destroyer Battalion</color>";
 us_m18_hellcat_black_cat_1;Black Cat;
 us_m18_hellcat_black_cat_2;Light Tank;
 us_m4a3e2_sherman_jumbo_cobra_king_shop;Cobra King;
 us_m4a3e2_sherman_jumbo_cobra_king_0;"Tank, Medium, M4A3E2(75)W Assault
-<color=#9daab3>Jumbo</color>
-<color=#9daab3>Cobra King</color>
+<color=#849eb0>Jumbo</color>
+<color=#849eb0>Cobra King</color>
 <color=#fcba03>37th Tank Battalion</color>";
 us_m4a3e2_sherman_jumbo_cobra_king_1;Cobra King;
 us_m4a3e2_sherman_jumbo_cobra_king_2;Assault Tank;
 us_m18_super_hellcat_shop;Super Hellcat;
 us_m18_super_hellcat_0;"Carriage, Motor, 90mm Gun, M18
-<color=#9daab3>Super Hellcat</color>";
+<color=#849eb0>Super Hellcat</color>";
 us_m18_super_hellcat_1;Super Hellcat;
 us_m18_super_hellcat_2;Light Tank;
 us_t28_shop;T28;
@@ -551,12 +551,12 @@ us_t20_1;T20;
 us_t20_2;Medium Tank;
 us_m551_76_shop;M551(76);
 us_m551_76_0;"Tank, Combat, Full-Tracked, 76mm Gun, M551
-<color=#9daab3>General Sheridan</color>";
+<color=#849eb0>General Sheridan</color>";
 us_m551_76_1;M551(76);
 us_m551_76_2;Light Tank;
 us_m26_t99_shop;M26 (T99);
 us_m26_t99_0;"Tank, Medium, M26
-<color=#9daab3>General Pershing</color>
+<color=#849eb0>General Pershing</color>
 <color=#c0c0c0>With Rocket Launcher, T99</color>";
 us_m26_t99_1;M26 (T99);
 us_m26_t99_2;Medium Tank;
@@ -566,7 +566,7 @@ us_t30_1;T30;
 us_t30_2;Heavy Tank;
 us_m26e1_pershing_shop;M26E1;
 us_m26e1_pershing_0;"Tank, Medium, M26E1
-<color=#9daab3>General Pershing</color>";
+<color=#849eb0>General Pershing</color>";
 us_m26e1_pershing_1;M26E1;
 us_m26e1_pershing_2;Medium Tank;
 us_m6a2e1_shop;M6A2E1-1;
@@ -575,7 +575,7 @@ us_m6a2e1_1;M6A2E1-1;
 us_m6a2e1_2;Heavy Tank;
 us_m46_patton_73_armor_bat_shop;M46 (73rd T.Bat.);
 us_m46_patton_73_armor_bat_0;"Tank, Medium, M46
-<color=#9daab3>General Patton</color>
+<color=#849eb0>General Patton</color>
 <color=#fcba03>73rd Tank Battalion</color>";
 us_m46_patton_73_armor_bat_1;M46 (73rd T.Bat.);
 us_m46_patton_73_armor_bat_2;Medium Tank;
@@ -611,7 +611,7 @@ us_m901_itv_1;M901 ITV;
 us_m901_itv_2;Missile Carrier;
 us_m60a1_rise_mod_shop;Predator;
 us_m60a1_rise_mod_0;"Tank, Combat, Full-Tracked, 105mm Gun, M60A1
-<color=#9daab3>Predator</color>
+<color=#849eb0>Predator</color>
 <color=#c0c0c0>Reliability Improvement of Selected Equipment / Passive</color>";
 us_m60a1_rise_mod_1;Predator;
 us_m60a1_rise_mod_2;Main Battle Tank;
@@ -642,7 +642,7 @@ us_efv_p1_1;EFV-P1;
 us_efv_p1_2;IFV;
 us_m1128_wolfpack_shop;M1128 MGS (3rd Sq.);
 us_m1128_wolfpack_0;"Mobile Gun System, M1128
-<color=#9daab3>Stryker</color>
+<color=#849eb0>Stryker</color>
 <color=#fcba03>3rd Squadron, 2nd Cavalry Regiment «Wolfpack»</color>";
 us_m1128_wolfpack_1;M1128 MGS (3rd Sq.);
 us_m1128_wolfpack_2;Light Tank;
@@ -653,7 +653,7 @@ us_ccvl_1;XM4;
 us_ccvl_2;Light Tank;
 us_m1_abrams_kvt_shop;M1 (KVT);
 us_m1_abrams_kvt_0;"Tank, Combat, Full-Tracked, 105mm Gun, M1
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#c0c0c0>Krasnovian Variant Tank</color>";
 us_m1_abrams_kvt_1;M1 (KVT);
 us_m1_abrams_kvt_2;Main Battle Tank;
@@ -664,14 +664,14 @@ us_losat_ccv_1;CCV(L) (LOSAT);
 us_losat_ccv_2;Missile Carrier;
 us_m1a1_hc_usmc_shop;Click-Bait;
 us_m1a1_hc_usmc_0;"Tank, Combat, Full-Tracked, 120mm Gun, M1A1
-<color=#9daab3>General Abrams</color>
-<color=#9daab3>Click-Bait</color>
+<color=#849eb0>General Abrams</color>
+<color=#849eb0>Click-Bait</color>
 <color=#c0c0c0>Heavy Common</color>";
 us_m1a1_hc_usmc_1;Click-Bait;
 us_m1a1_hc_usmc_2;Main Battle Tank;
 us_m1a1_hc_usmc_sm_shop;Kate’s M1A1HC;
 us_m1a1_hc_usmc_sm_0;"Tank, Combat, Full-Tracked, 120mm Gun, M1A1
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#c0c0c0>Heavy Common</color>
 <color=#fcba03>«Senrai Maidens, Kate»</color>";
 us_m1a1_hc_usmc_sm_1;M1A1HC;
@@ -686,7 +686,7 @@ us_merkava_mk_3d_1;▃Merkava 3D;
 us_merkava_mk_3d_2;Main Battle Tank;
 us_m24_chaffee_tl_shop;M24 (TL);
 us_m24_chaffee_tl_0;"Tank, Light, M24
-<color=#9daab3>General Chaffee</color>
+<color=#849eb0>General Chaffee</color>
 <color=#fcba03>Thunder League</color>";
 us_m24_chaffee_tl_1;M24 (TL);
 us_m24_chaffee_tl_2;Light Tank;
@@ -696,7 +696,7 @@ us_m728_1;M728 CEV;
 us_m728_2;Combat Engineer Vehicle;
 us_m1a1_abrams_yt_cup_2019_shop;␙M1A1;
 us_m1a1_abrams_yt_cup_2019_0;"Tank, Combat, Full-Tracked, 120mm Gun, M1A1
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#fcba03>␙ YouTube Cup 2019 ␙</color>";
 us_m1a1_abrams_yt_cup_2019_1;␙M1A1;
 us_m1a1_abrams_yt_cup_2019_2;Main Battle Tank;
@@ -723,13 +723,13 @@ us_t86_1;T86 GMC;
 us_t86_2;Light Tank;
 us_m4a3e8_76w_sherman_kit_3rank_shop;M4A3(76) (Hell);
 us_m4a3e8_76w_sherman_kit_3rank_0;"Tank, Medium, M4A3(76)W HVSS
-<color=#9daab3>General Sherman</color>
+<color=#849eb0>General Sherman</color>
 <color=#fcba03>«Hell on Wheels»</color>";
 us_m4a3e8_76w_sherman_kit_3rank_1;M4A3(76) (Hell);
 us_m4a3e8_76w_sherman_kit_3rank_2;Medium Tank;
 us_m18_hellcat_kit_3rank_shop;M18 GMC (Hell);
 us_m18_hellcat_kit_3rank_0;"Carriage, Motor, 76mm Gun, M18
-<color=#9daab3>Hellcat</color>
+<color=#849eb0>Hellcat</color>
 <color=#fcba03>«Hell on Wheels»</color>";
 us_m18_hellcat_kit_3rank_1;M18 GMC (Hell);
 us_m18_hellcat_kit_3rank_2;Light Tank;
@@ -2369,12 +2369,12 @@ germ_sdkfz_234_2_1;Sd.Kfz.234/2;
 germ_sdkfz_234_2_2;Armored Car;
 germ_pzsfl_IVa_dickermax_shop;Dicker Max;
 germ_pzsfl_IVa_dickermax_0;"10,5cm K gepanzerte Selbstfahrlafette IV Ausf. A
-<color=#9daab3>”Dicker Max”</color>";
+<color=#849eb0>”Dicker Max”</color>";
 germ_pzsfl_IVa_dickermax_1;Dicker Max;
 germ_pzsfl_IVa_dickermax_2;Tank Destroyer;
 germ_pzsflk40_sturer_emil_shop;Sturer Emil;
 germ_pzsflk40_sturer_emil_0;"Panzerselbstfahrlafette für 12,8cm K.40
-<color=#9daab3>”Sturer Emil”</color>";
+<color=#849eb0>”Sturer Emil”</color>";
 germ_pzsflk40_sturer_emil_1;Sturer Emil;
 germ_pzsflk40_sturer_emil_2;Tank Destroyer;
 germ_sdkfz_9_flak37_shop;Sd.Kfz.9/2 8,8cm;
@@ -2656,32 +2656,32 @@ germ_flakpanzer_IV_Ostwind_shop;Ostwind;
 germ_flakpanzer_IV_Ostwind_0;"<color=#c8a5b2>Sd.Kfz.161/5</color>
 leichte Flakpanzer IV mit 3,7cm FlaK.43
 auf Panzerkampfwagen IV
-<color=#9daab3>Ostwind</color>";
+<color=#849eb0>Ostwind</color>";
 germ_flakpanzer_IV_Ostwind_1;Ostwind;
 germ_flakpanzer_IV_Ostwind_2;SPAA;
 germ_flakpanzer_IV_Wirbelwind_shop;Wirbelwind;
 germ_flakpanzer_IV_Wirbelwind_0;"<color=#c8a5b2>Sd.Kfz.161/4</color>
 2cm Flakvierling 38 auf
 Selbstfahrlafette Panzerkampfwagen IV
-<color=#9daab3>Wirbelwind</color>";
+<color=#849eb0>Wirbelwind</color>";
 germ_flakpanzer_IV_Wirbelwind_1;Wirbelwind;
 germ_flakpanzer_IV_Wirbelwind_2;SPAA;
 germ_flakpanzer_IV_Ostwind_2_shop;Ostwind II;
 germ_flakpanzer_IV_Ostwind_2_0;"<color=#c8a5b2>Sd.Kfz.161/5</color>
 leichte Flakpanzer IV mit Zwilling 3,7cm FlaK.43
 auf Panzerkampfwagen IV
-<color=#9daab3>Ostwind II</color>";
+<color=#849eb0>Ostwind II</color>";
 germ_flakpanzer_IV_Ostwind_2_1;Ostwind II;
 germ_flakpanzer_IV_Ostwind_2_2;SPAA;
 germ_flakpanzer_zerstorer_45_shop;FlakPz.IV (3cm Flak);
 germ_flakpanzer_zerstorer_45_0;"Flakpanzer IV mit 3cm Flakvierling
-<color=#9daab3>Zerstorer 45</color>";
+<color=#849eb0>Zerstorer 45</color>";
 germ_flakpanzer_zerstorer_45_1;FlakPz.IV (3cm Flak);
 germ_flakpanzer_zerstorer_45_2;SPAA;
 germ_flakpanzer_IV_Kugelblitz_shop;Kugelblitz;
 germ_flakpanzer_IV_Kugelblitz_0;"<color=#c8a5b2>Sd.Kfz.161/6</color>
 leichte Flakpanzer IV
-<color=#9daab3>Kugelblitz</color>
+<color=#849eb0>Kugelblitz</color>
 <color=#c0c0c0>mit 3cm MK 103</color>";
 germ_flakpanzer_IV_Kugelblitz_1;Kugelblitz;
 germ_flakpanzer_IV_Kugelblitz_2;SPAA;
@@ -2717,13 +2717,13 @@ germ_flarakpz_1_2;SAM;
 germ_9a33bm3_shop;◊Osa-AK;
 germ_9a33bm3_0;"<color=#c8a5b2>9A33BM2</color>
 ◊9K33M2
-<color=#9daab3>Osa-AK</color>";
+<color=#849eb0>Osa-AK</color>";
 germ_9a33bm3_1;◊Osa-AK;
 germ_9a33bm3_2;SAM;
 germ_9a35_m_shop;◊Strela-10M;
 germ_9a35_m_0;"<color=#c8a5b2>9A35M</color>
 ◊9K35M
-<color=#9daab3>Strela-10M</color>";
+<color=#849eb0>Strela-10M</color>";
 germ_9a35_m_1;◊Strela-10M;
 germ_9a35_m_2;SAM;
 germ_flarakrad_shop;FlaRakRad 1 A2;
@@ -2816,7 +2816,7 @@ germ_jgdpz_IV_L48_2;Tank Destroyer;
 germ_jgdpz_38t_shop;JPz.38;
 germ_jgdpz_38t_0;"<color=#c8a5b2>Sd.Kfz.138/2</color>
 Jagdpanzer 38(t)
-<color=#9daab3>”Hetzer”</color>";
+<color=#849eb0>”Hetzer”</color>";
 germ_jgdpz_38t_1;JPz.38;
 germ_jgdpz_38t_2;Tank Destroyer;
 germ_pz_IV_L70_shop;Pz.IV/70(V);
@@ -3003,7 +3003,7 @@ germ_pzkpfw_VI_tiger_P_2;Heavy Tank;
 germ_sturmpanzer_IV_brummbar_shop;Sturmhaubitze 43;
 germ_sturmpanzer_IV_brummbar_0;"<color=#c8a5b2>Sd.Kfz.166</color>
 Sturmgeschütz IV für 15cm Sturmhaubitze 43 Ausf. II
-<color=#9daab3>“Brummbär”</color>";
+<color=#849eb0>“Brummbär”</color>";
 germ_sturmpanzer_IV_brummbar_1;Sturmhaubitze 43;
 germ_sturmpanzer_IV_brummbar_2;Tank Destroyer;
 germ_vsw_flak_41_shop;Pz.Sfl.IVc;
@@ -3035,12 +3035,12 @@ germ_pzkpfw_V_ersatz_m10_1;Ersatz M10;
 germ_pzkpfw_V_ersatz_m10_2;Medium Tank;
 germ_sturmmorser_sturmtiger_shop;Sturmtiger;
 germ_sturmmorser_sturmtiger_0;"Sturmmörserwagen 606/4 mit 38cm RW 61
-<color=#9daab3>”Sturmtiger”</color>";
+<color=#849eb0>”Sturmtiger”</color>";
 germ_sturmmorser_sturmtiger_1;Sturmtiger;
 germ_sturmmorser_sturmtiger_2;Tank Destroyer;
 germ_flakpanzer_V_Coelian_shop;FlakPz.554;
 germ_flakpanzer_V_Coelian_0;"3,7cm Flakswilling auf Panther Fahrgestell Gerät 554
-<color=#9daab3>”Coelian”</color>";
+<color=#849eb0>”Coelian”</color>";
 germ_flakpanzer_V_Coelian_1;FlakPz.554;
 germ_flakpanzer_V_Coelian_2;SPAA;
 germ_panzerbefelhswagen_jagdpanther_shop;Bfw.Jagdpanther;
@@ -3160,7 +3160,7 @@ germ_flakpanzer_IV_Ostwind_2_net_shop;Ostwind II (Ost);
 germ_flakpanzer_IV_Ostwind_2_net_0;"<color=#c8a5b2>Sd.Kfz.161/5</color>
 leichte Flakpanzer IV mit Zwilling 3,7cm FlaK.43
 auf Panzerkampfwagen IV
-<color=#9daab3>Ostwind II</color>
+<color=#849eb0>Ostwind II</color>
 <color=#c0c0c0>Westenfront</color>";
 germ_flakpanzer_IV_Ostwind_2_net_1;Ostwind II (Ost);
 germ_flakpanzer_IV_Ostwind_2_net_2;SPAA;
@@ -4705,7 +4705,7 @@ ussr_t_72b_1989_2;Main Battle Tank;
 ussr_t_90a_shop;T-90A;
 ussr_t_90a_0;"<color=#c8a5b2>Object 188A1</color>
 T-90A obr.2006 g.
-<color=#9daab3>Vladimir</color>";
+<color=#849eb0>Vladimir</color>";
 ussr_t_90a_1;T-90A;
 ussr_t_90a_2;Main Battle Tank;
 ussr_t_72b3_2011_shop;T-72B3M;
@@ -4900,7 +4900,7 @@ ussr_bmp_3_2;Infantry Fighting Vehicle;
 ussr_2s25_shop;Sprut-SD;
 ussr_2s25_0;"<color=#c8a5b2>Object 952</color>
 2S25
-<color=#9daab3>Sprut-SD</color>";
+<color=#849eb0>Sprut-SD</color>";
 ussr_2s25_1;Sprut-SD;
 ussr_2s25_2;Light Tank;
 ussr_bmd_4m2_shop;BMD-4M (Sinista);
@@ -4912,7 +4912,7 @@ ussr_bmd_4m2_2;Infantry Fighting Vehicle;
 ussr_2s25m_shop;Sprut-SDM1;
 ussr_2s25m_0;"<color=#c8a5b2>Object 952</color>
 2S25M
-<color=#9daab3>Sprut-SDM1</color>";
+<color=#849eb0>Sprut-SDM1</color>";
 ussr_2s25m_1;Sprut-SDM1;
 ussr_2s25m_2;Light Tank;
 ussr_su_5_1_shop;SU-5-1;
@@ -4977,13 +4977,13 @@ ussr_su_100_1945_2;Tank Destroyer;
 ussr_2s1_shop;2S1;
 ussr_2s1_0;"<color=#c8a5b2>Object 26</color>
 2S1
-<color=#9daab3>Gvozdika</color>";
+<color=#849eb0>Gvozdika</color>";
 ussr_2s1_1;2S1;
 ussr_2s1_2;Self-Propelled Gun;
 ussr_2s3m_shop;2S3M;
 ussr_2s3m_0;"<color=#c8a5b2>Object 303M</color>
 2S3M
-<color=#9daab3>Akatsiya-M</color>";
+<color=#849eb0>Akatsiya-M</color>";
 ussr_2s3m_1;2S3M;
 ussr_2s3m_2;Self-Propelled Gun;
 ussr_su_122_54_shop;SU-122-54;
@@ -4998,7 +4998,7 @@ ussr_object_268_2;Tank Destroyer;
 ussr_2s19_m1_shop;2S19M1;
 ussr_2s19_m1_0;"<color=#c8a5b2>Object 316</color>
 2S19M1
-<color=#9daab3>Msta-S1</color>";
+<color=#849eb0>Msta-S1</color>";
 ussr_2s19_m1_1;2S19M1;
 ussr_2s19_m1_2;Self-Propelled Gun;
 ussr_object_416_shop;Obj.416;
@@ -5027,7 +5027,7 @@ ussr_object_775_2;Missile Carrier;
 ussr_9p157_shop;Khrizantema-S;
 ussr_9p157_0;"<color=#c8a5b2>Object 699</color>
 9P157-2
-<color=#9daab3>Khrizantema-S</color>";
+<color=#849eb0>Khrizantema-S</color>";
 ussr_9p157_1;Khrizantema-S;
 ussr_9p157_2;Missile Carrier;
 ussr_btr_90_2004_shop;BTR-90 (Berezhok);
@@ -5038,8 +5038,8 @@ ussr_btr_90_2004_2;Light Tank;
 ussr_bmpt_shop;BMPT;
 ussr_bmpt_0;"<color=#c8a5b2>Object 199</color>
 BMPT obr.2002 g.
-<color=#9daab3>Spyridon</color>
-<color=#9daab3>”Terminator”</color>";
+<color=#849eb0>Spyridon</color>
+<color=#849eb0>”Terminator”</color>";
 ussr_bmpt_1;BMPT;
 ussr_bmpt_2;Infantry Fighting Vehicle;
 ussr_gaz_4m_shop;GAZ-AAA (4M);
@@ -5084,84 +5084,84 @@ ussr_btr_152d_2;SPAA;
 ussr_btr_zd_shop;BTR-ZD;
 ussr_btr_zd_0;"<color=#c8a5b2>Object 925S</color>
 BTR-ZD
-<color=#9daab3>Skrezhet</color>";
+<color=#849eb0>Skrezhet</color>";
 ussr_btr_zd_1;BTR-ZD;
 ussr_btr_zd_2;SPAA;
 ussr_zsu_57_2_shop;ZSU-57-2;
 ussr_zsu_57_2_0;"<color=#c8a5b2>Object 500</color>
 ZSU-57-2
-<color=#9daab3>”Sparka”</color>";
+<color=#849eb0>”Sparka”</color>";
 ussr_zsu_57_2_1;ZSU-57-2;
 ussr_zsu_57_2_2;SPAA;
 ussr_zsu_23_4m2_shop;ZSU-23-4M2;
 ussr_zsu_23_4m2_0;"<color=#c8a5b2>2A6M2</color>
 ZSU-23-4M2
-<color=#9daab3>Shilka-M2</color>";
+<color=#849eb0>Shilka-M2</color>";
 ussr_zsu_23_4m2_1;ZSU-23-4M2;
 ussr_zsu_23_4m2_2;SPAA;
 ussr_zsu_37_2_shop;ZSU-37-2;
 ussr_zsu_37_2_0;"<color=#c8a5b2>2A1</color>
 ZSU-37-2
-<color=#9daab3>Yenisei</color>";
+<color=#849eb0>Yenisei</color>";
 ussr_zsu_37_2_1;ZSU-37-2;
 ussr_zsu_37_2_2;SPAA;
 ussr_zsu_23_4_shop;ZSU-23-4V;
 ussr_zsu_23_4_0;"<color=#c8a5b2>2A6V</color>
 ZSU-23-4V
-<color=#9daab3>Shilka</color>";
+<color=#849eb0>Shilka</color>";
 ussr_zsu_23_4_1;ZSU-23-4V;
 ussr_zsu_23_4_2;SPAA;
 ussr_zsu_23_4m4_shop;ZSU-23-4M4;
 ussr_zsu_23_4m4_0;"<color=#c8a5b2>2A6M4</color>
 ZSU-23-4M4
-<color=#9daab3>Shilka-M4</color>";
+<color=#849eb0>Shilka-M4</color>";
 ussr_zsu_23_4m4_1;ZSU-23-4M4;
 ussr_zsu_23_4m4_2;SPAA / SAM;
 ussr_9a33bm3_shop;Osa-AKM;
 ussr_9a33bm3_0;"<color=#c8a5b2>9A33BM3</color>
 9K33M3
-<color=#9daab3>Osa-AKM</color>";
+<color=#849eb0>Osa-AKM</color>";
 ussr_9a33bm3_1;Osa-AKM;
 ussr_9a33bm3_2;SAM;
 ussr_9a35_m2_shop;Strela-10M2;
 ussr_9a35_m2_0;"<color=#c8a5b2>9A35M</color>
 BM 9K35M2
-<color=#9daab3>Strela-10M2</color>";
+<color=#849eb0>Strela-10M2</color>";
 ussr_9a35_m2_1;Strela-10M2;
 ussr_9a35_m2_2;SAM;
 ussr_zprk_2s6_shop;Tunguska-M1;
 ussr_zprk_2s6_0;"<color=#c8a5b2>Object 352M1</color>
 ZSU 2S6M1
-<color=#9daab3>Tunguska-M1</color>";
+<color=#849eb0>Tunguska-M1</color>";
 ussr_zprk_2s6_1;Tunguska-M1;
 ussr_zprk_2s6_2;SPAA / SAM;
 ussr_tor_m1_shop;Tor-M1;
 ussr_tor_m1_0;"<color=#c8a5b2>9A331-1</color>
 9K331
-<color=#9daab3>Tor-M1</color>";
+<color=#849eb0>Tor-M1</color>";
 ussr_tor_m1_1;Tor-M1;
 ussr_tor_m1_2;SAM;
 ussr_pantsyr_s1_shop;Pantsir-S1;
 ussr_pantsyr_s1_0;"<color=#c8a5b2>96K6</color>
 72V6
-<color=#9daab3>Pantsir-S1</color>";
+<color=#849eb0>Pantsir-S1</color>";
 ussr_pantsyr_s1_1;Pantsir-S1;
 ussr_pantsyr_s1_2;SPAA / SAM;
 ussr_pantsyr_sm_sv_shop;Pantsir-SM-SV;
 ussr_pantsyr_sm_sv_0;"<color=#c8a5b2>96K6</color>
 72V6M
-<color=#9daab3>Pantsir-SM-SV</color>";
+<color=#849eb0>Pantsir-SM-SV</color>";
 ussr_pantsyr_sm_sv_1;Pantsir-SM-SV;
 ussr_pantsyr_sm_sv_2;SPAA / SAM;
 ussr_buk_m3_fcs_shop;9S18M3;
 ussr_buk_m3_fcs_0;"9S18M3 Target Acquisition Radar Vehicle
-<color=#9daab3>Buk-M3</color>";
+<color=#849eb0>Buk-M3</color>";
 ussr_buk_m3_fcs_1;9S18M3;
 ussr_buk_m3_fcs_2;Radar Vehicle;
 ussr_buk_m3_launcher_shop;9A317M;
 ussr_buk_m3_launcher_0;"<color=#c8a5b2>9A317M</color>
 9K317M Transporter Erector Launcher And Radar
-<color=#9daab3>Buk-M3</color>";
+<color=#849eb0>Buk-M3</color>";
 ussr_buk_m3_launcher_1;9A317M;
 ussr_buk_m3_launcher_2;SAM;
 ussr_garford_putilov_shop;Garford-Putilov;
@@ -5335,7 +5335,7 @@ ussr_su_122P_1;SU-122P;
 ussr_su_122P_2;Tank Destroyer;
 ussr_pzkpfw_V_shop;▂T-VA;
 ussr_pzkpfw_V_0;"▂T-VA obr.1944 g.
-<color=#9daab3>Pantyera</color>";
+<color=#849eb0>Pantyera</color>";
 ussr_pzkpfw_V_1;▂T-VA;
 ussr_pzkpfw_V_2;Medium Tank;
 ussr_t_44_po_shop;T-44 No.1;
@@ -5367,7 +5367,7 @@ ussr_is_2m_kit_4rank_1;IS-2M (BP);
 ussr_is_2m_kit_4rank_2;Heavy Tank;
 ussr_m53_59_kit_4rank_shop;⚚PLDvK vz.53/59 (BP);
 ussr_m53_59_kit_4rank_0;"⚚PLDvK vz.53/59
-<color=#9daab3>Praga</color>
+<color=#849eb0>Praga</color>
 <color=#fcba03>Be Prepared!</color>";
 ussr_m53_59_kit_4rank_1;⚚PLDvK vz.53/59 (BP);
 ussr_m53_59_kit_4rank_2;SPAA;
@@ -5384,7 +5384,7 @@ ussr_type_62_2;Light Tank;
 ussr_2s19_m2_shop;2S19M2;
 ussr_2s19_m2_0;"<color=#c8a5b2>Object 316</color>
 2S19M2
-<color=#9daab3>Msta-S2</color>";
+<color=#849eb0>Msta-S2</color>";
 ussr_2s19_m2_1;2S19M2;
 ussr_2s19_m2_2;Self-Propelled Gun;
 ussr_is_6_shop;IS-6;
@@ -5400,7 +5400,7 @@ ussr_t_10a_2;Heavy Tank;
 ussr_object_120_shop;Obj. 120;
 ussr_object_120_0;"<color=#c8a5b2>Object 120</color>
 SU-152
-<color=#9daab3>Taran</color>";
+<color=#849eb0>Taran</color>";
 ussr_object_120_1;Obj. 120;
 ussr_object_120_2;Tank Destroyer;
 ussr_pt_76_57_shop;PT-76E;
@@ -5443,15 +5443,15 @@ ussr_object_292_2;Main Battle Tank;
 ussr_bmpt_72_shop;BMPT-72;
 ussr_bmpt_72_0;"<color=#c8a5b2>Object 183</color>
 BMPT-72
-<color=#9daab3>Spyridon</color>
-<color=#9daab3>”Terminator-2”</color>";
+<color=#849eb0>Spyridon</color>
+<color=#849eb0>”Terminator-2”</color>";
 ussr_bmpt_72_1;BMPT-72;
 ussr_bmpt_72_2;Infantry Fighting Vehicle;
 ussr_2s38_shop;ZAK-57;
 ussr_2s38_0;"<color=#c8a5b2>Object 688</color>
 <color=#c8a5b2>2S38</color>
 ZAK-57
-<color=#9daab3>Derivatsiya-PVO</color>";
+<color=#849eb0>Derivatsiya-PVO</color>";
 ussr_2s38_1;ZAK-57;
 ussr_2s38_2;Light Tank;
 ussr_t_80um2_shop;T-80U (Drozd);
@@ -5517,7 +5517,7 @@ ussr_sdkfz_251_21_kit_3rank_shop;▂Sd.Kfz.251/21 (2 cm) (‘45);
 ussr_sdkfz_251_21_kit_3rank_0;"<color=#c8a5b2>Sd.Kfz.251/21</color>
 ▂mittlerer Schützenpanzerwagen Ausf. D
 <color=#c0c0c0>mit 2cm MG 151 Drilling</color>
-<color=#9daab3>Hanomag</color>
+<color=#849eb0>Hanomag</color>
 <color=#fcba03>In May 1945</color>";
 ussr_sdkfz_251_21_kit_3rank_1;▂Sd.Kfz.251/21 (2 cm) (‘45);
 ussr_sdkfz_251_21_kit_3rank_2;SPAA;
@@ -7105,7 +7105,7 @@ uk_sherman_II_1;Sherman Mk.II;
 uk_sherman_II_2;Medium Tank;
 uk_sherman_vc_firefly_shop;Sherman Mk.Vc;
 uk_sherman_vc_firefly_0;"Tank, Medium, Sherman Mk.Vc
-<color=#9daab3>”Firefly”</color>";
+<color=#849eb0>”Firefly”</color>";
 uk_sherman_vc_firefly_1;Sherman Mk.Vc;
 uk_sherman_vc_firefly_2;Medium Tank;
 uk_a30_challenger_shop;Challenger Mk.I;
@@ -7194,7 +7194,7 @@ uk_challenger_2_tes_2;Main Battle Tank;
 uk_challenger_2_bn_shop;Black Night;
 uk_challenger_2_bn_0;"<color=#c8a5b2>FV4034</color>
 Tank, Combat, 120mm Gun, Challenger 2
-<color=#9daab3>Black Night</color>";
+<color=#849eb0>Black Night</color>";
 uk_challenger_2_bn_1;Black Night;
 uk_challenger_2_bn_2;Main Battle Tank;
 uk_challenger_2e_shop;Challenger 2E;
@@ -7288,7 +7288,7 @@ uk_3_inch_gun_carrier_1;3-inch Gun Carrier;
 uk_3_inch_gun_carrier_2;Tank Destroyer;
 uk_17_pdr_m10_achilles_shop;Achilles Mk.Ic;
 uk_17_pdr_m10_achilles_0;"QF 17pdr, SP, M10, Achilles Mk.Ic
-<color=#9daab3>”Firefly”</color>";
+<color=#849eb0>”Firefly”</color>";
 uk_17_pdr_m10_achilles_1;Achilles Mk.Ic;
 uk_17_pdr_m10_achilles_2;Tank Destroyer;
 uk_m44_shop;Cardinal;
@@ -7302,7 +7302,7 @@ uk_a30_sp_avenger_2;Medium Tank;
 uk_fv4005_shop;FV4005;
 uk_fv4005_0;"<color=#c8a5b2>FV4005</color>
 Tank, Heavy Gun, SP No.2
-<color=#9daab3>”Centaur”</color>";
+<color=#849eb0>”Centaur”</color>";
 uk_fv4005_1;FV4005;
 uk_fv4005_2;Tank Destroyer;
 uk_m109a1_shop;▄M109A1;
@@ -7432,7 +7432,7 @@ uk_alecto_mk_1_1;Alecto Mk.I;
 uk_alecto_mk_1_2;Tank Destroyer;
 uk_crusader_mk_2_the_saint_shop;Crusader Mk.II (1st Arm.Div.);
 uk_crusader_mk_2_the_saint_0;"Tank, Cruiser, Mk.VI, A.15, Crusader Mk.II
-<color=#9daab3>The Saint</color>
+<color=#849eb0>The Saint</color>
 <color=#fcba03>1st Armored Division</color>";
 uk_crusader_mk_2_the_saint_1;Crusader Mk.II (1st Arm.Div.);
 uk_crusader_mk_2_the_saint_2;Light Tank;
@@ -7446,7 +7446,7 @@ uk_armored_car_aec_mk_2_1;AEC Mk.II;
 uk_armored_car_aec_mk_2_2;Armored Car;
 uk_a27m_cromwell_5_rp3_shop;Cromwell Mk.Vc Tulip;
 uk_a27m_cromwell_5_rp3_0;"Tank, Cruiser, Mk.VIII, A.27M, Cromwell Mk.Vc
-<color=#9daab3>Tulip</color>
+<color=#849eb0>Tulip</color>
 <color=#c0c0c0>Specialised Armour Development Establishment</color>";
 uk_a27m_cromwell_5_rp3_1;Cromwell Mk.Vc Tulip;
 uk_a27m_cromwell_5_rp3_2;Medium Tank;
@@ -7464,7 +7464,7 @@ uk_a_22f_mk_7_churchill_crocodile_1;Churchill Crocodile;
 uk_a_22f_mk_7_churchill_crocodile_2;Infantry Tank;
 uk_a_34_comet_iron_duke_shop;Iron Duke IV;
 uk_a_34_comet_iron_duke_0;"Tank, Cruiser, A.34, Comet Mk.Ia
-<color=#9daab3>Iron Duke IV</color>
+<color=#849eb0>Iron Duke IV</color>
 <color=#fcba03>1st Royal Tank Regiment</color>";
 uk_a_34_comet_iron_duke_1;Iron Duke IV;
 uk_a_34_comet_iron_duke_2;Medium Tank;
@@ -7519,7 +7519,7 @@ uk_challenger_1_mk_3_gulf_2;Main Battle Tank;
 uk_challenger_2_megatron_shop;Megatron;
 uk_challenger_2_megatron_0;"<color=#c8a5b2>FV4034</color>
 Tank, Combat, 120mm Gun, Challenger 2
-<color=#9daab3>Megatron</color>
+<color=#849eb0>Megatron</color>
 <color=#c0c0c0>Dorchester Level 2H</color>
 <color=#c0c0c0>Theatre Entry Standard - circa. 2012</color>";
 uk_challenger_2_megatron_1;Megatron;
@@ -7533,7 +7533,7 @@ uk_challenger_2_megatron_sm_1;Challenger 2 TES;
 uk_challenger_2_megatron_sm_2;Main Battle Tank;
 uk_17_pdr_m10_achilles_norfolk_yeomanry_shop;Achilles Mk.Ic (65th A.T.R.);
 uk_17_pdr_m10_achilles_norfolk_yeomanry_0;"QF 17pdr, SP, M10, Achilles Mk.Ic
-<color=#9daab3>”Firefly”</color>
+<color=#849eb0>”Firefly”</color>
 <color=#fcba03>65th Anti-Tank Regiment</color>";
 uk_17_pdr_m10_achilles_norfolk_yeomanry_1;Achilles Mk.Ic (65th A.T.R.);
 uk_17_pdr_m10_achilles_norfolk_yeomanry_2;Tank Destroyer;
@@ -7551,7 +7551,7 @@ uk_a30_sp_avenger_kit_3rank_1;Avenger Mk.I (Overlord);
 uk_a30_sp_avenger_kit_3rank_2;Medium Tank;
 uk_sherman_vc_firefly_kit_3rank_shop;Sherman Mk.Vc (Overlord);
 uk_sherman_vc_firefly_kit_3rank_0;"Tank, Medium, Sherman Mk.Vc
-<color=#9daab3>”Firefly”</color>
+<color=#849eb0>”Firefly”</color>
 <color=#fcba03>Echoes of Overlord</color>";
 uk_sherman_vc_firefly_kit_3rank_1;Sherman Mk.Vc (Overlord);
 uk_sherman_vc_firefly_kit_3rank_2;Medium Tank;
@@ -8877,12 +8877,12 @@ jp_type_87_rcv_prot_1;RCV (No.1);
 jp_type_87_rcv_prot_2;Light Tank;
 jp_type_87_rcv_shop;Type 87 RCV;
 jp_type_87_rcv_0;"Type 87 Reconnaissance Combat Vehicle
-<color=#9daab3>“Kurakkuai”</color>";
+<color=#849eb0>“Kurakkuai”</color>";
 jp_type_87_rcv_1;Type 87 RCV;
 jp_type_87_rcv_2;Light Tank;
 jp_type_89_shop;Type 89 FV;
 jp_type_89_0;"Type 89 Armored Combat Vehicle
-<color=#9daab3>“Raitotaigā”</color>";
+<color=#849eb0>“Raitotaigā”</color>";
 jp_type_89_1;Type 89 FV;
 jp_type_89_2;Infantry Fighting Vehicle;
 jp_type_10_prototype_shop;TK (No.3) (2006);
@@ -8964,32 +8964,32 @@ jp_st_b1_1;STB-2;
 jp_st_b1_2;Main Battle Tank;
 jp_type_74_c_shop;Type 74 TK (C);
 jp_type_74_c_0;"Type 74 Tank Mod.C
-<color=#9daab3>”Nana-yon”</color>";
+<color=#849eb0>”Nana-yon”</color>";
 jp_type_74_c_1;Type 74 TK (C);
 jp_type_74_c_2;Main Battle Tank;
 jp_type_74_shop;Type 74 TK (E);
 jp_type_74_0;"Type 74 Tank Mod.E
-<color=#9daab3>”Nana-yon”</color>";
+<color=#849eb0>”Nana-yon”</color>";
 jp_type_74_1;Type 74 TK (E);
 jp_type_74_2;Main Battle Tank;
 jp_type_74_f_shop;Type 74 TK (F);
 jp_type_74_f_0;"Type 74 Tank Mod.F
-<color=#9daab3>”Nana-yon”</color>";
+<color=#849eb0>”Nana-yon”</color>";
 jp_type_74_f_1;Type 74 TK (F);
 jp_type_74_f_2;Main Battle Tank;
 jp_type_90_shop;Type 90 TK;
 jp_type_90_0;"Type 90 Tank
-<color=#9daab3>“Kyū-maru”</color>";
+<color=#849eb0>“Kyū-maru”</color>";
 jp_type_90_1;Type 90 TK;
 jp_type_90_2;Main Battle Tank;
 jp_type_90b_shop;Type 90 TK (B);
 jp_type_90b_0;"Type 90 Tank Mod.B
-<color=#9daab3>“Kyū-maru”</color>";
+<color=#849eb0>“Kyū-maru”</color>";
 jp_type_90b_1;Type 90 TK (B);
 jp_type_90b_2;Main Battle Tank;
 jp_type_10_shop;Type 10 TK;
 jp_type_10_0;"Type 10 Tank
-<color=#9daab3>”Hitomaru”</color>";
+<color=#849eb0>”Hitomaru”</color>";
 jp_type_10_1;Type 10 TK;
 jp_type_10_2;Main Battle Tank;
 jp_tkx_prot_shop;TK (No.3) (2009);
@@ -9097,30 +9097,30 @@ jp_sub_i_ii_20mm_1;SUB-I-2;
 jp_sub_i_ii_20mm_2;SPAA;
 jp_type_87_shop;Type 87 AW;
 jp_type_87_0;"Type 87 Self-Propelled Anti-Aircraft Gun
-<color=#9daab3>“Sukaishūta”</color>";
+<color=#849eb0>“Sukaishūta”</color>";
 jp_type_87_1;Type 87 AW;
 jp_type_87_2;SPAA;
 jp_type_93_shop;BXD10 (Kin-SAM);
 jp_type_93_0;"BXD10 | High Mobility Vehicle
-<color=#9daab3>“Kōkidōsha”</color>
+<color=#849eb0>“Kōkidōsha”</color>
 <color=#c0c0c0>93-Shiki kinji taikū misairu tōsai</color>";
 jp_type_93_1;BXD10 (Kin-SAM);
 jp_type_93_2;SAM;
 jp_type_81_tansam_shop;Type 73 (Tan-SAM);
 jp_type_81_tansam_0;"Type 73 | 3½ Truck
-<color=#9daab3>Ougata</color>
+<color=#849eb0>Ougata</color>
 <color=#c0c0c0>81-Gata Tan samu-tsuki</color>";
 jp_type_81_tansam_1;Type 73 (Tan-SAM);
 jp_type_81_tansam_2;SAM;
 jp_type_81_tansam_fcs_shop;Type 73 (TADV);
 jp_type_81_tansam_fcs_0;"Type 73 | 3½ Truck
-<color=#9daab3>Ougata</color>
+<color=#849eb0>Ougata</color>
 <color=#c0c0c0>Target Acquisition & Designation Vehicle</color>";
 jp_type_81_tansam_fcs_1;Type 73 (TADV);
 jp_type_81_tansam_fcs_2;Radar Vehicle;
 jp_type_81_tansam_launcher_shop;Type 73 (Tan-SAM Kai);
 jp_type_81_tansam_launcher_0;"Type 73 | 3½ Truck
-<color=#9daab3>Ougata</color>
+<color=#849eb0>Ougata</color>
 <color=#c0c0c0>81-Shiki Tan samu aratame tōsai</color>";
 jp_type_81_tansam_launcher_1;Type 73 (Tan-SAM Kai);
 jp_type_81_tansam_launcher_2;SAM;
@@ -9185,7 +9185,7 @@ jp_type_75_mlrs_1;Type 75 MSSR;
 jp_type_75_mlrs_2;Tank Destroyer;
 jp_type_74_red_star_shop;Type 74 TK (Fuji T.E.U.);
 jp_type_74_red_star_0;"Type 74 Tank Mod.C
-<color=#9daab3>”Nana-yon”</color>
+<color=#849eb0>”Nana-yon”</color>
 <color=#fcba03>Fuji School Training Evaluation Unit</color>";
 jp_type_74_red_star_1;Type 74 TK (Fuji T.E.U.);
 jp_type_74_red_star_2;Main Battle Tank;
@@ -9200,18 +9200,18 @@ jp_type_16_mod_1;Type 16 MCV (15th R.D.R.);
 jp_type_16_mod_2;Light Tank;
 jp_type_74_mod_g_kai_shop;Type 74 TK (G);
 jp_type_74_mod_g_kai_0;"Type 74 Tank Kai Mod.G
-<color=#9daab3>”Nana-yon”</color>";
+<color=#849eb0>”Nana-yon”</color>";
 jp_type_74_mod_g_kai_1;Type 74 TK (G);
 jp_type_74_mod_g_kai_2;Main Battle Tank;
 jp_type_90b_camo_shop;Type 90 TK (B) (Fuji A.I.R.);
 jp_type_90b_camo_0;"Type 90 Tank Mod.B
-<color=#9daab3>“Kyū-maru”</color>
+<color=#849eb0>“Kyū-maru”</color>
 <color=#fcba03>Fuji School Armored Instruction Regiment</color>";
 jp_type_90b_camo_1;Type 90 TK (B) (Fuji);
 jp_type_90b_camo_2;Main Battle Tank;
 jp_type_90b_sm_shop;Usagi’s Type 90 TK (B);
 jp_type_90b_sm_0;"Type 90 Tank Mod.B
-<color=#9daab3>“Kyū-maru”</color>
+<color=#849eb0>“Kyū-maru”</color>
 <color=#fcba03>Usagi, Senrai Maidens</color>";
 jp_type_90b_sm_1;Type 90 TK (B);
 jp_type_90b_sm_2;Main Battle Tank;
@@ -10507,7 +10507,7 @@ cn_pgz_04a_2;SPAA / SAM;
 cn_tor_m1_shop;␗Tor-M1;
 cn_tor_m1_0;"<color=#c8a5b2>9A331-1</color>
 ␗9K331
-<color=#9daab3>Tor-M1</color>";
+<color=#849eb0>Tor-M1</color>";
 cn_tor_m1_1;␗Tor-M1;
 cn_tor_m1_2;SAM;
 cn_hq_17_shop;AKD17;
@@ -11060,7 +11060,7 @@ it_ariete_amv_pt1_2;Main Battle Tank;
 it_as_42_metropolitana_shop;AS 42;
 it_as_42_metropolitana_0;"Camionetta AS 42 Tipo II
 <color=#c0c0c0>con 20/65 Mod.35</color>
-<color=#9daab3>Metropolitana</color>";
+<color=#849eb0>Metropolitana</color>";
 it_as_42_metropolitana_1;AS 42;
 it_as_42_metropolitana_2;SPAA;
 it_fiat_cm52_shop;CM 52;
@@ -11134,7 +11134,7 @@ it_semovente_m42_75_34_1;75/34 M.42M;
 it_semovente_m42_75_34_2;Tank Destroyer;
 it_semovente_m43_105_shop;105/25 M.42L;
 it_semovente_m43_105_0;"Semovente M.42L da 105/25
-<color=#9daab3>”Bassotto”</color>";
+<color=#849eb0>”Bassotto”</color>";
 it_semovente_m43_105_1;105/25 M.42L;
 it_semovente_m43_105_2;Tank Destroyer;
 it_semovente_m43_75_34_shop;75/34 M.42L;
@@ -11219,8 +11219,8 @@ it_p_26_40_1;P.40 (Grp.Cor.);
 it_p_26_40_2;Medium Tank;
 it_semovente_m43_105_leoncello_shop;105/25 M.42L (Grp.Cor.);
 it_semovente_m43_105_leoncello_0;"Semovente M.42L da 105/25
-<color=#9daab3>”Bassotto”</color>
-<color=#9daab3>”Terramotto”</color>
+<color=#849eb0>”Bassotto”</color>
+<color=#849eb0>”Terramotto”</color>
 <color=#fcba03>Gruppo Corazzato “Leoncello”</color>";
 it_semovente_m43_105_leoncello_1;105/25 M.42L (Grp.Cor.);
 it_semovente_m43_105_leoncello_2;Tank Destroyer;
@@ -12203,7 +12203,7 @@ fr_amx_30_b2_brenus_1;AMX 30 B2 Brenus;
 fr_amx_30_b2_brenus_2;Main Battle Tank;
 fr_msc_shop;Leclerc MSC;
 fr_msc_0;"Engin principal de combat Leclerc Mulet Système Complet
-<color=#9daab3>”Ares”</color>";
+<color=#849eb0>”Ares”</color>";
 fr_msc_1;Leclerc MSC;
 fr_msc_2;Main Battle Tank;
 fr_leclerc_s1_shop;Leclerc S1;
@@ -12420,7 +12420,7 @@ fr_saint_chamond_1;St. Chamond;
 fr_saint_chamond_2;Medium Tank;
 fr_hotchkiss_h39_cambronne_shop;H 39 (14e BCC);
 fr_hotchkiss_h39_cambronne_0;"Char léger Hotchkiss modéle 1935 modifié 39
-<color=#9daab3>Cambronne</color>
+<color=#849eb0>Cambronne</color>
 <color=#fcba03>14e BCC</color>";
 fr_hotchkiss_h39_cambronne_1;H 39 (14e BCC);
 fr_hotchkiss_h39_cambronne_2;Light Tank;
@@ -12454,12 +12454,12 @@ fr_m4a1_sherman_fl_10_1;M4A1 (FL 10);
 fr_m4a1_sherman_fl_10_2;Medium Tank;
 fr_arl_44_mod_shop;Bayard;
 fr_arl_44_mod_0;"Char de transition ARL 44
-<color=#9daab3>Bayard</color>";
+<color=#849eb0>Bayard</color>";
 fr_arl_44_mod_1;Bayard;
 fr_arl_44_mod_2;Heavy Tank;
 fr_pzkpfw_V_panther_dauphine_shop;☨Panther G (Besnier);
 fr_pzkpfw_V_panther_dauphine_0;"☨Char Panther Mle. G
-<color=#9daab3>Dauphiné</color>
+<color=#849eb0>Dauphiné</color>
 <color=#fcba03>Escadron Autonome do Chars Besnier</color>";
 fr_pzkpfw_V_panther_dauphine_1;☨Panther G (Besnier);
 fr_pzkpfw_V_panther_dauphine_2;Medium Tank;
@@ -13589,7 +13589,7 @@ sw_sav_m43_1944_1;sav m/43 (1944);
 sw_sav_m43_1944_2;Tank Destroyer;
 sw_stormpjas_fm43_44_shop;spj fm/43-44;
 sw_stormpjas_fm43_44_0;"stormartilleripjäs fm/43-44
-<color=#9daab3>“Trätoffelvagnen”</color>";
+<color=#849eb0>“Trätoffelvagnen”</color>";
 sw_stormpjas_fm43_44_1;spj fm/43-44;
 sw_stormpjas_fm43_44_2;Self-Propelled Gun;
 sw_sav_m43_1946_shop;sav m/43 (1946);
@@ -13674,7 +13674,7 @@ sw_sherman_3_4_2;Medium Tank;
 sw_kungstiger_shop;strv Tiger B;
 sw_kungstiger_0;"stridsvagn Panzer VI Ausf. B
 <color=#c0c0c0>Nr.6 Turm</color>
-<color=#9daab3>Kungstiger</color>";
+<color=#849eb0>Kungstiger</color>";
 sw_kungstiger_1;strv Tiger B;
 sw_kungstiger_2;Heavy Tank;
 sw_strv_81_rb52_shop;strv 81 (rbs 52A);
@@ -13693,12 +13693,12 @@ sw_cv_90105_tml_1;CV90105 (XC-8);
 sw_cv_90105_tml_2;Light Tank;
 sw_strv121b_christian2_shop;Christian II;
 sw_strv121b_christian2_0;"stridsvagn 121B
-<color=#9daab3>Christian II</color>";
+<color=#849eb0>Christian II</color>";
 sw_strv121b_christian2_1;Christian II;
 sw_strv121b_christian2_2;Main Battle Tank;
 sw_t_80u_shop;♛T-80 U;
 sw_t_80u_0;"♛T-80 U
-<color=#9daab3>Hotstrv-VII</color>";
+<color=#849eb0>Hotstrv-VII</color>";
 sw_t_80u_1;♛T-80 U;
 sw_t_80u_2;Main Battle Tank;
 ;;
@@ -14140,7 +14140,7 @@ il_tcm_20_2;SPAA;
 il_zsu_57_2_shop;ZSU-57-2;
 il_zsu_57_2_0;"<color=#c8a5b2>Object 500</color>
 ZSU-57-2
-<color=#9daab3>”Sparka”</color>";
+<color=#849eb0>”Sparka”</color>";
 il_zsu_57_2_1;ZSU-57-2;
 il_zsu_57_2_2;SPAA;
 il_m163_vulcan_shop;Hovet;
@@ -14150,7 +14150,7 @@ il_m163_vulcan_2;SPAA;
 il_zsu_23_4_shop;ZSU-23-4V1;
 il_zsu_23_4_0;"<color=#c8a5b2>2A6V1</color>
 ZSU-23-4V1
-<color=#9daab3>Shilka</color>";
+<color=#849eb0>Shilka</color>";
 il_zsu_23_4_1;ZSU-23-4V1;
 il_zsu_23_4_2;SPAA;
 il_machbet_shop;Machbet;
@@ -14423,7 +14423,7 @@ f_16i_sufa_1;F-16I;
 f_16i_sufa_2;F-16;
 f_15i_raam_shop;F-15I;
 f_15i_raam_0;"<color=#87a4f5>Boeing Military Airplane Company</color>
-F-15I-MC Ra’am
+F-15I-MC Ra’amKW 1 A
 <color=#c0c0c0>shinuy 2006</color>";
 f_15i_raam_1;F-15I;
 f_15i_raam_2;F-15;
@@ -14520,19 +14520,19 @@ sw_vickers_mk_e_37_2;Light Tank;
 sw_t_28_shop;psv. T 28 m/38;
 sw_t_28_0;"<color=#c8a5b2>Ps.241</color>
 25-tonnin pansarrivaunu, mallia T 28 m/38
-<color=#9daab3>”Postijuna”</color>";
+<color=#849eb0>”Postijuna”</color>";
 sw_t_28_1;psv. T 28 m/38;
 sw_t_28_2;Medium Tank;
 sw_t_34_1941_shop;psv. T 34 B;
 sw_t_34_1941_0;"<color=#c8a5b2>Ps.231</color>
 28-tonnin panssarivaunu, mallia T 34 B
-<color=#9daab3>”Sotka”</color>";
+<color=#849eb0>”Sotka”</color>";
 sw_t_34_1941_1;psv. T 34 B;
 sw_t_34_1941_2;Medium Tank;
 sw_pzkpfw_IV_ausf_J_shop;psv. PzKw IVJ;
 sw_pzkpfw_IV_ausf_J_0;"<color=#c8a5b2>Ps.221</color>
 25-tonnin panssarivaunu, mallia PzKw IVJ
-<color=#9daab3>”Nelonen”</color>";
+<color=#849eb0>”Nelonen”</color>";
 sw_pzkpfw_IV_ausf_J_1;psv. PzKw IVJ;
 sw_pzkpfw_IV_ausf_J_2;Medium Tank;
 sw_pt_76b_shop;ryn.psv. PT 76 B;
@@ -14548,7 +14548,7 @@ sw_a_34_comet_2;Medium Tank;
 sw_t_34_85_zis_53_shop;psv. T 34/85;
 sw_t_34_85_zis_53_0;"<color=#c8a5b2>Ps.245</color>
 32-tonnin panssarivaunu, mallia T 34/85
-<color=#9daab3>”Pitkäpiipuninen Sotka”</color>";
+<color=#849eb0>”Pitkäpiipuninen Sotka”</color>";
 sw_t_34_85_zis_53_1;psv. T 34/85;
 sw_t_34_85_zis_53_2;Medium Tank;
 sw_charioteer_mk_7_shop;tst.psv. Charioteer;
@@ -14589,13 +14589,13 @@ sw_vickers_mk_e_45_2;Light Tank;
 sw_t_50_fin_shop;psv. T 50;
 sw_t_50_fin_0;"<color=#c8a5b2>Ps.183-1</color>
 15-tonnin panssarivaunu, mallia T 50
-<color=#9daab3>”Pikku Sotka”</color>";
+<color=#849eb0>”Pikku Sotka”</color>";
 sw_t_50_fin_1;psv. T 50;
 sw_t_50_fin_2;Light Tank;
 sw_kv_1_1942_fin_shop;psv. KW 1 A;
 sw_kv_1_1942_fin_0;"<color=#c8a5b2>Ps.271</color>
 49-tonnin panssarivaunu KW 1 A 
-<color=#9daab3>“Klimi”</color>";
+<color=#849eb0>“Klimi”</color>";
 sw_kv_1_1942_fin_1;psv. KW 1 A;
 sw_kv_1_1942_fin_2;Heavy Tank;
 sw_patria_amv_ctcv_105_shop;AMV (CT-CV);
@@ -14709,13 +14709,13 @@ saab_j35xs_2;Saab 35;
 it_zsu_57_2_shop;◔ZSU-57-2;
 it_zsu_57_2_0;"<color=#c8a5b2>Object 500</color>
 ◔ZSU-57-2
-<color=#9daab3>”Sparka”</color>";
+<color=#849eb0>”Sparka”</color>";
 it_zsu_57_2_1;◔ZSU-57-2;
 it_zsu_57_2_2;SPAA;
 it_zsu_23_4_shop;◔ZSU-23-4V1;
 it_zsu_23_4_0;"<color=#c8a5b2>2A6V1</color>
 ◔ZSU-23-4V1
-<color=#9daab3>Shilka</color>";
+<color=#849eb0>Shilka</color>";
 it_zsu_23_4_1;◔ZSU-23-4V1;
 it_zsu_23_4_2;SPAA;
 it_39m_csaba_shop;Csaba;
@@ -14741,7 +14741,7 @@ it_43m_turan_3_2;Medium Tank;
 it_2s1_shop;◔2S1;
 it_2s1_0;"<color=#c8a5b2>Object 26</color>
 ◔2S1
-<color=#9daab3>Gvozdika</color>";
+<color=#849eb0>Gvozdika</color>";
 it_2s1_1;◔2S1;
 it_2s1_2;Self-Propelled Gun;
 it_btr_80a_hungary_shop;◔BTR-80A;
@@ -14759,7 +14759,7 @@ it_leopard_2a4_1;◔Leopard 2 A4HU;
 it_leopard_2a4_2;Main Battle Tank;
 it_kf_41_shop;Lynx;
 it_kf_41_0;"Lynx KF41 Gyalogsági Harcjármű
-<color=#9daab3>“Hiúz”</color>";
+<color=#849eb0>“Hiúz”</color>";
 it_kf_41_1;Lynx;
 it_kf_41_2;Infantry Fighting Vehicle;
 it_leopard_2a7_hungary_shop;◔Leopard 2 A7HU;
@@ -14789,7 +14789,7 @@ it_pzh_2000_hu_2;SPG;
 it_9a35_m_shop;◔Strela-10M;
 it_9a35_m_0;"<color=#c8a5b2>9A35M</color>
 ◔BM 9K35M
-<color=#9daab3>Strela-10M</color>";
+<color=#849eb0>Strela-10M</color>";
 it_9a35_m_1;◔Strela-10M;
 it_9a35_m_2;SAM;
 ;;
@@ -14941,7 +14941,7 @@ he_112b_1_2;◔He 112;
 ;;
 germ_th_800_bismark_shop;⋟TH 800;
 germ_th_800_bismark_0;"⋟New Generation Armored Car Project TH 800
-<color=#9daab3>”Bismarck</color>";
+<color=#849eb0>”Bismarck</color>";
 germ_th_800_bismark_1;⋟TH 800;
 germ_th_800_bismark_2;Armored Car;
 uk_sarc_mk4_a_shop;SARC Mk.IVa;
@@ -15111,19 +15111,19 @@ wirraway_2;╨Wirraway;
 ;;
 us_m1a1_aim_abrams_shop;╨M1A1 AIM SA;
 us_m1a1_aim_abrams_0;"╨Tank, Combat, Full Tracked, 120mm Gun, M1A1
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#c0c0c0>Abrams Integrated Management, Situational Awareness</color>";
 us_m1a1_aim_abrams_1;╨M1A1 AIM SA;
 us_m1a1_aim_abrams_2;Main Battle Tank;
 uk_m1a1_aim_abrams_shop;╨M1A1 AIM SA;
 uk_m1a1_aim_abrams_0;"╨Tank, Combat, Full Tracked, 120mm Gun, M1A1
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#c0c0c0>Abrams Integrated Management, Situational Awareness</color>";
 uk_m1a1_aim_abrams_1;╨M1A1 AIM SA;
 uk_m1a1_aim_abrams_2;Main Battle Tank;
 uk_m1a2_sep3_abrams_shop;╨M1A2 SEPv3;
 uk_m1a2_sep3_abrams_0;"╨Tank, Combat, Full Tracked, 120mm Gun, M1A2
-<color=#9daab3>General Abrams</color>
+<color=#849eb0>General Abrams</color>
 <color=#c0c0c0>Systems Enhancement Package Version 3</color>
 <color=#c0c0c0>Tank Urban Survival Kit 2</color>";
 uk_m1a2_sep3_abrams_1;╨M1A2 SEPv3;
@@ -15134,7 +15134,7 @@ uk_ac1_sentinel_1;╨A.C.I;
 uk_ac1_sentinel_2;Medium Tank;
 uk_ac4_thunderbolt_shop;╨A.C.IV;
 uk_ac4_thunderbolt_0;"╨Cruiser Tank, A.C. Mark IV
-<color=#9daab3>”Thunderbolt”</color>";
+<color=#849eb0>”Thunderbolt”</color>";
 uk_ac4_thunderbolt_1;╨A.C.IV;
 uk_ac4_thunderbolt_2;Medium Tank;
 uk_centurion_mk_5_raac_shop;╨Centurion Mk.5/1;
@@ -15462,7 +15462,7 @@ f_16am_block_20_mlu_netherlands_2;◘F-16;
 it_9a33bm3_shop;╏Osa-AKM;
 it_9a33bm3_0;"<color=#c8a5b2>9A33BM3</color>
 ╏9K33M3
-<color=#9daab3>Osa-AKM</color>";
+<color=#849eb0>Osa-AKM</color>";
 it_9a33bm3_1;╏Osa-AKM;
 it_9a33bm3_2;SAM;
 ;;
@@ -15547,7 +15547,7 @@ mig_29_9_12_sniper_2;╏MiG-29;
 ;;
 uk_sherman_ic_firefly_shop;⋠Sherman Mk.Ic “Trzyniec”;
 uk_sherman_ic_firefly_0;"⋠Tank, Medium, Sherman Mk.Ic
-<color=#9daab3>Trzyiec</color>";
+<color=#849eb0>Trzyiec</color>";
 uk_sherman_ic_firefly_1;⋠Sherman Mk.Ic;
 uk_sherman_ic_firefly_2;Medium Tank;
 germ_leopard_2pl_shop;⋠Leopard 2 PL;
@@ -15653,7 +15653,7 @@ fa_18c_switzerland_2;◌F/A-18;
 ;;
 ussr_m53_59_shop;⚚PLDvK vz.53/59;
 ussr_m53_59_0;"⚚PLDvK vz.53/59
-<color=#9daab3>Praga</color>";
+<color=#849eb0>Praga</color>";
 ussr_m53_59_1;⚚PLDvK vz.53/59;
 ussr_m53_59_2;SPAA;
 ;;
@@ -15688,7 +15688,7 @@ su_25k_2;⚚Su-25;
 ;;
 ussr_t_72m2_moderna_shop;⛉T-72M2;
 ussr_t_72m2_moderna_0;"⛉T-72M2
-<color=#9daab3>Moderna</color>";
+<color=#849eb0>Moderna</color>";
 ussr_t_72m2_moderna_1;⛉T-72M2;
 ussr_t_72m2_moderna_2;Main Battle Tank;
 ;;
@@ -15751,13 +15751,13 @@ il_leopard_2a6_hel_2;Main Battle Tank;
 il_9a33bm3_shop;◐Osa-AKM;
 il_9a33bm3_0;"<color=#c8a5b2>9A33BM3</color>
 ◐9K33M3
-<color=#9daab3>Oka-AK</color>";
+<color=#849eb0>Oka-AK</color>";
 il_9a33bm3_1;◐Osa-AKM;
 il_9a33bm3_2;SAM;
 il_tor_m1_shop;◐Tor-M1;
 il_tor_m1_0;"<color=#c8a5b2>9A331-1</color>
 ◐9K331
-<color=#9daab3>Tor-M1</color>";
+<color=#849eb0>Tor-M1</color>";
 il_tor_m1_1;◐Tor-M1;
 il_tor_m1_2;SAM;
 ;;
@@ -16371,7 +16371,7 @@ cn_m60a3_tts_1;☀M60A3 TTS;
 cn_m60a3_tts_2;Main Battle Tank;
 cn_cm11_shop;CM11 (CSIST);
 cn_cm11_0;"CM11 Tank
-<color=#9daab3>“Yong hu”</color>
+<color=#849eb0>“Yong hu”</color>
 <color=#c0c0c0>Jièzhù CSIST ERA</color>";
 cn_cm11_1;CM11 (CSIST);
 cn_cm11_2;Main Battle Tank;
@@ -16421,7 +16421,7 @@ cn_m42_duster_1;☀M42;
 cn_m42_duster_2;SPAA;
 cn_antelope_tc_1l_ads_shop;Chien-1 ADMS;
 cn_antelope_tc_1l_ads_0;"Vehicle-Mounted Chien-1 Air-Defense Missile System
-<color=#9daab3>Antelope</color>";
+<color=#849eb0>Antelope</color>";
 cn_antelope_tc_1l_ads_1;Chien-1 ADMS;
 cn_antelope_tc_1l_ads_2;SAM;
 cn_m8_scott_shop;☀M8 75;

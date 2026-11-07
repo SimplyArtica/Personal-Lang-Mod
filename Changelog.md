@@ -90,7 +90,7 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 - ### Miscellaneous Changes:
 
 	- The color of manufacturers and ship classes has been changed (from HEX #7b9fb5 to HEX #87a4f5)
-	- The color of tank names and nicknames has been changed (from HEX #7b9fb5 to HEX #9daab3)
+	- The color of tank names and nicknames has been changed (from HEX #7b9fb5 to HEX #849eb0)
 
 	
 - ### Fixes:
