@@ -72,6 +72,7 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 	- HVAR MK 28 → MK 28 HVAR
 	- Zuni MK 32 → Zuni (MK 32)
 	- Zuni MK 34 → Zuni (MK 34)
+	- T/220 renamed to T220/e
 
 
 - ### AI Changes:
