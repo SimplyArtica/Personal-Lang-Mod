@@ -63,6 +63,7 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 	- 90/53 M41M → 90/53 M.41M
 	- 75/46 M43 → 75/46 M.42T
 	- M16/43 → M.43
+	- AH-64E stat card changed to reflect inclusion of Spike NLOS (Capability Version 6 -> Capability Version 6.5)
 
 
 - ### Weaponry Changes:
@@ -90,6 +91,7 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 	- Corrected duplication of MID range SAM warning as HI range SAM warning.
 	- Corrected factory code of French F-84F from "-RE" → "-GK".
 	- Corrected missing formatting for B-66B stat card.
+	- Fixed a number of typos of color codes in stat cards.
 
 
 - ### Addon File Changes:

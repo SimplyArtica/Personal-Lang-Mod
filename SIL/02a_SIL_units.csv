@@ -777,7 +777,7 @@ ah_64d_2;AH-64;
 ah_64e_shop;AH-64E;
 ah_64e_0;"<color=#7b9fb5>Boeing Rotocraft Systems</color>
 AH-64E-BO Apache Guardian
-<color=#c0c0c0>Capability Version 6</color>";
+<color=#c0c0c0>Capability Version 6.5</color>";
 ah_64e_1;AH-64E;
 ah_64e_2;AH-64;
 uh_1b_shop;UH-1B;
@@ -6606,7 +6606,7 @@ Opytny
 ussr_destroyer_pr45_1;Opytny;
 ussr_destroyer_pr45_2;Opytny;
 ussr_destroyer_7_besposhchadny_shop;Besposhchadny;
-ussr_destroyer_7_besposhchadny_0;"<color=#7f9fb5>Project 7</color>
+ussr_destroyer_7_besposhchadny_0;"<color=#7b9fb5>Project 7</color>
 <color=#7b9fb5>Èskadrennyj Minonosec Tip Gnevny</color>
 Besposhchadny
 <color=#c0c0c0>1945 Refit</color>";
@@ -6715,7 +6715,7 @@ ussr_destroyer_pr30bis_bezuprechnyi_1;Bezuprechny;
 ussr_destroyer_pr30bis_bezuprechnyi_2;Tip Skory [DD];
 ussr_destroyer_pr20_tashkent_shop;Tashkent;
 ussr_destroyer_pr20_tashkent_0;"<color=#7b9fb5>Project 20</color>
-<color=#7bf9b5>Èskadrennyj Minonosec Tip Tashkent</color>
+<color=7b9fb5>Èskadrennyj Minonosec Tip Tashkent</color>
 Tashkent
 <color=#c0c0c0>1942 Refit</color>";
 ussr_destroyer_pr20_tashkent_1;Tashkent;
@@ -6948,7 +6948,7 @@ ussr_1124_ack_1;BK-314;
 ussr_1124_ack_2;Armored Gunboat;
 ussr_fugas_t1_strela_shop;Strela;
 ussr_fugas_t1_strela_0;"<color=#7b9fb5>Project 53</color>
-<color=#7b9bf5>Fugas Class Minesweeper</color>
+<color=#7b9fb5>Fugas Class Minesweeper</color>
 T-1 Strela";
 ussr_fugas_t1_strela_1;Strela;
 ussr_fugas_t1_strela_2;Minesweeper;
@@ -7606,7 +7606,7 @@ Apache A.H. Mk. 2";
 ah_64e_britain_1;Apache A.H. 2;
 ah_64e_britain_2;Apache;
 aw_159_shop;Wildcat H.M.A. 2;
-aw_159_0;"<color=#7b9bf5>AgustaWestland</color>
+aw_159_0;"<color=#7b9fb5>AgustaWestland</color>
 Wildcat H.M.A. Mk. 2";
 aw_159_1;Wildcat H.M.A. 2;
 aw_159_2;Wildcat;
@@ -8668,7 +8668,7 @@ HMS Duke of York (17)
 uk_battleship_duke_of_york_1;Duke of York;
 uk_battleship_duke_of_york_2;King George V Class [BB];
 uk_battlecruiser_repulse_shop;Repulse;
-uk_battlecruiser_repulse_0;"<color=#7bf9b5>Renown Class Battlecruiser</color>
+uk_battlecruiser_repulse_0;"<color=#7b9fb5>Renown Class Battlecruiser</color>
 HMS Repulse (34)
 <color=#c0c0c0>1941 Refit</color>";
 uk_battlecruiser_repulse_1;Repulse;
@@ -13222,7 +13222,7 @@ Clemenceau";
 fr_battleship_richelieu_class_clemenceau_1;Clemenceau;
 fr_battleship_richelieu_class_clemenceau_2;Richelieu Class [BB];
 fr_destroyer_jaguar_class_panthere_shop;Panthère;
-fr_destroyer_jaguar_class_panthere_0;"<color=#7b9bf5>Contre-Torpilleur de Classe Jaguar</color>
+fr_destroyer_jaguar_class_panthere_0;"<color=#7b9fb5>Contre-Torpilleur de Classe Jaguar</color>
 Panthère (X 43)
 <color=#c0c0c0>1940 Refit</color>";
 fr_destroyer_jaguar_class_panthere_1;Panthère;
