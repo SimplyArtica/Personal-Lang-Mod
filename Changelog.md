@@ -86,6 +86,12 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 	- 9K720 "Iskander-M" tactical ballistic missile → 9P78-1 Iskander-M
 	- 9K720 "Iskander-K" tactical ballistic missile → 9P78-1 Iskander-K
 
+
+- ### Miscellaneous Changes:
+
+	- The color of manufacturers and ship classes has been changed (from HEX #7b9fb5 to HEX #87a4f5)
+	- The color of tank names and nicknames has been changed (from HEX #7b9fb5 to HEX #9daab3)
+
 	
 - ### Fixes:
 
@@ -93,6 +99,7 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 	- Corrected duplication of MID range SAM warning as HI range SAM warning.
 	- Corrected factory code of French F-84F from "-RE" → "-GK".
 	- Corrected missing formatting for B-66B stat card.
+	- Corrected stat card formatting of several vehicles (German Osa, German Strela, Chinese Tor, Finnish KW 1 A, and potentially 1-2 others I forgot to document)
 	- Fixed a number of typos of color codes in stat cards.
 
 
