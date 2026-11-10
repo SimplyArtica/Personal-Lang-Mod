@@ -2335,6 +2335,11 @@ us_elco_80ft_pt109_boat_shop;PT-109;
 us_elco_80ft_pt109_boat_0;Elco 80’ Motor Torpedo Boat, PT-109;
 us_elco_80ft_pt109_boat_1;PT-109;
 us_elco_80ft_pt109_boat_2;Motor Torpedo Boat;
+PLACEHOLDER_shop;Marfa;
+PLACEHOLDER_0;"<color=#87a4f5>PCE-842 Class Patrol Craft Escort</color>
+USS Marfa (PCE-842)";
+PLACEHOLDER_1;Marfa;
+PLACEHOLDER_2;Subchaser;
 ;;
 ;;
 ;;
