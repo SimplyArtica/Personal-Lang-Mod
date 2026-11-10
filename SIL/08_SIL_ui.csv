@@ -2492,7 +2492,7 @@ HUD/AIRDRROP_BAY_DOOR_IS_OPEN;Airdrop bay door is open
 HUD/AIRDRROP_BAY_DOOR_IS_OPENING;Airdrop bay door is opening
 HUD/AIRDRROP_BAY_DOOR_IS_CLOSED;Airdrop bay door is closed
 HUD/AIRDRROP_BAY_DOOR_IS_CLOSING;Airdrop bay door is closing
-HUD_MISSILE_WARNING;Missile launched
+HUD_MISSILE_WARNING;Missile Launch Detected
 HUD_LASER_WARNING;laser warning
 HUD_OWNED_UNIT_DEAD;Owned ship destroyed!
 TXT_WEAPON_LOCK_NO_WEAPON;No self-homing missiles
