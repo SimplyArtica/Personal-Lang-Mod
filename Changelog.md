@@ -92,6 +92,10 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 	- The color of manufacturers and ship classes has been changed (from HEX #7b9fb5 to HEX #87a4f5)
 	- The color of tank names and nicknames has been changed (from HEX #7b9fb5 to HEX #849eb0)
 	- MAW warning changed from "Missile launched" to "Missile Launch Detected"
+	- Laser warning changed from "Laser warning" to "Vehicle Lased"
+	- Low speed warning changed to "STALL WARNING"
+	- Flap warning changed to "FLAP OVERSPEED"
+	- Gear warning changed to "GEAR OVERSPEED"
 
 	
 - ### Fixes:
