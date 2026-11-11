@@ -13325,7 +13325,8 @@ fr_type40k_vedette_0;40k Class, Vedette Torpile B 19;
 fr_type40k_vedette_1;VTB 19;
 fr_type40k_vedette_2;Torpedo Boat;
 fr_vc1_shop;VC 1;
-fr_vc1_0;VC 1;
+fr_vc1_0;"<color=#87a4f5>Vedette de Surveillance Côtière</color>
+VC 1";
 fr_vc1_1;VC 1;
 fr_vc1_2;Gunboat;
 fr_adroit_class_shop;L’Intrepide;
