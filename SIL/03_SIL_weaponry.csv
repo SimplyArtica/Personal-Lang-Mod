@@ -1848,6 +1848,8 @@ weapons/us_sniper_atp_targeting_pod;AN/AAQ-33 Sniper Advanced Targeting Pod
 ;
 weapons/ntps_mercury/short;Merkury
 weapons/ntps_mercury;Merkury targeting pod
+weapons/su_hod_pod/short;Khod
+weapons/su_hod_pod;Khod targeting pod
 weapons/su_t_220_targeting_pod/short;T220/e
 weapons/su_t_220_targeting_pod;T220/e targeting pod
 weapons/su_projector_1/short;Projector-1
@@ -5382,6 +5384,8 @@ weapons/57mm_ub_16_user_cannon;UB-16-57
 weapons/20mm_Rh_202_6616_user_cannon;20 mm MK 20
 weapons/120mm_arjun_mk1_user_cannon;120-mm ARDE Rifled Tank Gun
 weapons/180mm_FK_2000_rocket_launcher;FK-2000 SAM launcher
+weapons/170mm_tbk_1055_container/short;TBK-1055
+weapons/170mm_tbk_1055_container;TBK-1055 SAM launcher
 ;
 ;
 ;

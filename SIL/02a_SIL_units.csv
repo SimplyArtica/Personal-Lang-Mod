@@ -18177,6 +18177,10 @@ HMS Ark Royal (R09)";
 uk_aircraftcarrier_ark_royal_ai_1;Ark Royal;
 uk_aircraftcarrier_ark_royal_ai_2;Audacious Class [CV];
 ;;
+cn_frigate_type054a_shop;Type 054A;
+cn_frigate_type054a_0;Type 054A;
+cn_frigate_type054a_1;Type 054;
+cn_frigate_type054a_2;Type 054A Class [FF];
 cn_destroyer_type052d_shop;Qiqihar;
 cn_destroyer_type052d_0;"<color=#87a4f5>052D xíng qū zhú jiàn</color>
 Qiqihar (121)";

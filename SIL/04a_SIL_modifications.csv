@@ -1230,6 +1230,8 @@ modification/us_sniper_pod/desc;Allows the mounting of the AN/AAQ-33 Sniper Adva
 ;
 modification/su_mercury_pod;Mercury
 modification/su_mercury_pod/desc;Allows the mounting of the Mercury targeting pod.
+modification/su_hod_pod;Khod
+modification/su_hod_pod/desc;Allows the mounting of the Khod targeting pod.
 modification/t_220;T/220
 modification/t_220/desc;Allows the mounting of the T/220 targeting pod.
 ;
