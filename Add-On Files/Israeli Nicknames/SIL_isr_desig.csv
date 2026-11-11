@@ -57,6 +57,11 @@ F-15I-MC Ra’am
 <color=#c0c0c0>(2006)</color>"
 f_15i_raam_1;Ra’am
 f_15i_raam_2;Ra’am
+f_15ia_shop;Ra'am II;
+f_15ia_0;"<color=#7b9fb5>Boeing Defense, Space & Security</color>
+F-15IA-BO Ra'am II";
+f_15ia_1;Ra'am II;
+f_15ia_2;Ra'am;
 f_16a_block_10_netz_mod_shop;Netz (115 Sqd.)
 f_16a_block_10_netz_mod_0;"<color=#7b9fb5>General Dynamics Corporation</color>
 F-16A-5-CF Netz

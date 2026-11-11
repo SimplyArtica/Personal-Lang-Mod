@@ -95,6 +95,7 @@ locTable{
   file:t="%lang/13a_SIL_miscellaneous.csv"
   file:t="%lang/13b_SIL_miscellaneous_inf.csv"
   file:t="%lang/SIL_cn_desig.csv"
+  file:t="%lang/SIL_cyr_desig.csv"
   file:t="%lang/SIL_fin_desig.csv"
   file:t="%lang/SIL_isr_desig.csv"
   file:t="%lang/SIL_nato_name.csv"

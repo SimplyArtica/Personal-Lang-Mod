@@ -1,4 +1,4 @@
-<Common>;
+<Common>;<English>
 ;
 unlocks/group/tasks;Tasks
 item/gift_prize_trophy;Prize Trophy
@@ -58,6 +58,7 @@ unlocks/chapter/craft_2020_autumn;Wargame “Strategist”
 unlocks/chapter/craft_2021_autumn;Export Order
 unlocks/chapter/craft_2022_autumn;Project “Overpowered”
 unlocks/chapter/craft_2023_autumn;Tokushu Heiki
+unlocks/chapter/sturmtiger_dream;Dreams Come True
 ;
 unlocks/chapter/2024_02_tank;Call of the Dragon
 unlocks/chapter/2024_02_air;Sword of Justice
@@ -92,6 +93,7 @@ unlocks/chapter/2026_06_air;Wings Over Water
 unlocks/chapter/2026_07_tank;Scimitar Strike
 unlocks/chapter/2026_08_ship;Guardian of the Baltic Sea
 unlocks/chapter/2026_09_air;Space Program
+unlocks/chapter/2026_10_tank;Desert Predator
 ;
 ;
 ;
@@ -344,6 +346,15 @@ challenge_play_mission_on_it_vehicles/desc;Play 30 missions on Italian vehicles
 challenge_kill_players_planes_with_35mm_air_cannon/desc;Destroy 15 air vehicles using aircraft offensive armament with a caliber of at least 35mm
 challenge_kill_all_type_vehicles_on_fighter/desc;Destroy 5 player vehicles of each military branch while using a fighter
 challenge_win_in_top3/desc;Win 30 missions while being in the Top 3 of your team
+challenge_kill_or_assist/desc;Destroy or help allied players to destroy 250 player vehicles
+challenge_set_fire_players/desc;Set player vehicles on fire 80 times
+challenge_play_missions_on_ger_vehicles/desc;Play 30 missions in German vehicles
+challenge_kill_bombers/desc;Destroy 10 units of the specified player vehicle type: bomber
+challenge_kill_players_with_torpedo/desc;Destroy 10 player vehicles using a torpedo
+challenge_kill_3_players_without_death_on_tank_destroyer/desc;Destroy 3 player vehicles without losing your own while using a Tank Destroyer 10 times
+challenge_win_missions_while_first_place/desc;Win 25 missions while being ranked 1st on the team
+challenge_play_5_battles_in_different_nations/desc;Play 5 missions each in vehicles of 8 nations
+challenge_kill_players_with_different_mass_rockets/desc;Destroy 3 player vehicles using unguided rockets of various masses: less than 5kg, 5-40kg, more than 40kg
 ;
 ;
 ;
@@ -367,7 +378,33 @@ battlepass_season_24_challenge_all/name;Recognition of Merit
 ;
 ;
 ;
+<BP S25>;
+battlepass_season_25_challenge_1/name;Unleash Fury;
+battlepass_season_25_challenge_2/name;Claim What's Yours;
+battlepass_season_25_challenge_3/name;Steel Arsenal;
+battlepass_season_25_challenge_4/name;Flame of Wrath;
+battlepass_season_25_challenge_5/name;Horrors of the Black Forest;
+battlepass_season_25_challenge_6/name;Big Game;
+battlepass_season_25_challenge_7/name;Underwater Threat;
+battlepass_season_25_challenge_8/name;Monsters of Iron;
+battlepass_season_25_challenge_9/name;A Master of Their Craft;
+battlepass_season_25_challenge_10/name;Sea Hunter;
+battlepass_season_25_challenge_11/name;Ambush Master;
+battlepass_season_25_challenge_12/name;Significant Contribution;
+battlepass_season_25_challenge_13/name;Encyclopedia of Predators;
+battlepass_season_25_challenge_14/name; Cast the Bait;
+battlepass_season_25_challenge_all/name;A Well Earned Trophy;
+;
+;
+;
 <Misc>;
 ;
 nuclear_escalation;Nuclear Escalation
 helicopter_pve_H2M;[PvE] Helicopter Battles
+item/gift_anniversary_2026_plane;Mistel 2
+gift_anniversary_2026_plane/desc;Get the Mistel 2 for completing this task
+item/gift_anniversary_2026_decal_trophy;"Father and Son" and the "Child with a bomb" decals
+item/gift_anniversary_2026_avatar_frame_trophy;"Mistletoe" profile icon frame
+gift_avatar_frame/desc; Get a profile icon fraMe for completing this task
+item/gift_anniversary_2026_skin_trophy;Special camouflage for Mistel 2
+gift_skin_trophy/desc;Get the special camouflage for completing this task

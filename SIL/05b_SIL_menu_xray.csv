@@ -1,4 +1,4 @@
-<code>;<translation>
+<Code>;<English>
 ;
 <ERAs>;
 ;
@@ -1363,6 +1363,19 @@ engine_model/arriel_2e;Arriel 2E
 engine_model/ha_214;Ha-214
 engine_model/j65-w-420;J65-W-420
 engine_model/ws_10b_series_3;WS10B Series 3
+engine_model/4001;4001
+engine_model/merlin-23;Merlin-23
+engine_model/Merlin_30;Merlin-30
+engine_model/hs_110;HS 110
+engine_model/hs_110_2;HS 110-2
+engine_model/hs_110_s2;HS 110-S2
+engine_model/mack_e9;MACK E9
+engine_model/l60_mk_4a;L60 Mk 4a
+engine_model/l60_mk_4b;L60 Mk 4b
+engine_model/l60_mk_7;L60 Mk 7
+engine_model/l60_mk_13;L60 Mk 13
+engine_model/CT7-8E;CT7-8E
+engine_model/sa_12200_vd;SA 12200 VD
 ;
 ;
 ;
@@ -1390,6 +1403,11 @@ transmission_model/3200_sp;3200 SP
 transmission_model/friedrichshafen_lsg_2000;Friedrichshafen LSG 2000
 transmission_model/zf_7hp_902;ZF 7HP 902
 transmission_model/tn_15e;TN15E
+transmission_model/enc_200;ENC 200;
+transmission_model/bv_5_sd_200_d;BV 5 SD
+transmission_model/tn_12;TN12
+transmission_model/tn_12_mk3;TN12 Mk3
+transmission_model/tn_37;TN37
 ;
 ;
 ;
@@ -1506,6 +1524,7 @@ sensors/us_an_apg_76_an_asx_1;AN/APG-76
 sensors/us_an_apg_78;AN/APG-78
 sensors/us_an_apg_78_v6;AN/APG-78(V)6
 sensors/us_an_apg_79;AN/APG-79
+sensors/us_an_apg_82_v_1;AN/APG-82(V)1
 sensors/us_an_apg_83;AN/APG-83 SABR
 sensors/us_an_apq_159_v;AN/APQ-159(V)
 ;
@@ -1758,7 +1777,8 @@ sensors/us_an_apr_39a_v1_apr_48;AN/APR-39A(V)1
 sensors/us_an_alr_45v;AN/ALR-45(V)
 sensors/us_an_alr_46_v3_f_5th;AN/ALR-46(V)3
 sensors/us_an_alr_56m;AN/ALR-56M
-sensors/us_an_alr_67;AN/ALR-67(V)2
+sensors/us_an_alr_67;AN/ALR-67(V)
+sensors/us_epawss;AN/ALQ-250 EPAWSS
 ;
 sensors/su_spo-2;SPO-2
 sensors/su_spo-10;SPO-10
@@ -1828,6 +1848,7 @@ counterMeasures/l_166;L-166
 counterMeasures/l_166_c1;L-166C1
 counterMeasures/l_370;L-370-5
 counterMeasures/l_370v28_5l;L-370V28-5L
+counterMeasures/l_370v52;L-370V52
 counterMeasures/lsz_8vn;LSZ-8VN
 counterMeasures/cn_z_10me;DIRCM
 ;
