@@ -1,4 +1,4 @@
-<_Common_Lang>;
+<_Common_Lang>;<English>
 ;
 activityFeed/purchase_unit;{player} has purchased a {unitName} of rank {rank} ({country}).
 activityFeed/purchase_unit/condensed;{player} has purchased {count} vehicles.
