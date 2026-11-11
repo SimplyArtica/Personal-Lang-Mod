@@ -4,7 +4,18 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 
 
 
-## **2.2.0.0 WIP**
+## **2.2.0.1**
+
+- ### Fixes:
+
+	- Added FS Mk. 1 name
+	- Added FS Mk. 3 name
+	- Corrected code for PV M 39
+
+
+
+
+## **2.2.0.0**
 
 - ### Vehicle Changes:
 
