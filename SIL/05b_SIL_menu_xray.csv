@@ -1408,6 +1408,7 @@ transmission_model/bv_5_sd_200_d;BV 5 SD
 transmission_model/tn_12;TN12
 transmission_model/tn_12_mk3;TN12 Mk3
 transmission_model/tn_37;TN37
+transmission_model/mt_75t;MT-75T
 ;
 ;
 ;
@@ -1890,3 +1891,4 @@ aps/raam_segol;Ra’am Segol
 sensors/us_an_aps_4;A.S.V. Mk.IX
 sensors/us_md_1a;MD-1A
 sensors/su_spo-150_esm;ESM L-150
+sensors/cn_hljp_345_ai;H/LJP-345
