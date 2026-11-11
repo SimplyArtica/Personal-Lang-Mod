@@ -3246,6 +3246,11 @@ mi_24p_german_hfs80_2;◄Mi-24;
 ;;
 <DEU Aviation>;;
 ;;
+fokker_d7_shop;D.VII;
+fokker_d7_0;"<color=#87a4f5>N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker</color>
+D.VII";
+fokker_d7_1;D.VII;
+fokker_d7_2;D.VII;
 bf-109b_2_shop;Bf 109 B-1;
 bf-109b_2_0;"<color=#87a4f5>Bayerische Flugzeugwerke</color>
 Bf 109 B-1";
@@ -12702,6 +12707,11 @@ Rafale C
 <color=#c0c0c0>F3R Standard</color>";
 rafale_c_f3_1;Rafale C;
 rafale_c_f3_2;Rafale;
+spad_s13_shop;S.XIII;
+spad_s13_0;"<color=#87a4f5>Société Pour L'Aviation et ses Dérivés</color>
+S.XIII";
+spad_s13_1;S.XIII;
+spad_s13_2;S.XIII;
 d_500_shop;D.500;
 d_500_0;"<color=#87a4f5>Société Aéronautique Française (Avions Dewoitine)</color>
 D.500";
