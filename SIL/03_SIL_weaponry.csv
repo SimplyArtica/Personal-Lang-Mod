@@ -2808,9 +2808,9 @@ weapons/il_500_50_kg_gp;500/50 G.P. bomb
 <Cluster Bombs>;
 ;
 weapons/us_cbu_58b/short;CBU-58/B;
-weapons/us_cbu_58b;Bomb, 800lb, Cluster, CBU-58/B
+weapons/us_cbu_58b;Bomb, Cluster, CBU-58/B
 weapons/us_cbu_87b/short;CBU-87/B;
-weapons/us_cbu_87b;Bomb, 950lb, Cluster, CBU-87/B Combined Effects Munition;
+weapons/us_cbu_87b;Bomb, Cluster, CBU-87/B Combined Effects Munition;
 ;
 weapons/su_rbk_500_ao_2_5rtm/short;RBK-500 (ShoAB-0.5)
 weapons/su_rbk_500_ao_2_5rtm;500 kg RBK-500 (ShoAB-0.5) cluster bomb
