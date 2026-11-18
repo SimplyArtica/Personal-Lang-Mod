@@ -466,10 +466,10 @@ us_m3a1_stuart_usmc_0;"Tank, Light, M3A1
 <color=#fcba03>United States Marine Corps</color>";
 us_m3a1_stuart_usmc_1;M3A1 (USMC);
 us_m3a1_stuart_usmc_2;Light Tank;
-us_m3a1_stuart_nvidia_shop;M3A1 [TD];
+us_m3a1_stuart_nvidia_shop;M3A1;
 us_m3a1_stuart_nvidia_0;"Tank, Light, M3A1
 <color=#849eb0>General stuart</color>
-<color=#9146ff>Twitch Drop</color>";
+<color=#76B900>NVIDIA</color>";
 us_m3a1_stuart_nvidia_1;M3A1;
 us_m3a1_stuart_nvidia_2;Light Tank;
 us_mk1_grant_shop;▃Grant Mk.I;
@@ -1232,7 +1232,8 @@ fa_18a_1;F/A-18A;
 fa_18a_2;F/A-18;
 fa_18c_late_shop;F/A-18C-48;
 fa_18c_late_0;"<color=#87a4f5>McDonnell Douglas Corporation</color>
-F/A-18C-48-MC Hornet";
+F/A-18C-48-MC Hornet
+<color=#c0c0c0>Lot 18</color>";
 fa_18c_late_1;F/A-18C;
 fa_18c_late_2;F/A-18;
 f_14a_early_shop;F-14A-65;
@@ -1512,7 +1513,7 @@ f_15e_2;F-15;
 f_15ex_shop;F-15EX;
 f_15ex_0;"<color=#87a4f5>Boeing Defense, Space & Security</color>
 F-15EX-BO Eagle II
-<color=#c0c0c0>Lot 7</color>";
+<color=#c0c0c0>Lot 1</color>";
 f_15ex_1;F-15E;
 f_15ex_2;F-15;
 f3f-2_galer_shop;Galer's F3F-2;
@@ -1541,7 +1542,7 @@ f2a-1_thach_2;F2A;
 f2a-1_nvidia_shop;F2A-1;
 f2a-1_nvidia_0;"<color=#87a4f5>Brewster Aeronautical Corporation</color>
 F2A-1 Buffalo
-<color=#9146ff>Twitch Drop</color>";
+<color=#76B900>NVIDIA</color>";
 f2a-1_nvidia_1;F2A-1;
 f2a-1_nvidia_2;F2A;
 b_10b_shop;B-10B;
@@ -1839,7 +1840,8 @@ f_117_1;F-117A;
 f_117a_2;F-117;
 fa_18c_early_shop;F/A-18C-30;
 fa_18c_early_0;"<color=#87a4f5>McDonnell Douglas Corporation</color>
-F/A-18C-30-MC Hornet";
+F/A-18C-30-MC Hornet
+<color=#c0c0c0>Lot 12</color>";
 fa_18c_early_1;F/A-18C;
 fa_18c_early_2;F/A-18;
 f_14d_shop;F-14D-160;
@@ -1865,7 +1867,8 @@ b_52h_1;B-52H;
 b_52h_2;B-52;
 fa_18d_late_shop;F/A-18D-52;
 fa_18d_late_0;"<color=#87a4f5>Boeing Military Aircraft Company</color>
-F/A-18D-52-MC Hornet";
+F/A-18D-52-MC Hornet
+<color=#c0c0c0>Lot 20</color>";
 fa_18d_late_1;F/A-18D;
 fa_18d_late_2;F/A-18;
 ;;
@@ -2335,11 +2338,11 @@ us_elco_80ft_pt109_boat_shop;PT-109;
 us_elco_80ft_pt109_boat_0;Elco 80’ Motor Torpedo Boat, PT-109;
 us_elco_80ft_pt109_boat_1;PT-109;
 us_elco_80ft_pt109_boat_2;Motor Torpedo Boat;
-PLACEHOLDER_shop;Marfa;
-PLACEHOLDER_0;"<color=#87a4f5>PCE-842 Class Patrol Craft Escort</color>
-USS Marfa (PCE-842)";
-PLACEHOLDER_1;Marfa;
-PLACEHOLDER_2;Subchaser;
+us_pce_842_class_shop;PCE-842;
+us_pce_842_class_0;"<color=#87a4f5>PCE-842 Class Patrol Craft Escort</color>
+USS PCE-842";
+us_pce_842_class_1;PCE-842;
+us_pce_842_class_2;Subchaser;
 ;;
 ;;
 ;;
@@ -12707,11 +12710,11 @@ Rafale C
 <color=#c0c0c0>F3R Standard</color>";
 rafale_c_f3_1;Rafale C;
 rafale_c_f3_2;Rafale;
-spad_s13_shop;S.XIII;
-spad_s13_0;"<color=#87a4f5>Société Pour L'Aviation et ses Dérivés</color>
-S.XIII";
-spad_s13_1;S.XIII;
-spad_s13_2;S.XIII;
+spad_13_shop;S. XIII;
+spad_13_0;"<color=#87a4f5>Société Pour L'Aviation et ses Dérivés</color>
+S. XIII";
+spad_13_1;S. XIII;
+spad_13_2;S. XIII;
 d_500_shop;D.500;
 d_500_0;"<color=#87a4f5>Société Aéronautique Française (Avions Dewoitine)</color>
 D.500";
@@ -15074,17 +15077,17 @@ ca_27_mk32_raaf_0;"<color=#87a4f5>Commonwealth Aircraft Corporation</color>
 ╨CA-27 Sabre Mk.32";
 ca_27_mk32_raaf_1;╨Sabre Mk.32;
 ca_27_mk32_raaf_2;╨Sabre;
-fa_18a_raaf_shop;╨F/A-18A-15;
+fa_18a_raaf_shop;╨AF/A-18A-15;
 fa_18a_raaf_0;"<color=#87a4f5>Aerospace Technologies of Australia</color>
-╨F/A-18A-15-MC Hornet";
-fa_18a_raaf_1;╨F/A-18A;
-fa_18a_raaf_2;╨F/A-18;
-fa_18a_hug_2_raaf_shop;╨F/A-18A-28 (HUG);
+╨AF/A-18A-15-MC Hornet";
+fa_18a_raaf_1;╨AF/A-18A;
+fa_18a_raaf_2;╨AF/A-18;
+fa_18a_hug_2_raaf_shop;╨AF/A-18A-28 (HUG);
 fa_18a_hug_2_raaf_0;"<color=#87a4f5>Aerospace Technologies of Australia</color>
-╨F/A-18A-28-MC Hornet
+╨AF/A-18A-28-MC Hornet
 <color=#c0c0c0>Hornet Upgrade Program 2.4</color>";
-fa_18a_hug_2_raaf_1;╨F/A-18A;
-fa_18a_hug_2_raaf_2;╨F/A-18;
+fa_18a_hug_2_raaf_1;╨AF/A-18A;
+fa_18a_hug_2_raaf_2;╨AF/A-18;
 fa_18f_block_2_raaf_shop;╨F/A-18F-2;
 fa_18f_block_2_raaf_0;"<color=#87a4f5>Boeing Defense, Space & Security</color>
 ╨F/A-18F-2-MC Super Hornet";
@@ -16947,9 +16950,9 @@ mig_29n_0;"<color=#87a4f5>Russian Aircraft Corporation Mikoyan</color>
 <color=#c0c0c0>izdeliye 9-12SD</color>";
 mig_29n_1;☉MiG-29N;
 mig_29n_2;☉MiG-29;
-fa_18d_late_malaysia_shop;☉F/A-18D-47;
+fa_18d_late_malaysia_shop;☉F/A-18D-50;
 fa_18d_late_malaysia_0;"<color=#87a4f5>McDonnell Douglas Corporation</color>
-☉F/A-18D-47-MC Hornet";
+☉F/A-18D-50-MC Hornet";
 fa_18d_late_malaysia_1;☉F/A-18D;
 fa_18d_late_malaysia_2;☉F/A-18;
 su_30mkm_shop;☉Su-30MKM;
