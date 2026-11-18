@@ -466,10 +466,10 @@ us_m3a1_stuart_usmc_0;"Tank, Light, M3A1
 <color=#fcba03>United States Marine Corps</color>";
 us_m3a1_stuart_usmc_1;M3A1 (USMC);
 us_m3a1_stuart_usmc_2;Light Tank;
-us_m3a1_stuart_nvidia_shop;M3A1 [TD];
+us_m3a1_stuart_nvidia_shop;M3A1;
 us_m3a1_stuart_nvidia_0;"Tank, Light, M3A1
 <color=#849eb0>General stuart</color>
-<color=#9146ff>Twitch Drop</color>";
+<color=#76B900>NVIDIA</color>";
 us_m3a1_stuart_nvidia_1;M3A1;
 us_m3a1_stuart_nvidia_2;Light Tank;
 us_mk1_grant_shop;▃Grant Mk.I;
@@ -1542,7 +1542,7 @@ f2a-1_thach_2;F2A;
 f2a-1_nvidia_shop;F2A-1;
 f2a-1_nvidia_0;"<color=#87a4f5>Brewster Aeronautical Corporation</color>
 F2A-1 Buffalo
-<color=#9146ff>Twitch Drop</color>";
+<color=#76B900>NVIDIA</color>";
 f2a-1_nvidia_1;F2A-1;
 f2a-1_nvidia_2;F2A;
 b_10b_shop;B-10B;
@@ -2338,11 +2338,11 @@ us_elco_80ft_pt109_boat_shop;PT-109;
 us_elco_80ft_pt109_boat_0;Elco 80’ Motor Torpedo Boat, PT-109;
 us_elco_80ft_pt109_boat_1;PT-109;
 us_elco_80ft_pt109_boat_2;Motor Torpedo Boat;
-PLACEHOLDER_shop;Marfa;
-PLACEHOLDER_0;"<color=#87a4f5>PCE-842 Class Patrol Craft Escort</color>
-USS Marfa (PCE-842)";
-PLACEHOLDER_1;Marfa;
-PLACEHOLDER_2;Subchaser;
+us_pce_842_class_shop;PCE-842;
+us_pce_842_class_0;"<color=#87a4f5>PCE-842 Class Patrol Craft Escort</color>
+USS PCE-842";
+us_pce_842_class_1;PCE-842;
+us_pce_842_class_2;Subchaser;
 ;;
 ;;
 ;;
@@ -12710,11 +12710,11 @@ Rafale C
 <color=#c0c0c0>F3R Standard</color>";
 rafale_c_f3_1;Rafale C;
 rafale_c_f3_2;Rafale;
-spad_s13_shop;S.XIII;
-spad_s13_0;"<color=#87a4f5>Société Pour L'Aviation et ses Dérivés</color>
-S.XIII";
-spad_s13_1;S.XIII;
-spad_s13_2;S.XIII;
+spad_13_shop;S. XIII;
+spad_13_0;"<color=#87a4f5>Société Pour L'Aviation et ses Dérivés</color>
+S. XIII";
+spad_13_1;S. XIII;
+spad_13_2;S. XIII;
 d_500_shop;D.500;
 d_500_0;"<color=#87a4f5>Société Aéronautique Française (Avions Dewoitine)</color>
 D.500";

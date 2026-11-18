@@ -8,6 +8,8 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 
  - ### Vehicle Changes:
 
+	- Added proper names to the new Nvidia collab vehicles (F2A-1 and M3A1)
+	- Added PCE-842 string for the Coastal Defender event
 	- F/A-18C-30: Added lot number to stat card (Lot 12)
 	- F/A-18C-48: Added lot number to stat card (Lot 18)
 	- F/A-18D-52: Added lot number to stat card (Lot 20)
@@ -20,8 +22,8 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 
  - ### Fixes:
 
-	- Reverted J16 RWR fix (it didn't work :/)
-	- Correcte stat card of CBU-58/B and CBU-87/B (removed erroneous inclusion of weight class)
+	- Corrected stat card of CBU-58/B and CBU-87/B (removed erroneous inclusion of weight class)
+	- Corrected bug which prevented S. XIII from being renamed.
 
 
 
